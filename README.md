@@ -1,5 +1,7 @@
 # 舆图集 · 通用库数据 / Yutuji Historical Atlas — Open Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23010865.svg)](https://doi.org/10.5281/zenodo.23010865)
+
 704 处地点、155 位人物、393 件事、263 部所引之书。每一条年份、地点、事件都注明出处，按 A—D 分级。数据来自 [舆图集](https://yutuji.com/)（手绘历史地图的中文刊物，by COZLABS），与站上 [/data/](https://yutuji.com/data/) 同一份。
 
 704 places, 155 people, 393 events and 263 cited works from the Yutuji historical atlas (https://yutuji.com/). Every date, place and event carries its source and a reliability grade (A–D). Field names are English; values are Chinese, with English names for places and people (`name_en`). English notes: https://yutuji.com/data/en/
@@ -117,10 +119,10 @@ Record ids are permanent and map to stable URLs on the site.
 
 ## 引用 / Citation
 
-COZLABS. 舆图集 · 通用库数据（Yutuji Historical Atlas — Open Data）, 版本 2026.09.28. https://yutuji.com/data/
+COZLABS. 舆图集 · 通用库数据（Yutuji Historical Atlas — Open Data）, 版本 2026.09.28. Zenodo. https://doi.org/10.5281/zenodo.23010865
 
-每个版本由 Zenodo 存档并给 DOI，见本仓库的 Releases 与右侧 “Cite this repository”。
-Each release is archived on Zenodo with a DOI; see Releases or “Cite this repository”.
+每个版本由 Zenodo 存档。上面这个 DOI 指「所有版本」，总解析到最新一版；要引某一版，用 Zenodo 页上那一版自己的 DOI。
+Each release is archived on Zenodo. The DOI above covers all versions and resolves to the latest; each version also has its own DOI on Zenodo.
 
 ## 许可 / License
 
