@@ -1,0 +1,35 @@
+{
+ "title": "舆图集 · 通用库数据 (Yutuji Historical Atlas — Open Data)",
+ "upload_type": "dataset",
+ "license": "cc-by-4.0",
+ "version": "2026.09.28",
+ "creators": [
+  {
+   "name": "COZLABS"
+  }
+ ],
+ "description": "<p>704 places, 155 people, 393 events and 263 cited works from the Yutuji historical atlas (<a href=\"https://yutuji.com/\">https://yutuji.com</a>), a Chinese-language series of hand-drawn historical maps. Every date, place and event carries its source and a reliability grade (A–D). JSON and CSV.</p><p>704 处地点、155 位人物、393 件事、263 部所引之书，每条注明出处与 A—D 可信度分级。</p>",
+ "keywords": [
+  "historical geography",
+  "Chinese history",
+  "historical GIS",
+  "gazetteer",
+  "place names",
+  "digital humanities",
+  "历史地理",
+  "古今地名"
+ ],
+ "language": "zho",
+ "related_identifiers": [
+  {
+   "identifier": "https://yutuji.com/data/",
+   "relation": "isSupplementTo",
+   "resource_type": "dataset"
+  },
+  {
+   "identifier": "https://yutuji.com/",
+   "relation": "isDocumentedBy",
+   "resource_type": "publication-other"
+  }
+ ]
+}

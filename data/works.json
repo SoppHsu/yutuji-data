@@ -1,0 +1,2039 @@
+{
+ "_meta": {
+  "title": "所引之书",
+  "format": "cozlab-atlas/1",
+  "updated": "2026-09-20",
+  "note": "全库 cite 归总用的名录。title 为通行书名；aliases 是库里出现过的别称、简称；kind 粗分类；author、era 为通行说法，供总目页显示。库里出现而名录没有的书，用 python3 tools/works.py --sync 补入空条目。"
+ },
+ "works": [
+  {
+   "title": "大唐西域记",
+   "aliases": [
+    "西域记"
+   ],
+   "kind": "行记",
+   "author": "玄奘述，辩机撰",
+   "era": "唐 646"
+  },
+  {
+   "title": "大唐大慈恩寺三藏法师传",
+   "aliases": [
+    "慈恩传",
+    "三藏法师传"
+   ],
+   "kind": "僧传",
+   "author": "慧立、彦悰",
+   "era": "唐 688"
+  },
+  {
+   "title": "南朝寺考",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "刘世珩",
+   "era": "清"
+  },
+  {
+   "title": "咸淳临安志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "潜说友",
+   "era": "宋 咸淳"
+  },
+  {
+   "title": "乾道临安志",
+   "aliases": [
+    "乾道志"
+   ],
+   "kind": "方志",
+   "author": "周淙",
+   "era": "宋 乾道"
+  },
+  {
+   "title": "淳祐临安志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "施谔",
+   "era": "宋 淳祐"
+  },
+  {
+   "title": "高僧传",
+   "aliases": [
+    "梁高僧传"
+   ],
+   "kind": "僧传",
+   "author": "慧皎",
+   "era": "梁"
+  },
+  {
+   "title": "续高僧传",
+   "aliases": [
+    "唐高僧传"
+   ],
+   "kind": "僧传",
+   "author": "道宣",
+   "era": "唐"
+  },
+  {
+   "title": "宋高僧传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "赞宁",
+   "era": "宋"
+  },
+  {
+   "title": "大明高僧传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "如惺",
+   "era": "明"
+  },
+  {
+   "title": "新续高僧传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "喻谦",
+   "era": "民国"
+  },
+  {
+   "title": "比丘尼传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "宝唱",
+   "era": "梁"
+  },
+  {
+   "title": "名僧传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "宝唱",
+   "era": "梁"
+  },
+  {
+   "title": "宋史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "脱脱等",
+   "era": "元"
+  },
+  {
+   "title": "梦粱录",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "吴自牧",
+   "era": "宋"
+  },
+  {
+   "title": "武林旧事",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "周密",
+   "era": "宋"
+  },
+  {
+   "title": "都城纪胜",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "耐得翁",
+   "era": "宋"
+  },
+  {
+   "title": "繁胜录",
+   "aliases": [
+    "西湖老人繁胜录"
+   ],
+   "kind": "笔记",
+   "author": "西湖老人",
+   "era": "宋"
+  },
+  {
+   "title": "癸辛杂识",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "周密",
+   "era": "宋"
+  },
+  {
+   "title": "齐东野语",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "周密",
+   "era": "宋"
+  },
+  {
+   "title": "海国图志",
+   "aliases": [],
+   "kind": "地志",
+   "author": "魏源",
+   "era": "清 1842／1847／1852"
+  },
+  {
+   "title": "瀛环志略",
+   "aliases": [
+    "瀛寰志略",
+    "瀛環志略"
+   ],
+   "kind": "地志",
+   "author": "徐继畬",
+   "era": "清 1848"
+  },
+  {
+   "title": "建康实录",
+   "aliases": [],
+   "kind": "史书",
+   "author": "许嵩",
+   "era": "唐"
+  },
+  {
+   "title": "景定建康志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "周应合",
+   "era": "宋 景定"
+  },
+  {
+   "title": "至正金陵新志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "张铉",
+   "era": "元 至正"
+  },
+  {
+   "title": "金陵梵刹志",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "葛寅亮",
+   "era": "明"
+  },
+  {
+   "title": "南朝佛寺志",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "孙文川撰，陈作霖编",
+   "era": "清"
+  },
+  {
+   "title": "明史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "张廷玉等",
+   "era": "清"
+  },
+  {
+   "title": "清史稿",
+   "aliases": [],
+   "kind": "正史",
+   "author": "赵尔巽等",
+   "era": "民国"
+  },
+  {
+   "title": "汉书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "班固",
+   "era": "汉"
+  },
+  {
+   "title": "后汉书",
+   "aliases": [
+    "续汉书"
+   ],
+   "kind": "正史",
+   "author": "范晔；志为司马彪《续汉书》",
+   "era": "南朝宋"
+  },
+  {
+   "title": "史记",
+   "aliases": [],
+   "kind": "正史",
+   "author": "司马迁",
+   "era": "汉"
+  },
+  {
+   "title": "三国志",
+   "aliases": [],
+   "kind": "正史",
+   "author": "陈寿",
+   "era": "晋"
+  },
+  {
+   "title": "魏略",
+   "aliases": [],
+   "kind": "史书",
+   "author": "鱼豢",
+   "era": "魏（佚，裴注引）"
+  },
+  {
+   "title": "晋书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "房玄龄等",
+   "era": "唐"
+  },
+  {
+   "title": "宋书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "沈约",
+   "era": "梁"
+  },
+  {
+   "title": "南齐书",
+   "aliases": [
+    "齐书"
+   ],
+   "kind": "正史",
+   "author": "萧子显",
+   "era": "梁"
+  },
+  {
+   "title": "梁书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "姚思廉",
+   "era": "唐"
+  },
+  {
+   "title": "陈书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "姚思廉",
+   "era": "唐"
+  },
+  {
+   "title": "魏书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "魏收",
+   "era": "北齐"
+  },
+  {
+   "title": "北齐书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "李百药",
+   "era": "唐"
+  },
+  {
+   "title": "南史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "李延寿",
+   "era": "唐"
+  },
+  {
+   "title": "北史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "李延寿",
+   "era": "唐"
+  },
+  {
+   "title": "隋书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "魏徵等",
+   "era": "唐"
+  },
+  {
+   "title": "旧唐书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "刘昫等",
+   "era": "后晋"
+  },
+  {
+   "title": "新唐书",
+   "aliases": [],
+   "kind": "正史",
+   "author": "欧阳修、宋祁",
+   "era": "宋"
+  },
+  {
+   "title": "新五代史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "欧阳修",
+   "era": "宋"
+  },
+  {
+   "title": "元史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "宋濂等",
+   "era": "明"
+  },
+  {
+   "title": "金史",
+   "aliases": [],
+   "kind": "正史",
+   "author": "脱脱等",
+   "era": "元"
+  },
+  {
+   "title": "资治通鉴",
+   "aliases": [],
+   "kind": "编年",
+   "author": "司马光",
+   "era": "宋"
+  },
+  {
+   "title": "建炎以来系年要录",
+   "aliases": [],
+   "kind": "编年",
+   "author": "李心传",
+   "era": "宋"
+  },
+  {
+   "title": "建炎以来朝野杂记",
+   "aliases": [],
+   "kind": "杂史",
+   "author": "李心传",
+   "era": "宋"
+  },
+  {
+   "title": "左传",
+   "aliases": [],
+   "kind": "经",
+   "author": "（旧题）左丘明",
+   "era": "先秦"
+  },
+  {
+   "title": "国语",
+   "aliases": [],
+   "kind": "史书",
+   "author": "（旧题）左丘明",
+   "era": "先秦"
+  },
+  {
+   "title": "开元释教录",
+   "aliases": [],
+   "kind": "经录",
+   "author": "智昇",
+   "era": "唐 730"
+  },
+  {
+   "title": "出三藏记集",
+   "aliases": [],
+   "kind": "经录",
+   "author": "僧祐",
+   "era": "梁"
+  },
+  {
+   "title": "历代三宝纪",
+   "aliases": [],
+   "kind": "经录",
+   "author": "费长房",
+   "era": "隋"
+  },
+  {
+   "title": "弘明集",
+   "aliases": [],
+   "kind": "总集",
+   "author": "僧祐",
+   "era": "梁"
+  },
+  {
+   "title": "广弘明集",
+   "aliases": [],
+   "kind": "总集",
+   "author": "道宣",
+   "era": "唐"
+  },
+  {
+   "title": "释氏稽古略",
+   "aliases": [],
+   "kind": "佛史",
+   "author": "觉岸",
+   "era": "元"
+  },
+  {
+   "title": "佛祖统纪",
+   "aliases": [],
+   "kind": "佛史",
+   "author": "志磐",
+   "era": "宋"
+  },
+  {
+   "title": "释门正统",
+   "aliases": [],
+   "kind": "佛史",
+   "author": "宗鉴",
+   "era": "宋"
+  },
+  {
+   "title": "景德传灯录",
+   "aliases": [],
+   "kind": "灯录",
+   "author": "道原",
+   "era": "宋"
+  },
+  {
+   "title": "祖堂集",
+   "aliases": [],
+   "kind": "灯录",
+   "author": "静、筠",
+   "era": "五代"
+  },
+  {
+   "title": "善慧大士录",
+   "aliases": [],
+   "kind": "语录",
+   "author": "楼颖编",
+   "era": "唐"
+  },
+  {
+   "title": "隋天台智者大师别传",
+   "aliases": [
+    "智者大师别传"
+   ],
+   "kind": "僧传",
+   "author": "灌顶",
+   "era": "隋"
+  },
+  {
+   "title": "国清百录",
+   "aliases": [],
+   "kind": "文书",
+   "author": "灌顶编",
+   "era": "隋"
+  },
+  {
+   "title": "高僧法显传",
+   "aliases": [
+    "法显传",
+    "佛国记"
+   ],
+   "kind": "行记",
+   "author": "法显",
+   "era": "东晋"
+  },
+  {
+   "title": "唐大和上东征传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "真人元开",
+   "era": "日本 779"
+  },
+  {
+   "title": "西湖游览志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "田汝成",
+   "era": "明"
+  },
+  {
+   "title": "西湖游览志余",
+   "aliases": [],
+   "kind": "方志",
+   "author": "田汝成",
+   "era": "明"
+  },
+  {
+   "title": "吴郡志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "范成大",
+   "era": "宋"
+  },
+  {
+   "title": "宝庆四明志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "罗濬",
+   "era": "宋 宝庆"
+  },
+  {
+   "title": "嘉泰会稽志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "施宿",
+   "era": "宋 嘉泰"
+  },
+  {
+   "title": "嘉定镇江志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "卢宪",
+   "era": "宋 嘉定"
+  },
+  {
+   "title": "吴越备史",
+   "aliases": [],
+   "kind": "史书",
+   "author": "钱俨",
+   "era": "宋"
+  },
+  {
+   "title": "六朝事迹编类",
+   "aliases": [
+    "六朝事迹"
+   ],
+   "kind": "地志",
+   "author": "张敦颐",
+   "era": "宋"
+  },
+  {
+   "title": "元和郡县图志",
+   "aliases": [],
+   "kind": "地志",
+   "author": "李吉甫",
+   "era": "唐"
+  },
+  {
+   "title": "太平寰宇记",
+   "aliases": [],
+   "kind": "地志",
+   "author": "乐史",
+   "era": "宋"
+  },
+  {
+   "title": "读史方舆纪要",
+   "aliases": [],
+   "kind": "地志",
+   "author": "顾祖禹",
+   "era": "清"
+  },
+  {
+   "title": "水经注",
+   "aliases": [],
+   "kind": "地志",
+   "author": "郦道元",
+   "era": "北魏"
+  },
+  {
+   "title": "洛阳伽蓝记",
+   "aliases": [],
+   "kind": "地志",
+   "author": "杨衒之",
+   "era": "北魏"
+  },
+  {
+   "title": "通典",
+   "aliases": [],
+   "kind": "政书",
+   "author": "杜佑",
+   "era": "唐"
+  },
+  {
+   "title": "宋会要辑稿",
+   "aliases": [],
+   "kind": "政书",
+   "author": "徐松辑",
+   "era": "清"
+  },
+  {
+   "title": "太平御览",
+   "aliases": [],
+   "kind": "类书",
+   "author": "李昉等",
+   "era": "宋"
+  },
+  {
+   "title": "艺文类聚",
+   "aliases": [],
+   "kind": "类书",
+   "author": "欧阳询",
+   "era": "唐"
+  },
+  {
+   "title": "永乐大典",
+   "aliases": [],
+   "kind": "类书",
+   "author": "解缙等",
+   "era": "明"
+  },
+  {
+   "title": "四库全书总目",
+   "aliases": [
+    "四库提要"
+   ],
+   "kind": "目录",
+   "author": "纪昀等",
+   "era": "清"
+  },
+  {
+   "title": "马可波罗行纪",
+   "aliases": [
+    "马可",
+    "马可·波罗行纪",
+    "行纪"
+   ],
+   "kind": "行记",
+   "author": "马可·波罗口述，鲁斯蒂谦笔录",
+   "era": "元 约 1298",
+   "prefixes": [
+    "Marco Polo, The Book of Ser Marco Polo"
+   ]
+  },
+  {
+   "title": "金楼子",
+   "aliases": [],
+   "kind": "子书",
+   "author": "萧绎",
+   "era": "梁"
+  },
+  {
+   "title": "东坡全集",
+   "aliases": [],
+   "kind": "文集",
+   "author": "苏轼",
+   "era": "宋"
+  },
+  {
+   "title": "文山集",
+   "aliases": [],
+   "kind": "文集",
+   "author": "文天祥",
+   "era": "宋"
+  },
+  {
+   "title": "剑南诗稿",
+   "aliases": [],
+   "kind": "文集",
+   "author": "陆游",
+   "era": "宋"
+  },
+  {
+   "title": "世说新语",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "刘义庆",
+   "era": "南朝宋"
+  },
+  {
+   "title": "酉阳杂俎",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "段成式",
+   "era": "唐"
+  },
+  {
+   "title": "梦溪笔谈",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "沈括",
+   "era": "宋"
+  },
+  {
+   "title": "鹤林玉露",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "罗大经",
+   "era": "宋"
+  },
+  {
+   "title": "南村辍耕录",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "陶宗仪",
+   "era": "元"
+  },
+  {
+   "title": "齐民要术",
+   "aliases": [],
+   "kind": "农书",
+   "author": "贾思勰",
+   "era": "北魏"
+  },
+  {
+   "title": "博物志",
+   "aliases": [],
+   "kind": "笔记",
+   "author": "张华",
+   "era": "晋"
+  },
+  {
+   "title": "岛夷志略",
+   "aliases": [],
+   "kind": "地志",
+   "author": "汪大渊",
+   "era": "元"
+  },
+  {
+   "title": "诸蕃志",
+   "aliases": [],
+   "kind": "地志",
+   "author": "赵汝适",
+   "era": "宋"
+  },
+  {
+   "title": "东西洋考",
+   "aliases": [],
+   "kind": "地志",
+   "author": "张燮",
+   "era": "明"
+  },
+  {
+   "title": "海录",
+   "aliases": [],
+   "kind": "地志",
+   "author": "谢清高口述，杨炳南笔录",
+   "era": "清"
+  },
+  {
+   "title": "坤舆图说",
+   "aliases": [],
+   "kind": "地志",
+   "author": "南怀仁",
+   "era": "清 1674"
+  },
+  {
+   "title": "经行记",
+   "aliases": [],
+   "kind": "行记",
+   "author": "杜环（佚，《通典》引）",
+   "era": "唐"
+  },
+  {
+   "title": "皇华四达记",
+   "aliases": [],
+   "kind": "地志",
+   "author": "贾耽（佚，《新唐书》引）",
+   "era": "唐"
+  },
+  {
+   "title": "历代名画记",
+   "aliases": [],
+   "kind": "画史",
+   "author": "张彦远",
+   "era": "唐"
+  },
+  {
+   "title": "法书要录",
+   "aliases": [],
+   "kind": "书学",
+   "author": "张彦远",
+   "era": "唐"
+  },
+  {
+   "title": "宣和书谱",
+   "aliases": [],
+   "kind": "书学",
+   "author": "（宋内府）",
+   "era": "宋"
+  },
+  {
+   "title": "集古录",
+   "aliases": [],
+   "kind": "金石",
+   "author": "欧阳修",
+   "era": "宋"
+  },
+  {
+   "title": "金石录",
+   "aliases": [],
+   "kind": "金石",
+   "author": "赵明诚",
+   "era": "宋"
+  },
+  {
+   "title": "全唐文",
+   "aliases": [],
+   "kind": "总集",
+   "author": "董诰等",
+   "era": "清"
+  },
+  {
+   "title": "全唐诗",
+   "aliases": [],
+   "kind": "总集",
+   "author": "彭定求等",
+   "era": "清"
+  },
+  {
+   "title": "开河记",
+   "aliases": [],
+   "kind": "传奇",
+   "author": "（旧题）韩偓",
+   "era": "唐宋"
+  },
+  {
+   "title": "西游记",
+   "aliases": [],
+   "kind": "小说",
+   "author": "（旧题）吴承恩",
+   "era": "明"
+  },
+  {
+   "title": "京杭运河史",
+   "aliases": [],
+   "kind": "今人",
+   "author": "姚汉源",
+   "era": "1998"
+  },
+  {
+   "title": "中国历史地图集",
+   "aliases": [],
+   "kind": "今人",
+   "author": "谭其骧主编",
+   "era": "1982"
+  },
+  {
+   "title": "南宋元明禅林僧宝传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "自融",
+   "era": "清"
+  },
+  {
+   "title": "护法录",
+   "aliases": [],
+   "kind": "文集",
+   "author": "宋濂",
+   "era": "明"
+  },
+  {
+   "title": "增集续传灯录",
+   "aliases": [],
+   "kind": "灯录",
+   "author": "南石文琇",
+   "era": "明"
+  },
+  {
+   "title": "武林梵志",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "吴之鲸",
+   "era": "明"
+  },
+  {
+   "title": "灵隐寺志",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "孙治",
+   "era": "清"
+  },
+  {
+   "title": "天台山方外志",
+   "aliases": [],
+   "kind": "寺志",
+   "author": "传灯",
+   "era": "明"
+  },
+  {
+   "title": "唐才子传",
+   "aliases": [],
+   "kind": "传记",
+   "author": "辛文房",
+   "era": "元"
+  },
+  {
+   "title": "莲社高贤传",
+   "aliases": [],
+   "kind": "僧传",
+   "author": "（旧题）",
+   "era": "宋"
+  },
+  {
+   "title": "汉魏两晋南北朝佛教史",
+   "aliases": [],
+   "kind": "今人",
+   "author": "汤用彤",
+   "era": "1938"
+  },
+  {
+   "title": "金石录后序",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "国保通览丨临安城遗址",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "省諐録",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "稼轩先生年谱",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "吴地记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "华严经跋",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "朱子年谱",
+   "aliases": [],
+   "kind": "年谱",
+   "author": "王懋竑",
+   "era": "清",
+   "note": ""
+  },
+  {
+   "title": "兰亭记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈四洲志〉：近代中国最早的百科全书",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "尚书故实",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "周草窗年谱",
+   "aliases": [],
+   "kind": "年谱",
+   "author": "夏承焘",
+   "era": "1955",
+   "note": ""
+  },
+  {
+   "title": "摄山栖霞寺碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "东坡先生年谱",
+   "aliases": [],
+   "kind": "年谱",
+   "author": "王宗稷",
+   "era": "宋",
+   "note": ""
+  },
+  {
+   "title": "杭州乞度牒开西湖状",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "「丝绸之路」概念的形成及其在中国的传播",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "云门寺记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "京师寺记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "历代法宝记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "钱塘六井记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "临安春雨初霁",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "宁宗纪二",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "京杭运河志（苏北段）",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "江口晤林少穆制府",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "书断",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "指南录后序",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "汴河怀古二首",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "魏源生平概述",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "魏源“师夷长技以制夷”思想再探",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈海国图志〉初刻本刊行年代新考",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "西史东渐与中国史学演进（1840—1927）",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "宁波江北岸与晚清西学传播",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "古微堂诗集",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "明征君碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "万寿阁记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "湖隐方圆叟舍利铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "“西游戏”与〈西游记〉的传播",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈西游记〉平话与〈西游记〉的民间性",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "天界善世禅寺第四代觉原禅师遗衣塔铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "元故演福教寺住持瞽庵讲师示公道行碑铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "日本梦窗正宗普济国师碑铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "看，杭州的十座城门复原了！",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "南宋京城四图中的厢与坊",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "景灵宫",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "高宗纪九",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "礼志十",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "唐义士传",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "百官志七",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "白氏长庆集",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "发愿文",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "二入四行论",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "表忠观碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "高宗纪三",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "打马图经序",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "武陵春",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "陆游年谱",
+   "aliases": [],
+   "kind": "年谱",
+   "author": "于北山",
+   "era": "1961",
+   "note": ""
+  },
+  {
+   "title": "夜归塼街巷书事",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "辛弃疾传",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "稼轩词编年笺注",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "纪年录",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "过零丁洋",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "关于马可波罗离华的一段汉文记载",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "故巩县令白府君事状",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "汴河路有感",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "隋堤柳",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "茅城驿",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "长相思",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "蒋友仁的〈坤舆全图〉与〈地球图说〉",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "Bits of Old China",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈海国图志〉的三个版本考论",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈海国图志〉的三个版本",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "墙内开花墙外香：〈海国图志〉在日本的流传与命运",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "重刻海国图志序",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "嘉兴府志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "中国历史地理概述",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "中国大运河",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "舆地志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "无锡县志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "惠山寺记",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "姑苏志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "寒山寺志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "长洲县志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "招韬光禅师",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "云栖志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "莲池大师塔铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "明州阿育王山志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "天童寺志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "北魏洛阳永宁寺",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "龙门石窟",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "后魏孝文帝故希玄寺之碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "巩县石窟寺",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "响堂山石窟",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "天龙山石窟分期研究",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "秦州天水郡麦积崖佛龛铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "李克让修莫高窟佛龛碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "敦煌石窟内容总录",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "嵩岳寺碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "中国文物地图集",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "河北临漳县邺城遗址赵彭城北朝佛寺2010–2011年的发掘",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "河北邺城遗址赵彭城北朝佛寺与北吴庄佛教造像埋藏坑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "大同方山北魏永固陵",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "青州龙兴寺佛教造像窖藏清理简报",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "司空公青州刺史临淮王像碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "中国石窟",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "须弥山石窟内容总录",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "元景造像碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "韩贵和造像碑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "义县万佛堂石窟",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "河北曲阳县出土石像清理工作简报",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "曲阳白石造像研究",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "还至于阗国进表",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "玄奘三藏关联年表",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "南京沦陷时期玄奘遗骨出土始末",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "榆林窟第3窟",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "鲁迅与〈大唐三藏法师取经记〉版本之疑",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈西游记〉杂剧：对〈西游记〉戏曲阶段的再认识",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "世德堂本的版本意义",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "〈西游记〉的作者是吴承恩？",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "住持净慈禅寺孤峰德公塔铭",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "嘉定赤城志",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "南宋临安的政教调和",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "三面云山一面城",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "杭州新城碑",
+   "aliases": [],
+   "kind": "金石",
+   "author": "贡师泰",
+   "era": "元 1359",
+   "note": ""
+  },
+  {
+   "title": "南宋都城临安",
+   "aliases": [],
+   "kind": "",
+   "author": "",
+   "era": "",
+   "note": ""
+  },
+  {
+   "title": "China（Richthofen）",
+   "aliases": [],
+   "prefixes": [
+    "Richthofen, China"
+   ],
+   "kind": "今人",
+   "author": "Ferdinand von Richthofen",
+   "era": "1877",
+   "note": "「丝绸之路」一名出处"
+  },
+  {
+   "title": "伊本·白图泰游记",
+   "aliases": [],
+   "prefixes": [
+    "Ibn Baṭṭūṭa",
+    "Samuel Lee 英译 The Travels of Ibn Batuta"
+   ],
+   "kind": "行记",
+   "author": "伊本·白图泰口述，伊本·朱赞笔录",
+   "era": "1355"
+  },
+  {
+   "title": "战史（Procopius）",
+   "aliases": [],
+   "prefixes": [
+    "Procopius, History of the Wars"
+   ],
+   "kind": "史书",
+   "author": "Procopius",
+   "era": "6 世纪"
+  },
+  {
+   "title": "鄂多立克东游录",
+   "aliases": [],
+   "prefixes": [
+    "Odoric of Pordenone, Relatio"
+   ],
+   "kind": "行记",
+   "author": "鄂多立克",
+   "era": "约 1330"
+  },
+  {
+   "title": "Cathay and the Way Thither",
+   "aliases": [],
+   "prefixes": [
+    "Henry Yule, Cathay",
+    "见 Henry Yule, Cathay"
+   ],
+   "kind": "今人",
+   "author": "Henry Yule",
+   "era": "1866／1913–16"
+  },
+  {
+   "title": "天工开物",
+   "aliases": [],
+   "kind": "谱录",
+   "author": "宋应星",
+   "era": "明 1637",
+   "note": "十八卷，记物产与工艺。殆知阁本无自序。"
+  },
+  {
+   "title": "宣和乙巳奉使行程录",
+   "aliases": [
+    "奉使行程录",
+    "许亢宗行程录"
+   ],
+   "kind": "行记",
+   "author": "许亢宗",
+   "era": "宋",
+   "note": "宣和七年（乙巳，1125）许亢宗使金所上，逐程记里数与馆驿，白沟以北三十九程。原书不传，全文见《三朝北盟会编》卷二十引；《大金国志》卷四十亦收，两本各有脱简。"
+  },
+  {
+   "title": "坤舆万国全图",
+   "aliases": [
+    "坤輿萬國全圖"
+   ],
+   "kind": "地图",
+   "author": "利玛窦、李之藻",
+   "era": "明 1602"
+  },
+  {
+   "title": "职方外纪",
+   "aliases": [
+    "職方外紀"
+   ],
+   "kind": "地志",
+   "author": "艾儒略",
+   "era": "明 1623"
+  },
+  {
+   "title": "坤舆全图",
+   "aliases": [
+    "坤輿全圖"
+   ],
+   "kind": "地图",
+   "author": "南怀仁",
+   "era": "清 1674"
+  },
+  {
+   "title": "杭州府志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "陈善等纂（万历本）",
+   "era": "明 1579"
+  },
+  {
+   "title": "浙江通志",
+   "aliases": [],
+   "kind": "方志",
+   "author": "嵇曾筠、沈翼机等纂（雍正本）",
+   "era": "清 1736"
+  },
+  {
+   "title": "钱塘湖石记",
+   "aliases": [],
+   "kind": "金石",
+   "author": "白居易",
+   "era": "唐 824"
+  }
+ ]
+}

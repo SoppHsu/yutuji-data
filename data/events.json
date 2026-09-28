@@ -1,0 +1,9096 @@
+{
+ "_meta": {
+  "title": "事件",
+  "format": "cozlab-atlas/1",
+  "updated": "2026-09-28",
+  "grades": {
+   "A": "正史或同时代、隋唐僧传明确记载",
+   "B": "唐宋文献、宋元方志，或需推算的原始记载",
+   "C": "明清寺志方志、今人记述",
+   "D": "传说、推测或无法核实"
+  }
+ },
+ "events": [
+  {
+   "id": "e317-00",
+   "year": 317,
+   "title": "晋室南渡，元帝建都建康，江南成为汉地佛教新中心",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《晋书》卷六·元帝纪"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "建初寺（247年康僧会所建）为建康最早寺院，南渡后北方僧人（帛尸梨蜜多罗、竺道潜、支遁等）陆续南来。",
+   "person_ids": []
+  },
+  {
+   "id": "e326-01",
+   "year": 326,
+   "title": "传西天竺僧慧理至武林山建灵隐寺",
+   "type": "建寺",
+   "place": "钱唐（杭州）",
+   "cite": {
+    "grade": "D",
+    "source": "《咸淳临安志》卷八十（南宋）"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "lingyin",
+   "note": "六朝文献无载，为宋以后寺志传统说法；地图上宜标「传说」。",
+   "person_ids": [
+    "huili"
+   ]
+  },
+  {
+   "id": "e340-02",
+   "year": 340,
+   "title": "庾冰辅政，下诏令沙门尽敬王者，何充等奏驳，未行",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《弘明集》卷十二《庾冰与何充等议沙门不应尽敬》诸文；《高僧传》卷一·帛尸梨蜜多罗传附"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "东晋「沙门敬王」之争第一回合。",
+   "person_ids": []
+  },
+  {
+   "id": "e350-03",
+   "year": 350,
+   "title": "支遁入剡县，先后于沃洲小岭、石城山立寺讲学（约350–362）",
+   "type": "人物",
+   "place": "剡县（嵊州/新昌）",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷四·支遁传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "dafo",
+   "note": "支遁与王羲之、谢安等交游，是会稽、剡县成为东晋名士佛教中心的标志；入剡年份据传文推算；太和元年（366）卒于石城山栖光寺，年五十三（《高僧传》卷四，A级）。",
+   "person_ids": []
+  },
+  {
+   "id": "e364-04",
+   "year": 364,
+   "title": "建康瓦官寺建成，顾恺之画维摩诘像募得百万钱",
+   "type": "建寺",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷五·竺法汰传；《京师寺记》（《太平御览》引）；《历代名画记》卷五"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "waguan",
+   "note": "兴宁二年由慧力启建；竺法汰、竺道生、智顗均曾住此寺。",
+   "person_ids": []
+  },
+  {
+   "id": "e378-05",
+   "year": 378,
+   "title": "前秦围襄阳，道安分张徒众，慧远等南下荆州",
+   "type": "战乱",
+   "place": "襄阳→荆州",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷五·道安传；卷六·慧远传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "道安北入长安、慧远南下庐山，是南北佛教分途的起点。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e381-06",
+   "year": 381,
+   "title": "慧远至庐山，止西林寺",
+   "type": "人物",
+   "place": "庐山",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷六·慧远传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "入山年份为学界推算，或作384年。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e386-07",
+   "year": 386,
+   "title": "桓伊为慧远建东林寺",
+   "type": "建寺",
+   "place": "庐山",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷六·慧远传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "太元十一年。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e402-08",
+   "year": 402,
+   "title": "慧远与刘遗民等于庐山建斋立誓，共期西方",
+   "type": "人物",
+   "place": "庐山",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷六·慧远传；《出三藏记集》卷十五"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "元兴元年。后世称「白莲社」为唐宋以后追称。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e404-09",
+   "year": 404,
+   "title": "桓玄令沙门礼敬王者，慧远作《沙门不敬王者论》",
+   "type": "政治",
+   "place": "庐山/建康",
+   "cite": {
+    "grade": "A",
+    "source": "《弘明集》卷五、卷十二；《高僧传》卷六·慧远传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "桓玄先于402年沙汰沙门，403年篡位后重提敬王，慧远此论确立南朝沙门不拜俗的传统。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e410-10",
+   "year": 410,
+   "title": "佛驮跋陀罗被摈出长安，南下庐山译《达摩多罗禅经》，后至建康道场寺",
+   "type": "译经",
+   "place": "庐山→建康",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷二·佛驮跋陀罗传；《出三藏记集》卷九"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "义熙六年至庐山，约412年应刘裕之邀入建康。 罗什长安译场（401–413）译出《法华》《维摩》等，道生、慧观等南方僧人往学后带回建康。",
+   "person_ids": []
+  },
+  {
+   "id": "e412-11",
+   "year": 412,
+   "title": "法显海路归国，漂至青州牢山登陆",
+   "type": "译经",
+   "place": "青州牢山（崂山）",
+   "cite": {
+    "grade": "A",
+    "source": "《法显传》；《高僧传》卷三"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "法显399年自长安西行，经敦煌、于阗、天竺、师子国，义熙八年（412）七月海路漂至牢山。",
+   "person_ids": [
+    "faxian"
+   ]
+  },
+  {
+   "id": "e413-12",
+   "year": 413,
+   "title": "法显至建康道场寺，与佛驮跋陀罗共译《摩诃僧祇律》《大般泥洹经》",
+   "type": "译经",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷三·法显传；《出三藏记集》卷八《六卷泥洹记》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "《摩诃僧祇律》416年译出，六卷《泥洹经》417–418年译出，直接触发竺道生的佛性论争。道场寺遗址在今南京中华门外，未定。",
+   "person_ids": [
+    "faxian"
+   ]
+  },
+  {
+   "id": "e416-13",
+   "year": 416,
+   "title": "慧远卒于庐山东林寺",
+   "type": "人物",
+   "place": "庐山",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷六·慧远传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "义熙十二年，年八十三。",
+   "person_ids": [
+    "huiyuan"
+   ]
+  },
+  {
+   "id": "e418-14",
+   "year": 418,
+   "title": "佛驮跋陀罗于道场寺译六十卷《华严经》（418–420）",
+   "type": "译经",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《出三藏记集》卷九《华严经记》；《高僧传》卷二"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "义熙十四年三月始译，元熙二年六月讫。",
+   "person_ids": []
+  },
+  {
+   "id": "e428-15",
+   "year": 428,
+   "title": "竺道生倡「一阐提皆得成佛」，被建康僧团摈逐，退居虎丘",
+   "type": "人物",
+   "place": "建康→吴郡虎丘",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷七·竺道生传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "yunyan",
+   "note": "年份据传文「大本涅槃未至」推定在428–429年间。",
+   "person_ids": [
+    "zhudaosheng"
+   ]
+  },
+  {
+   "id": "e430-16",
+   "year": 430,
+   "title": "昙无谶译大本《涅槃经》传至建康，证实道生说；后慧严、慧观、谢灵运改治为「南本」",
+   "type": "译经",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷七·竺道生传、慧严传；《出三藏记集》卷八"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "元嘉七年前后传至建康；南本改治时间约在元嘉中（430年代）。",
+   "person_ids": []
+  },
+  {
+   "id": "e435-17",
+   "year": 435,
+   "title": "昙摩蜜多于钟山建定林上寺",
+   "type": "建寺",
+   "place": "建康钟山",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷三·昙摩蜜多传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "sdl",
+   "note": "元嘉十二年；后为僧祐、刘勰所居，钟山考古遗址即此。",
+   "person_ids": []
+  },
+  {
+   "id": "e435-18",
+   "year": 435,
+   "title": "求那跋陀罗自海路至广州，元嘉十二年入建康祇洹寺，译《杂阿含》《楞伽》等",
+   "type": "译经",
+   "place": "广州→建康",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷三·求那跋陀罗传；《出三藏记集》卷二"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "宋文帝遣使迎至京；后住丹阳郡、荆州辛寺，卒于468年。",
+   "person_ids": []
+  },
+  {
+   "id": "e462-19",
+   "year": 462,
+   "title": "宋孝武帝下令沙门致敬人主，佛教界抗议，未久废止",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《宋书》卷六·孝武帝纪（大明六年九月）；《弘明集》卷十二"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "刘宋「沙门敬王」之争；前废帝即位后于465年复旧。",
+   "person_ids": []
+  },
+  {
+   "id": "e487-20",
+   "year": 487,
+   "title": "齐竟陵王萧子良于建康西邸集僧俗讲经、造经呗，永明佛教文学集团形成",
+   "type": "人物",
+   "place": "建康鸡笼山",
+   "cite": {
+    "grade": "A",
+    "source": "《南齐书》卷四十·竟陵文宣王子良传；《高僧传》卷十三"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "永明五年移居鸡笼山邸，招致名僧，范云、沈约、萧衍等「竟陵八友」预焉。",
+   "person_ids": []
+  },
+  {
+   "id": "e489-21",
+   "year": 489,
+   "title": "明僧绍舍摄山宅为栖霞精舍，法度居之，齐梁间凿千佛岩",
+   "type": "建寺",
+   "place": "建康摄山",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷八·法度传；江总《摄山栖霞寺碑》（《艺文类聚》卷七十六）"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "qixia",
+   "note": "《高僧传》记「齐永明中」舍宅，明僧绍489年卒，法度立寺通常系于永明七年（489）；千佛岩开凿约在494年以后。",
+   "person_ids": []
+  },
+  {
+   "id": "e495-22",
+   "year": 495,
+   "title": "齐建武中僧护发愿凿剡县石城山弥勒大像；僧淑续之，僧祐于 516 年完成",
+   "type": "建寺",
+   "place": "剡县石城山",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷十三·僧护传；《续高僧传》卷十一·僧祐传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "dafo",
+   "note": "《高僧传》作齐建武中（494—498）始凿，后世碑志推作永明四年（486）；天监十五年毕功，即今新昌大佛。",
+   "person_ids": [
+    "sengyou"
+   ]
+  },
+  {
+   "id": "e502-23",
+   "year": 502,
+   "title": "萧衍代齐建梁；天监三年（504）宣布舍道归佛",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《梁书》卷一·武帝纪；《广弘明集》卷四《舍事李老道法诏》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "舍道诏文仅见《广弘明集》，其真伪与年份学界有争议，故标B。",
+   "person_ids": []
+  },
+  {
+   "id": "e511-24",
+   "year": 511,
+   "title": "梁武帝颁《断酒肉文》，敕僧尼永断酒肉，汉传佛教素食制度定型",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《广弘明集》卷二十六《断酒肉文》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "年份不详，学界推定在天监十年至十六年之间（511–517）。",
+   "person_ids": []
+  },
+  {
+   "id": "e514-25",
+   "year": 514,
+   "title": "宝志卒，梁武帝葬之于钟山独龙阜，建开善寺",
+   "type": "建寺",
+   "place": "建康钟山",
+   "cite": {
+    "grade": "A",
+    "source": "《高僧传》卷十·保志传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "kaishan",
+   "note": "天监十三年。",
+   "person_ids": [
+    "baozhi"
+   ]
+  },
+  {
+   "id": "e515-26",
+   "year": 515,
+   "title": "僧祐《出三藏记集》成书（现存最早经录），518年僧祐卒于建初寺",
+   "type": "人物",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《出三藏记集》序；《续高僧传》卷十一·僧祐传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "dinglin",
+   "note": "定本年份为推算；僧祐居钟山定林上寺。",
+   "person_ids": [
+    "sengyou"
+   ]
+  },
+  {
+   "id": "e519-27",
+   "year": 519,
+   "title": "慧皎《高僧传》成书",
+   "type": "人物",
+   "place": "会稽嘉祥寺",
+   "cite": {
+    "grade": "B",
+    "source": "《高僧传》卷十四·序录；《续高僧传》卷六·慧皎传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "jiaxiang",
+   "note": "序录称记至天监十八年（519），成书当在此后不久；慧皎为会稽上虞人，住嘉祥寺，卒于554年。",
+   "person_ids": []
+  },
+  {
+   "id": "e520-28",
+   "year": 520,
+   "title": "传菩提达摩至建康见梁武帝，问答不契，北渡至魏",
+   "type": "人物",
+   "place": "建康",
+   "cite": {
+    "grade": "D",
+    "source": "《历代法宝记》《景德传灯录》卷三（后出）；《续高僧传》卷十六仅记「初达宋境南越，末又北度至魏」"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "传说；年份各书作普通元年或七年，与《续高僧传》「宋境」不合。",
+   "person_ids": [
+    "damo"
+   ]
+  },
+  {
+   "id": "e527-29",
+   "year": 527,
+   "title": "同泰寺建成；三月梁武帝首次舍身同泰寺",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《梁书》卷三·武帝纪下（大通元年）；《南史》卷七·梁本纪中"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "tongtai",
+   "note": "大通元年。此后529年（群臣以钱一亿万奉赎）、546年、547年又三次舍身。",
+   "person_ids": []
+  },
+  {
+   "id": "e535-30",
+   "year": 535,
+   "title": "傅翕（傅大士）应召入建康，于重云殿与梁武帝论义",
+   "type": "人物",
+   "place": "建康",
+   "cite": {
+    "grade": "B",
+    "source": "《善慧大士录》卷一（唐）"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "dinglin",
+   "note": "大同元年，先居钟山定林寺。",
+   "person_ids": [
+    "fuxi"
+   ]
+  },
+  {
+   "id": "e547-31",
+   "year": 547,
+   "title": "梁武帝第四次舍身同泰寺（此前529、546年两度舍身，皆由群臣以亿钱奉赎）",
+   "type": "政治",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《梁书》卷三·武帝纪下（太清元年）；《南史》卷七"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "tongtai",
+   "note": "太清元年。四次舍身分见《梁书·武帝纪下》大通元年、中大通元年、中大同元年、太清元年条；南朝崇佛的顶点，翌年侯景之乱爆发。",
+   "person_ids": []
+  },
+  {
+   "id": "e548-32",
+   "year": 548,
+   "title": "真谛抵建康，梁武帝拟置译场；八月侯景举兵反",
+   "type": "译经",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《续高僧传》卷一·拘那罗陀传；《梁书》卷五十六·侯景传"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "太清二年。真谛随即避乱富春，在陆元哲宅译《十七地论》。",
+   "person_ids": [
+    "zhendi"
+   ]
+  },
+  {
+   "id": "e549-33",
+   "year": 549,
+   "title": "侯景攻陷台城，梁武帝饿死；建康寺塔多毁，僧众流散（548–552）",
+   "type": "战乱",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《梁书》卷五十六·侯景传；《南史》卷八十；《续高僧传》卷一"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "侯景之乱是南朝佛教由盛转衰的转折；552年王僧辩、陈霸先克建康。",
+   "person_ids": []
+  },
+  {
+   "id": "e563-34",
+   "year": 563,
+   "title": "真谛于广州制旨寺译《摄大乘论》，摄论学派兴起",
+   "type": "译经",
+   "place": "广州",
+   "cite": {
+    "grade": "A",
+    "source": "《续高僧传》卷一·拘那罗陀传；《历代三宝纪》卷九"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "天嘉四年（陈霸先557年代梁建陈，陈诸帝续崇佛）；摄论学后由弟子传入建康、长安。",
+   "person_ids": [
+    "zhendi"
+   ]
+  },
+  {
+   "id": "e567-35",
+   "year": 567,
+   "title": "智顗至建康，住瓦官寺八年讲《法华》",
+   "type": "人物",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《续高僧传》卷十七·智顗传；《隋天台智者大师别传》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "waguan",
+   "note": "陈光大元年。",
+   "person_ids": [
+    "zhiyi"
+   ]
+  },
+  {
+   "id": "e569-36",
+   "year": 569,
+   "title": "傅翕卒于义乌双林；同年真谛卒于广州",
+   "type": "人物",
+   "place": "义乌双林",
+   "cite": {
+    "grade": "B",
+    "source": "《善慧大士录》卷一；《续高僧传》卷一"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "shuanglin",
+   "note": "太建元年。",
+   "person_ids": [
+    "fuxi",
+    "zhendi"
+   ]
+  },
+  {
+   "id": "e575-37",
+   "year": 575,
+   "title": "智顗入天台山，于佛陇建修禅寺",
+   "type": "建寺",
+   "place": "天台",
+   "cite": {
+    "grade": "A",
+    "source": "《续高僧传》卷十七·智顗传；《国清百录》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "place_id": "guoqing",
+   "note": "太建七年；国清寺（天台寺）于智顗身后598年建成，此处以 guoqing 代指天台山。",
+   "person_ids": [
+    "zhiyi"
+   ]
+  },
+  {
+   "id": "e585-38",
+   "year": 585,
+   "title": "陈后主诏智顗回建康，于太极殿、光宅寺讲《法华》",
+   "type": "人物",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《续高僧传》卷十七·智顗传；《隋天台智者大师别传》"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "至德三年，《法华文句》即此时讲说。",
+   "person_ids": [
+    "zhiyi"
+   ]
+  },
+  {
+   "id": "e589-39",
+   "year": 589,
+   "title": "隋灭陈，建康城邑宫室平荡耕垦，南朝佛寺格局终结",
+   "type": "战乱",
+   "place": "建康",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷二·高祖纪下；《隋书》卷三十一·地理志下（丹阳郡条）"
+   },
+   "topics": [
+    "liuchao"
+   ],
+   "note": "开皇九年正月。智顗离建康赴庐山；江南佛教中心随之向天台、扬州转移。",
+   "person_ids": []
+  },
+  {
+   "id": "l890-00",
+   "year": 890,
+   "title": "钱镠筑杭州新夹城",
+   "type": "城建",
+   "place": "凤凰山州治",
+   "cite": {
+    "grade": "A",
+    "source": "《吴越备史》卷一（大顺元年闰九月）",
+    "quote": "王命筑新夹城，环包氏山洎秦望山而回，凡五十余里",
+    "plain": "王下令修筑新夹城，环绕包氏山直到秦望山回还，共五十多里。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E8%BD%BD%E8%AE%B0/%E5%90%B4%E8%B6%8A%E5%A4%87%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "大顺元年闰九月，环包氏山、秦望山，凡五十余里"
+  },
+  {
+   "id": "l893-01",
+   "year": 893,
+   "title": "钱镠筑杭州罗城",
+   "type": "城建",
+   "place": "杭州罗城",
+   "cite": {
+    "grade": "A",
+    "source": "《吴越备史》卷一（景福二年七月丁丑）；《咸淳临安志》卷十八《城郭》",
+    "quote": "新筑罗城，自秦望山，由夹城东亘江干，洎钱塘湖、霍山、范浦，凡七十里",
+    "plain": "新筑罗城，从秦望山起，由夹城向东横贯江干，直到钱塘湖、霍山、范浦，共七十里。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E8%BD%BD%E8%AE%B0/%E5%90%B4%E8%B6%8A%E5%A4%87%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    120.168,
+    30.255
+   ],
+   "note": "景福二年七月丁丑，发十三都兵及役徒二十余万，凡七十里；为南宋临安城垣前身（第一城垣期）"
+  },
+  {
+   "id": "l907-02",
+   "year": 907,
+   "title": "后梁封钱镠为吴越王",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《新五代史》卷六十七《吴越世家第七》",
+    "quote": "梁太祖即位，封镠吴越王兼淮南节度使",
+    "plain": "梁太祖即位，封镠为吴越王兼淮南节度使。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "一般以此作为吴越国起点；正式建国称“吴越国王”在923年"
+  },
+  {
+   "id": "l910-03",
+   "year": 910,
+   "title": "钱镠筑钱塘江捍海塘",
+   "type": "城建",
+   "place": "候潮门—六和塔江岸",
+   "cite": {
+    "grade": "A",
+    "source": "《吴越备史》卷二（开平四年八月）；《咸淳临安志》卷三十一《捍海塘》",
+    "quote": "八月，始筑捍海塘。王因江涛冲激，命强弩以射涛头",
+    "plain": "八月，开始修筑捍海塘。王因为江潮冲击，下令用强弩射潮头。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E8%BD%BD%E8%AE%B0/%E5%90%B4%E8%B6%8A%E5%A4%87%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    120.178,
+    30.228
+   ],
+   "note": "开平四年八月，在候潮、通江门外；强弩射涛头之说已见北宋初《吴越备史》"
+  },
+  {
+   "id": "l923-04",
+   "year": 923,
+   "title": "钱镠受册吴越国王，建国仪制",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《新五代史》卷六十七《吴越世家第七》",
+    "quote": "自称吴越国王，更名所居曰宫殿、府曰朝，官属皆称臣",
+    "plain": "自称吴越国王，把所住的地方改名叫宫殿，把府改叫朝，属官都称臣。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "龙德三年，置百官，仍奉中原正朔"
+  },
+  {
+   "id": "l932-05",
+   "year": 932,
+   "title": "钱镠卒，葬临安县",
+   "type": "政治",
+   "place": "临安县钱王陵",
+   "cite": {
+    "grade": "A",
+    "source": "《吴越备史》卷二；《新五代史》卷六十七",
+    "quote": "敕葬王于安国县衣锦乡（即锦北乡）茅山之原",
+    "plain": "敕令把王安葬在安国县衣锦乡（就是锦北乡）茅山的原上。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E8%BD%BD%E8%AE%B0/%E5%90%B4%E8%B6%8A%E5%A4%87%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianliu"
+   ],
+   "ll": [
+    119.72,
+    30.24
+   ],
+   "note": "长兴三年卒；应顺元年（934）正月葬茅山之原"
+  },
+  {
+   "id": "l948-06",
+   "year": 948,
+   "title": "钱俶即位",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《新五代史》卷六十七《吴越世家第七》",
+    "quote": "是夕拥卫兵废倧，囚于义和院，迎俶立之",
+    "plain": "这天晚上率卫兵废掉倧，囚禁在义和院，迎立俶。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%96%B0%E4%BA%94%E4%BB%A3%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianchu"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "胡进思废钱倧（947年末至948年初）"
+  },
+  {
+   "id": "l954-07",
+   "year": 954,
+   "title": "建慧日永明院（净慈寺）",
+   "type": "宗教",
+   "place": "南屏山",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷七十八《报恩光孝禅寺（即净慈）》",
+    "quote": "显德元年建号慧日永明院",
+    "plain": "显德元年立名号为慧日永明院。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianchu"
+   ],
+   "ll": [
+    120.151,
+    30.2295
+   ]
+  },
+  {
+   "id": "l970-08",
+   "year": 970,
+   "title": "建六和塔",
+   "type": "宗教",
+   "place": "月轮山",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷八十二《六和塔》",
+    "quote": "开宝三年智觉禅师延寿始于钱氏南果园开山建塔因即其地造寺以镇江潮",
+    "plain": "开宝三年智觉禅师延寿开始在钱氏南果园开山建塔，就在这块地上造寺，用来镇住江潮。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianchu"
+   ],
+   "ll": [
+    120.1296,
+    30.2003
+   ],
+   "note": "开宝三年延寿主持，镇江潮；绍兴二十二年奉旨重造，僧智昙成之（七层而止）"
+  },
+  {
+   "id": "l977-09",
+   "year": 977,
+   "title": "雷峰塔（黄妃塔）建成",
+   "type": "宗教",
+   "place": "夕照山",
+   "cite": {
+    "grade": "B",
+    "source": "钱俶《华严经跋》（《咸淳临安志》卷八十二《雷峰塔》收录）；雷峰塔地宫考古报告",
+    "quote": "塔之成日又镌华严诸经围绕八面",
+    "plain": "塔建成那天，又镌刻《华严》诸经，围绕八面。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianchu"
+   ],
+   "ll": [
+    120.1488,
+    30.2313
+   ],
+   "note": "始建约972年，塔成年份据塔砖《华严经跋》推定，诸说975/977不一；1924年倒塌，2002年重建",
+   "unverified": "所检《华严经跋》录文中没有纪年，塔成年份仍依今人考订"
+  },
+  {
+   "id": "l978-10",
+   "year": 978,
+   "title": "钱俶纳土归宋",
+   "type": "政治",
+   "place": "东京开封府",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四《太宗纪一》（太平兴国三年五月乙酉）",
+    "quote": "钱俶献其两浙诸州，凡得州十三、军一、县八十六",
+    "plain": "钱俶献出他两浙的各州，共得到十三个州、一个军、八十六个县。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qianchu"
+   ],
+   "ll": [
+    114.35,
+    34.79
+   ],
+   "note": "太平兴国三年五月，献十三州一军；杭州免于战火"
+  },
+  {
+   "id": "l989-11",
+   "year": 989,
+   "title": "杭州置两浙市舶司",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "B",
+    "source": "《宋会要辑稿》职官四四《市舶司》（端拱二年五月）",
+    "quote": "须于两浙市舶司陈牒，请官给券以行",
+    "plain": "必须到两浙市舶司呈递公文，请求官府发给凭券才能通行。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%94%BF%E4%B9%A6/%E5%AE%8B%E4%BC%9A%E8%A6%81%E8%BE%91%E7%A8%BF.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.18,
+    30.24
+   ],
+   "note": "端拱二年；此后屡有迁置"
+  },
+  {
+   "id": "l1050-12",
+   "year": 1050,
+   "title": "范仲淹知杭州，兴工役以赈饥",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "沈括《梦溪笔谈》卷十一《官政一》",
+    "quote": "皇祐二年，吴中大饥，殍殣枕路，是时范文正领浙西",
+    "plain": "皇祐二年，吴中大饥荒，饿死的人横卧路上，当时范文正主管浙西。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%AD%90%E8%97%8F/%E7%AC%94%E8%AE%B0/%E6%A2%A6%E6%BA%AA%E7%AC%94%E8%B0%88.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "皇祐二年吴中大饥，纵民竞渡、兴修寺观以工代赈"
+  },
+  {
+   "id": "l1071-13",
+   "year": 1071,
+   "title": "苏轼通判杭州",
+   "type": "文化",
+   "place": "凤凰山州治",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百三十八《苏轼传》；王宗稷《东坡先生年谱》“十一月到任”",
+    "quote": "轼遂请外，通判杭州",
+    "plain": "轼于是请求外任，做杭州通判。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "sushi"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "至1074年"
+  },
+  {
+   "id": "l1073-14",
+   "year": 1073,
+   "title": "陈襄、苏轼修复钱塘六井",
+   "type": "城建",
+   "place": "相国井等六井",
+   "cite": {
+    "grade": "A",
+    "source": "苏轼《钱塘六井记》（《东坡全集》卷三十五）",
+    "quote": "明年春六井毕脩而嵗适大旱",
+    "plain": "第二年春天六井修完，而这一年正碰上大旱。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E4%B8%9C%E5%9D%A1%E5%85%A8%E9%9B%86.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "sushi"
+   ],
+   "ll": [
+    120.172,
+    30.256
+   ],
+   "note": "熙宁五至六年"
+  },
+  {
+   "id": "l1089-15",
+   "year": 1089,
+   "title": "苏轼知杭州，设病坊",
+   "type": "政治",
+   "place": "杭州州治",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百三十八《苏轼传》",
+    "quote": "乃裒羡缗得二千，复发橐中黄金五十两，以作病坊",
+    "plain": "于是聚集节余的钱得到两千缗，又拿出口袋里的黄金五十两，用来建病坊。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "sushi"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "元祐四年七月到任，至六年三月召还；饥疫中设病坊（后世称安乐坊）"
+  },
+  {
+   "id": "l1090-16",
+   "year": 1090,
+   "title": "苏轼浚西湖、筑苏堤",
+   "type": "城建",
+   "place": "西湖苏堤",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百三十八《苏轼传》；苏轼《杭州乞度牒开西湖状》（《东坡全集》卷五十七）",
+    "quote": "又取葑田积湖中，南北径三十里，为长堤以通行者",
+    "plain": "又取葑田堆积在湖中，南北长三十里，筑成长堤以便行人通行。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "sushi"
+   ],
+   "ll": [
+    120.14,
+    30.245
+   ],
+   "note": "元祐五年四月二十九日上《杭州乞度牒开西湖状》；堤成，杭人名为苏公堤"
+  },
+  {
+   "id": "l1120-17",
+   "year": 1120,
+   "title": "方腊攻陷杭州",
+   "type": "战乱",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十二《徽宗纪四》（宣和二年十二月）",
+    "quote": "陷杭州，知州赵霆遁，廉访使者赵约诟贼死",
+    "plain": "攻陷杭州，知州赵霆逃走，廉访使者赵约辱骂贼寇而死。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.243
+   ],
+   "note": "宣和二年十二月陷杭州，焚掠；次年二月童贯、王渊军收复",
+   "unverified": "《徽宗纪四》中未检得宣和三年二月童贯、王渊收复杭州的原句，收复月份暂依原条"
+  },
+  {
+   "id": "l1127-18",
+   "year": 1127,
+   "title": "靖康之变，赵构应天府即位",
+   "type": "政治",
+   "place": "应天府",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十四《高宗纪一》",
+    "quote": "五月庚寅朔，帝登坛受命，礼毕恸哭",
+    "plain": "五月庚寅朔，帝登坛受命，行礼完毕痛哭。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou",
+    "qinhui"
+   ],
+   "ll": [
+    115.65,
+    34.41
+   ],
+   "note": "北宋亡，南宋始"
+  },
+  {
+   "id": "l1129-19",
+   "year": 1129,
+   "title": "苗刘兵变",
+   "type": "政治",
+   "place": "杭州州治",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十五《高宗纪二》",
+    "quote": "夏四月戊申朔，太后下诏还政，皇帝复大位",
+    "plain": "夏四月戊申朔，太后下诏归还政权，皇帝重登大位。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "建炎三年三月，四月韩世忠、张浚等平定"
+  },
+  {
+   "id": "l1129-20",
+   "year": 1129,
+   "title": "升杭州为临安府",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十五《高宗纪二》（建炎三年七月辛卯）；《建炎以来系年要录》卷二十五同日",
+    "quote": "辛卯，升杭州为临安府",
+    "plain": "辛卯，把杭州升为临安府。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "建炎三年七月辛卯"
+  },
+  {
+   "id": "l1130-21",
+   "year": 1130,
+   "title": "兀术陷临安，焚城而去",
+   "type": "战乱",
+   "place": "临安城",
+   "cite": {
+    "grade": "A",
+    "source": "《建炎以来系年要录》卷三十、三十一",
+    "quote": "庚辰宗弼歛兵于吴山七宝山遂纵火三日夜烟焰不绝",
+    "plain": "庚辰，宗弼在吴山、七宝山收兵，于是纵火，三天三夜烟火不断。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E7%BC%96%E5%B9%B4/%E5%BB%BA%E7%82%8E%E4%BB%A5%E6%9D%A5%E7%B3%BB%E5%B9%B4%E8%A6%81%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.172,
+    30.243
+   ],
+   "note": "建炎三年十二月（公历1130年1月）金兵陷临安府；四年二月庚辰起纵火三日夜，丙戌退军，旋遭韩世忠黄天荡阻击"
+  },
+  {
+   "id": "l1132-22",
+   "year": 1132,
+   "title": "高宗还临安，以州治为行宫",
+   "type": "政治",
+   "place": "凤凰山大内",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十七《高宗纪四》（绍兴二年正月）",
+    "quote": "丙午，帝至临安府",
+    "plain": "丙午，帝到临安府。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou",
+    "liqingzhao"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "绍兴二年正月"
+  },
+  {
+   "id": "l1132-23",
+   "year": 1132,
+   "title": "临安大火（绍兴二年）",
+   "type": "灾异",
+   "place": "临安城",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷六十三《五行志二上·火》",
+    "quote": "五月庚辰，临安府大火，亘六七里，燔万数千家",
+    "plain": "五月庚辰，临安府大火，绵延六七里，烧掉一万几千家。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.245
+   ],
+   "note": "绍兴二年五月庚辰大火，亘六七里，燔万数千家；十二月甲午行都又大火，燔吏、刑、工部、御史台及民居、军垒"
+  },
+  {
+   "id": "l1134-24",
+   "year": 1134,
+   "title": "李清照作《金石录后序》",
+   "type": "文化",
+   "place": "临安",
+   "cite": {
+    "grade": "B",
+    "source": "李清照《金石录后序》署款",
+    "quote": "绍兴二年玄黓岁壮月朔甲寅易安室题",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E7%9B%AE%E5%BD%95/%E9%87%91%E7%9F%B3%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "liqingzhao"
+   ],
+   "ll": [
+    120.172,
+    30.243
+   ],
+   "note": "作年有绍兴二年、四年两说"
+  },
+  {
+   "id": "l1138-25",
+   "year": 1138,
+   "title": "定都临安行在",
+   "type": "政治",
+   "place": "凤凰山大内",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十九《高宗纪六》（绍兴八年二月）",
+    "quote": "戊寅，帝至临安",
+    "plain": "戊寅，帝到临安。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou",
+    "qinhui"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "绍兴八年二月戊寅自建康还临安；名义上仍称“行在所”"
+  },
+  {
+   "id": "l1141-26",
+   "year": 1141,
+   "title": "绍兴和议",
+   "type": "政治",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十九《高宗纪六》（绍兴十一年十一月）",
+    "quote": "与金国和议成，立盟书，约以淮水中流画疆",
+    "plain": "与金国和议达成，订立盟书，约定以淮水中流划定疆界。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou",
+    "qinhui",
+    "yuefei"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "绍兴十一年十一月议定，以淮水中流画疆，割唐、邓二州，岁奉银绢各二十五万"
+  },
+  {
+   "id": "l1142-27",
+   "year": 1142,
+   "title": "岳飞遇害于大理寺狱",
+   "type": "政治",
+   "place": "临安大理寺（时在钱塘门内）",
+   "cite": {
+    "grade": "A",
+    "source": "《建炎以来系年要录》卷一百四十三；《宋史》卷二十九；《咸淳临安志》卷六《大理寺》",
+    "quote": "癸巳岳飞赐死于大理寺",
+    "plain": "癸巳，岳飞在大理寺被赐死。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E7%BC%96%E5%B9%B4/%E5%BB%BA%E7%82%8E%E4%BB%A5%E6%9D%A5%E7%B3%BB%E5%B9%B4%E8%A6%81%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei",
+    "qinhui",
+    "zhaogou"
+   ],
+   "ll": [
+    120.162,
+    30.258
+   ],
+   "note": "绍兴十一年十二月癸巳，公历1142年1月27日。时大理寺在钱塘门内，绍兴二十年才迁往仁和县西（今小车桥一带）"
+  },
+  {
+   "id": "l1143-28",
+   "year": 1143,
+   "title": "以岳飞故宅建太学",
+   "type": "文化",
+   "place": "前洋街（众安桥西北）",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷十一《太学》",
+    "quote": "十三年六月临安守臣王（日奂）即岳飞宅建学成",
+    "plain": "十三年六月，临安守臣王（日奂）就在岳飞宅第上建学，建成。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei"
+   ],
+   "ll": [
+    120.166,
+    30.262
+   ],
+   "note": "绍兴十三年六月以岳飞宅建太学（在前洋街）；明吴讷跋作绍兴十四年正月"
+  },
+  {
+   "id": "l1143-29",
+   "year": 1143,
+   "title": "建太庙、景灵宫，定郊丘",
+   "type": "城建",
+   "place": "瑞石山下太庙（今紫阳山东麓）",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷三《太庙》；同卷《景灵宫》“绍兴十三年臣寮言”",
+    "quote": "在瑞石山之左　绍兴四年　诏守臣粱汝嘉造",
+    "plain": "在瑞石山的左边。绍兴四年，诏令守臣粱汝嘉建造。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.17,
+    30.238
+   ],
+   "note": "太庙始建于绍兴四年，绍兴十三年前后扩建并建景灵宫、圜丘（今八卦田一带）；各项年份请分别核《宋会要》"
+  },
+  {
+   "id": "l1145-30",
+   "year": 1145,
+   "title": "赐秦桧第于望仙桥",
+   "type": "政治",
+   "place": "望仙桥",
+   "cite": {
+    "grade": "A",
+    "source": "《建炎以来系年要录》卷一百五十三；《咸淳临安志》卷二《德寿宫》",
+    "quote": "夏四月丙子朔赐太师秦桧甲第一区",
+    "plain": "夏四月丙子朔，赐给太师秦桧上等宅第一处。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E7%BC%96%E5%B9%B4/%E5%BB%BA%E7%82%8E%E4%BB%A5%E6%9D%A5%E7%B3%BB%E5%B9%B4%E8%A6%81%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qinhui"
+   ],
+   "ll": [
+    120.176,
+    30.245
+   ],
+   "note": "绍兴十五年四月丙子朔；第址“望仙桥东”据《咸淳临安志》，后改筑德寿宫"
+  },
+  {
+   "id": "l1153-31",
+   "year": 1153,
+   "title": "陆游锁厅试第一，因秦埙被黜",
+   "type": "文化",
+   "place": "临安贡院",
+   "cite": {
+    "grade": "B",
+    "source": "《宋史》卷三百九十五《陆游传》",
+    "quote": "锁厅荐送第一，秦桧孙埙适居其次，桧怒，至罪主司",
+    "plain": "锁厅试荐送第一，秦桧的孙子埙正好排在他之后，桧发怒，以至于治主考官的罪。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "luyou",
+    "qinhui"
+   ],
+   "ll": [
+    120.172,
+    30.262
+   ],
+   "note": "次年礼部试"
+  },
+  {
+   "id": "l1155-32",
+   "year": 1155,
+   "title": "秦桧卒",
+   "type": "政治",
+   "place": "望仙桥府第",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百七十三《秦桧传》",
+    "quote": "是夜，桧卒，年六十六",
+    "plain": "这天夜里，桧死了，年六十六。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "qinhui"
+   ],
+   "ll": [
+    120.176,
+    30.245
+   ]
+  },
+  {
+   "id": "l1160-33",
+   "year": 1160,
+   "title": "行在会子务发行东南会子",
+   "type": "经济",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷一百八十一《食货志下三·会子》；卷三十二《高宗纪九》“丙辰，置行在会子务”",
+    "quote": "三十年，户部侍郎钱端礼被旨造会子",
+    "plain": "三十年，户部侍郎钱端礼奉旨制造会子。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.245
+   ],
+   "note": "绍兴三十年钱端礼被旨造会子；三十一年二月丙辰置行在会子务"
+  },
+  {
+   "id": "l1161-34",
+   "year": 1161,
+   "title": "完颜亮南侵，“立马吴山第一峰”",
+   "type": "战乱",
+   "place": "吴山",
+   "cite": {
+    "grade": "D",
+    "source": "明田汝成《西湖游览志余》卷十；罗大经《鹤林玉露》丙编卷一只记金主亮闻柳词“遂起投鞭渡江之志”",
+    "quote": "提兵百万西湖上立马吴山第一峰",
+    "plain": "率领百万大军在西湖上，立马于吴山第一峰。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%A7%88%E5%BF%97%E4%BD%99.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.168,
+    30.237
+   ],
+   "note": "采石之战虞允文破金；题诗之事出宋人笔记，属传闻"
+  },
+  {
+   "id": "l1162-35",
+   "year": 1162,
+   "title": "高宗内禅，退居德寿宫",
+   "type": "政治",
+   "place": "德寿宫（望仙桥东）",
+   "cite": {
+    "grade": "A",
+    "source": "《建炎以来系年要录》卷二百；《宋史》卷三十二；《咸淳临安志》卷二“即秦桧旧第筑新宫”",
+    "quote": "戊辰名望仙桥东新宫曰德寿",
+    "plain": "戊辰，把望仙桥东的新宫命名为德寿。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E7%BC%96%E5%B9%B4/%E5%BB%BA%E7%82%8E%E4%BB%A5%E6%9D%A5%E7%B3%BB%E5%B9%B4%E8%A6%81%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.177,
+    30.248
+   ],
+   "note": "秦桧旧第收回后改建，称北内；遗址已考古发掘"
+  },
+  {
+   "id": "l1162-36",
+   "year": 1162,
+   "title": "孝宗诏复岳飞官，改葬栖霞岭",
+   "type": "政治",
+   "place": "栖霞岭",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三十三《孝宗纪一》",
+    "quote": "追复岳飞元官，以礼改葬",
+    "plain": "追复岳飞原来的官职，按礼改葬。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei"
+   ],
+   "ll": [
+    120.143,
+    30.26
+   ],
+   "note": "改葬一说在隆兴元年（1163）"
+  },
+  {
+   "id": "l1169-37",
+   "year": 1169,
+   "title": "周淙《乾道临安志》成书",
+   "type": "文化",
+   "place": "临安府治",
+   "cite": {
+    "grade": "C",
+    "source": "《四库全书总目》卷六十八《乾道临安志》提要",
+    "quote": "乾道五年以右文殿修撰知临安府创为此志原本凡十五卷",
+    "plain": "乾道五年以右文殿修撰知临安府，创作了这部志，原本共十五卷。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E4%B9%BE%E9%81%93%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.245
+   ],
+   "note": "原本十五卷，现存三卷"
+  },
+  {
+   "id": "l1170-38",
+   "year": 1170,
+   "title": "辛弃疾延和殿召对，上《九议》",
+   "type": "政治",
+   "place": "凤凰山大内",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百一《辛弃疾传》",
+    "quote": "六年，孝宗召对延和殿",
+    "plain": "六年，孝宗在延和殿召见奏对。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "xinqiji"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ]
+  },
+  {
+   "id": "l1179-39",
+   "year": 1179,
+   "title": "岳飞谥武穆",
+   "type": "政治",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百六十五《岳飞传》",
+    "quote": "淳熙六年，谥武穆",
+    "plain": "淳熙六年，谥号武穆。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "淳熙六年"
+  },
+  {
+   "id": "l1186-40",
+   "year": 1186,
+   "title": "陆游作《临安春雨初霁》",
+   "type": "文化",
+   "place": "临安（寓所，一说砖街巷）",
+   "cite": {
+    "grade": "B",
+    "source": "陆游《临安春雨初霁》（《剑南诗稿》卷十七）",
+    "quote": "小楼一夜听春雨深巷明朝卖杏花",
+    "plain": "小楼里听了一夜春雨，明天早上深巷里就有人卖杏花。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E9%9B%86%E8%97%8F/%E5%9B%9B%E5%BA%93%E5%88%AB%E9%9B%86/%E5%89%91%E5%8D%97%E8%AF%97%E8%97%81.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "luyou"
+   ],
+   "ll": [
+    120.17,
+    30.263
+   ],
+   "note": "淳熙十三年春"
+  },
+  {
+   "id": "l1187-41",
+   "year": 1187,
+   "title": "高宗崩于德寿宫",
+   "type": "政治",
+   "place": "德寿宫",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三十二《高宗纪九》",
+    "quote": "淳熙十四年十月乙亥，崩于德寿殿，年八十一",
+    "plain": "淳熙十四年十月乙亥，在德寿殿驾崩，年八十一。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou"
+   ],
+   "ll": [
+    120.177,
+    30.248
+   ],
+   "note": "葬会稽永思陵"
+  },
+  {
+   "id": "l1194-42",
+   "year": 1194,
+   "title": "绍熙内禅；朱熹入侍经筵（立朝约四十余日）",
+   "type": "政治",
+   "place": "凤凰山大内经筵",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百二十九《朱熹传》；《朱子年谱》卷三",
+    "quote": "仕于外者仅九考，立朝才四十日",
+    "plain": "在外做官只有九考，在朝立身才四十天。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhuxi"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "七月宁宗即位；十月己丑朱熹入国门，任焕章阁待制兼侍讲；闰十月丙子御批除宫观，戊寅罢"
+  },
+  {
+   "id": "l1197-43",
+   "year": 1197,
+   "title": "庆元党禁（伪学逆党籍）",
+   "type": "政治",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百七十四《奸臣四·韩侂胄传》",
+    "quote": "坐伪学逆党得罪者五十有九人",
+    "plain": "因伪学逆党获罪的有五十九人。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhuxi"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "庆元元年（1195）起禁伪学，三年立党籍五十九人"
+  },
+  {
+   "id": "l1201-44",
+   "year": 1201,
+   "title": "嘉泰元年临安大火",
+   "type": "灾异",
+   "place": "临安城内（御史台至城北）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷六十三《五行志二上·火》；卷三十八《宁宗纪二》“戊寅，临安大火，四日乃灭”",
+    "quote": "延烧五万八千九十七家。城内外亘十余里，死者五十有九人",
+    "plain": "蔓延烧掉五万八千九十七家。城内外绵延十多里，死的有五十九人。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ],
+   "note": "嘉泰元年三月戊寅起火，至四月辛巳（四日乃灭），火起宝莲山御史台吏杨浩家，燔御史台、司农寺、将作军器监、太史局等；延烧58097家，死59人，城中庐舍“九毁其七”"
+  },
+  {
+   "id": "l1203-45",
+   "year": 1203,
+   "title": "陆游修国史毕，离临安",
+   "type": "文化",
+   "place": "国史院",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百九十五《陆游传》",
+    "quote": "三年，书成，遂升宝章阁待制，致仕",
+    "plain": "三年，书修成，于是升为宝章阁待制，退休。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "luyou"
+   ],
+   "ll": [
+    120.166,
+    30.232
+   ]
+  },
+  {
+   "id": "l1204-46",
+   "year": 1204,
+   "title": "追封岳飞鄂王；辛弃疾召见",
+   "type": "政治",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三十八《宁宗纪二》（嘉泰四年五月癸未）",
+    "quote": "癸未，追封岳飞为鄂王",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei",
+    "xinqiji"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "嘉泰四年五月追封岳飞鄂王（《岳飞传》作“嘉定四年”，当以本纪为准）；同年正月辛弃疾入见"
+  },
+  {
+   "id": "l1204-47",
+   "year": 1204,
+   "title": "嘉泰四年临安大火，延及三省六部",
+   "type": "灾异",
+   "place": "临安城（三省六部、和宁门一带）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷六十三《五行志二上·火》；卷三十八《宁宗纪二》“三月丁卯，临安大火，迫太庙”",
+    "quote": "四年三月丁卯，行都大火，燔尚书中书省、枢密院、六部、右丞相府",
+    "plain": "四年三月丁卯，行都大火，烧掉尚书省、中书省、枢密院、六部、右丞相府。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.245
+   ],
+   "note": "嘉泰四年三月丁卯大火，燔尚书中书省、枢密院、六部、右丞相府等，延及学士院、内酒库，太庙神主暂奉景灵宫；燔二千七十余家"
+  },
+  {
+   "id": "l1207-48",
+   "year": 1207,
+   "title": "韩侂胄被杀于玉津园",
+   "type": "政治",
+   "place": "嘉会门外玉津园",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三十八《宁宗纪二》（开禧三年十一月乙亥）",
+    "quote": "史弥远等以密旨命权主管殿前司公事夏震诛韩侂胄于玉津园",
+    "plain": "史弥远等人凭密旨命令权主管殿前司公事夏震在玉津园诛杀韩侂胄。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.175,
+    30.215
+   ],
+   "note": "开禧北伐失败后，史弥远等伏杀；次年嘉定和议函首送金"
+  },
+  {
+   "id": "l1221-49",
+   "year": 1221,
+   "title": "岳飞墓旁建褒忠衍福禅寺（岳庙前身）",
+   "type": "宗教",
+   "place": "栖霞岭",
+   "cite": {
+    "grade": "C",
+    "source": "明《西湖游览志》卷八；《咸淳临安志》卷七十九目录“褒忠衍福院”",
+    "quote": "废智果院为祠赐额曰褒忠衍福寺",
+    "plain": "废掉智果院改作祠，赐匾额叫褒忠衍福寺。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%A7%88%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "yuefei"
+   ],
+   "ll": [
+    120.143,
+    30.26
+   ],
+   "note": "嘉定十四年",
+   "unverified": "《咸淳临安志》只存目录，没有检到正文，嘉定十四年赐额的年份未证实"
+  },
+  {
+   "id": "l1231-50",
+   "year": 1231,
+   "title": "绍定四年大火，延及太庙",
+   "type": "灾异",
+   "place": "太庙一带",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四十一《理宗纪一》；卷一百七《礼志十·宗庙之制》“绍定四年九月丙戌，京师大火，延及太庙”",
+    "quote": "九月丙戌夜，临安火，延及太庙",
+    "plain": "九月丙戌夜里，临安失火，蔓延到太庙。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.17,
+    30.238
+   ],
+   "note": "绍定四年九月丙戌夜，火发民家，延及太庙；理宗素服视朝，减膳彻乐"
+  },
+  {
+   "id": "l1241-51",
+   "year": 1241,
+   "title": "理宗幸太学，诏周程张朱从祀",
+   "type": "文化",
+   "place": "太学",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷一百五《礼志八·文宣王庙》",
+    "quote": "淳祐元年正月，理宗幸太学，诏以周敦颐、张载、程颢、程颐、朱熹从祀",
+    "plain": "淳祐元年正月，理宗亲临太学，下诏以周敦颐、张载、程颢、程颐、朱熹从祀。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhuxi"
+   ],
+   "ll": [
+    120.166,
+    30.262
+   ],
+   "note": "淳祐元年，理学定为官学；立《道统十三赞》碑"
+  },
+  {
+   "id": "l1247-52",
+   "year": 1247,
+   "title": "赵与𥲅浚治西湖",
+   "type": "城建",
+   "place": "西湖",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷三十三《山川·六井》",
+    "quote": "淳佑七年赵安抚（上与下心）因水涸浚湖",
+    "plain": "淳佑七年，赵安抚（上与下心）因湖水干涸而疏浚西湖。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.148,
+    30.245
+   ],
+   "note": "淳祐七年大旱湖涸后开浚"
+  },
+  {
+   "id": "l1252-53",
+   "year": 1252,
+   "title": "施谔《淳祐临安志》成书",
+   "type": "文化",
+   "place": "临安",
+   "cite": {
+    "grade": "C",
+    "source": "《淳祐临安志》残本"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.245
+   ],
+   "note": "残存六卷",
+   "unverified": "殆知阁未收《淳祐临安志》，《咸淳临安志》简介只提到施谔《淳祐临安志》六卷，1252年成书的年份未证实"
+  },
+  {
+   "id": "l1256-54",
+   "year": 1256,
+   "title": "文天祥集英殿廷试第一",
+   "type": "文化",
+   "place": "凤凰山大内集英殿",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百一十八《文天祥传》",
+    "quote": "年二十举进士，对策集英殿",
+    "plain": "二十岁考中进士，在集英殿对策。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "wentianxiang"
+   ],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "宝祐四年"
+  },
+  {
+   "id": "l1262-55",
+   "year": 1262,
+   "title": "贾似道得赐葛岭集芳园，营后乐园、半闲堂",
+   "type": "城建",
+   "place": "葛岭",
+   "cite": {
+    "grade": "B",
+    "source": "周密《武林旧事》卷五《湖山胜概》；《宋史》卷四百七十四《贾似道传》“赐第葛岭”",
+    "quote": "集芳御园（后赐贾平章。内有假山石洞，通出湖滨，名曰“后乐园”",
+    "plain": "集芳御园（后来赐给贾平章。里面有假山石洞，通到湖边，名叫「后乐园」。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%AD%A6%E6%9E%97%E6%97%A7%E4%BA%8B.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.145,
+    30.262
+   ],
+   "note": "赐园年份一说景定三年（1262），宅第营建延续至咸淳间",
+   "unverified": "《武林旧事》《宋史》都没有写赐园年份，景定三年（1262）之说未证实"
+  },
+  {
+   "id": "l1268-56",
+   "year": 1268,
+   "title": "潜说友《咸淳临安志》成书",
+   "type": "文化",
+   "place": "临安府治",
+   "cite": {
+    "grade": "C",
+    "source": "《咸淳临安志》潜说友序；《四库全书总目》卷六十八"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.245
+   ],
+   "note": "一百卷，今存九十五卷；刊刻约在咸淳四年至七年间",
+   "unverified": "殆知阁本《咸淳临安志》卷首没有潜说友序，只有今人简介，成书年份1268未证实"
+  },
+  {
+   "id": "l1273-57",
+   "year": 1273,
+   "title": "襄阳陷落",
+   "type": "战乱",
+   "place": "襄阳",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四十六《度宗纪》（咸淳九年二月）",
+    "quote": "李庭芝表言襄帅吕文焕以城降大元",
+    "plain": "李庭芝上表说襄阳主帅吕文焕献城投降大元。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    112.14,
+    32.04
+   ],
+   "note": "咸淳九年二月吕文焕以城降元，临安门户洞开"
+  },
+  {
+   "id": "l1274-58",
+   "year": 1274,
+   "title": "吴自牧《梦粱录》自序",
+   "type": "文化",
+   "place": "临安",
+   "cite": {
+    "grade": "A",
+    "source": "吴自牧《梦粱录》自序",
+    "quote": "甲戌岁中秋日，钱塘吴自牧书",
+    "plain": "甲戌年中秋日，钱塘吴自牧书。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%A2%A6%E7%B2%B1%E5%BD%95.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.245
+   ],
+   "note": "序署甲戌（1274），实成书或在宋亡后"
+  },
+  {
+   "id": "l1275-59",
+   "year": 1275,
+   "title": "丁家洲溃败，贾似道贬死木绵庵",
+   "type": "战乱",
+   "place": "芜湖丁家洲",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百七十四《贾似道传》；卷四十七“虎臣与大元兵战于丁家洲，败绩”",
+    "quote": "八月，似道至漳州木绵庵，虎臣屡讽之自杀",
+    "plain": "八月，似道到漳州木绵庵，虎臣屡次暗示他自杀。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    118.1,
+    31.0
+   ],
+   "note": "二月溃败；同年被郑虎臣杀于漳州木绵庵"
+  },
+  {
+   "id": "l1276-60",
+   "year": 1276,
+   "title": "德祐投降，伯颜入临安",
+   "type": "政治",
+   "place": "皋亭山元营/临安大内",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷九《世祖纪六》（至元十三年正月甲申，次皋亭山）",
+    "quote": "宋主遣其保康军承宣使尹甫、和州防御使吉甫等，赍传国玉玺及降表诣军前",
+    "plain": "宋主派他的保康军承宣使尹甫、和州防御使吉甫等人，带着传国玉玺和降表到军前。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%85%83%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "wentianxiang"
+   ],
+   "ll": [
+    120.235,
+    30.345
+   ],
+   "note": "正月甲申元军次皋亭山，宋遣使奉传国玺及降表诣军前；文天祥等至明因寺见伯颜被扣；三月伯颜入临安，丁丑宋主与全太后出宫北迁"
+  },
+  {
+   "id": "l1276-61",
+   "year": 1276,
+   "title": "元禁修城郭，临安城垣渐圮",
+   "type": "城建",
+   "place": "临安城",
+   "cite": {
+    "grade": "C",
+    "source": "明田汝成《西湖游览志》卷十三",
+    "quote": "旧城基元时禁天下修城故杭城日毁",
+    "plain": "旧城的墙基，元代禁止天下修城，所以杭州城一天天毁坏。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%A7%88%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.245
+   ],
+   "note": "明人记元代禁天下修城，杭城“日毁”；未见元军入城即拆毁杭州城墙的记载。《元史·世祖纪》所载“隳城”有沿淮、襄汉、吉抚诸城，不含杭州。宜标“约1276–1350s”"
+  },
+  {
+   "id": "l1277-62",
+   "year": 1277,
+   "title": "南宋故宫火",
+   "type": "灾异",
+   "place": "凤凰山故宫",
+   "cite": {
+    "grade": "C",
+    "source": "田汝成《西湖游览志》卷七"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "至元十四年宫室失火，殿宇大半焚毁",
+   "unverified": "查《元史》纪志、《西湖游览志》卷六至七、《西湖游览志余》、《癸辛杂识》，均未检得至元十四年南宋故宫失火的记载"
+  },
+  {
+   "id": "l1278-63",
+   "year": 1278,
+   "title": "杨琏真迦发宋六陵",
+   "type": "宗教",
+   "place": "会稽宋六陵",
+   "cite": {
+    "grade": "B",
+    "source": "周密《癸辛杂识》别集上《杨髠发陵》；罗有开《唐义士传》（《南村辍耕录》卷四引）；《元史》卷十三《世祖纪十》",
+    "quote": "至元二十二年八月内有绍兴路防稽县泰宁寺僧宗允宗恺盗斫陵木",
+    "plain": "至元二十二年八月内，有绍兴路防稽县泰宁寺僧人宗允、宗恺盗伐陵墓的树木。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%AD%90%E8%97%8F/%E7%AC%94%E8%AE%B0/%E7%99%B8%E8%BE%9B%E6%9D%82%E8%AF%86.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhaogou",
+    "zhoumi"
+   ],
+   "ll": [
+    120.73,
+    29.92
+   ],
+   "note": "年份三说：①罗有开《唐义士传》作“岁戊寅”（1278）十二月十二日；②周密《癸辛杂识》录告状作至元二十二年（乙酉，1285）八月、十一月；③《元史·世祖纪十》至元二十一年（1284）九月已有“杨琏真加发宋陵冢所收金银宝器修天衣寺”"
+  },
+  {
+   "id": "l1279-64",
+   "year": 1279,
+   "title": "崖山海战，南宋亡",
+   "type": "战乱",
+   "place": "崖山",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四十七《瀛国公纪附二王》",
+    "quote": "十六年正月壬戌，张弘范兵至崖山",
+    "plain": "十六年正月壬戌，张弘范的兵到崖山。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "wentianxiang"
+   ],
+   "ll": [
+    113.08,
+    22.25
+   ]
+  },
+  {
+   "id": "l1283-65",
+   "year": 1283,
+   "title": "文天祥柴市就义",
+   "type": "政治",
+   "place": "大都柴市",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷四百一十八《文天祥传》",
+    "quote": "天祥临刑殊从容，谓吏卒曰：「吾事毕矣。」南乡拜而死",
+    "plain": "天祥临刑很从容，对吏卒说：「我的事完了。」向南跪拜而死。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%AE%8B%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "wentianxiang"
+   ],
+   "ll": [
+    116.4,
+    39.94
+   ],
+   "note": "至元十九年十二月初九，公历1283年1月9日"
+  },
+  {
+   "id": "l1284-66",
+   "year": 1284,
+   "title": "江淮行省治所迁杭州",
+   "type": "政治",
+   "place": "杭州（故宋宫附近）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷十三《世祖纪十》（至元二十一年二月）；卷九十一《百官志七》",
+    "quote": "戊申，徙江淮行省于杭州",
+    "plain": "戊申，把江淮行省迁到杭州。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%85%83%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.17,
+    30.245
+   ],
+   "note": "至元二十一年二月徙江淮行省于杭州；二十三年七月忙兀带奏请复徙扬州，从之；二十八年十二月改江浙行省，治杭州"
+  },
+  {
+   "id": "l1287-67",
+   "year": 1287,
+   "title": "马可·波罗所记“行在”（约1280年代）",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "《马可波罗行纪》第二卷“行在城”章"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "marcopolo"
+   ],
+   "ll": [
+    120.172,
+    30.25
+   ],
+   "note": "年份为推算；到访真实性有争议",
+   "unverified": "殆知阁未收《马可波罗行纪》，《元史》中未检得其名；1287系推算"
+  },
+  {
+   "id": "l1288-68",
+   "year": 1288,
+   "title": "杨琏真迦于宋故宫址建五寺一塔（报成）",
+   "type": "宗教",
+   "place": "凤凰山故宫",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷十五《世祖纪十二》（至元二十五年二月）；明《西湖游览志》卷七",
+    "quote": "江淮总摄杨琏真加言以宋宫室为塔一，为寺五，已成",
+    "plain": "江淮总摄杨琏真加说把宋朝宫室改建成一座塔、五座寺，已经建成。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%85%83%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "至元二十五年二月奏报塔一、寺五已成。五寺据《西湖游览志》为报国、兴元、般若、仙林、尊胜；塔形如壶，俗称白塔（镇南塔）"
+  },
+  {
+   "id": "l1290-69",
+   "year": 1290,
+   "title": "周密《武林旧事》约成书",
+   "type": "文化",
+   "place": "杭州癸辛街",
+   "cite": {
+    "grade": "C",
+    "source": "周密《武林旧事》序",
+    "quote": "予曩于故家遗老得其梗概",
+    "plain": "我从前在故家遗老那里得到它的大概。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%AD%A6%E6%9E%97%E6%97%A7%E4%BA%8B.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [
+    "zhoumi"
+   ],
+   "ll": [
+    120.172,
+    30.24
+   ],
+   "note": "成书年份为推定",
+   "unverified": "序文没有纪年，1290成书为推定"
+  },
+  {
+   "id": "l1291-70",
+   "year": 1291,
+   "title": "改江浙行省，治杭州",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷十六《世祖纪十三》（至元二十八年十二月）",
+    "quote": "改江淮行省为江浙等处行中书省，治杭州",
+    "plain": "把江淮行省改为江浙等处行中书省，治所在杭州。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E5%85%83%E5%8F%B2.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.17,
+    30.245
+   ],
+   "note": "至元二十八年"
+  },
+  {
+   "id": "l1359-71",
+   "year": 1359,
+   "title": "张士诚改筑杭州城，东拓三里、截凤山于外",
+   "type": "城建",
+   "place": "杭州城",
+   "cite": {
+    "grade": "A",
+    "source": "贡师泰《杭州新城碑》（雍正《浙江通志》卷二十三·城池引）",
+    "quote": "经始于十九年七月十三日迄功于是年十月某日",
+    "plain": "从十九年七月十三日开工，到这一年十月某日完工。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%99%E6%B1%9F%E9%80%9A%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.18,
+    30.25
+   ],
+   "note": "至正十九年七月十三日开工，十月完工；门十三",
+   "unverified": "在《元史·顺帝纪》中没有检得至正十九年改筑杭州城的原文（贝琼《杭州新城碑》未能取得），现用明代记载，改C"
+  },
+  {
+   "id": "y-486-00",
+   "year": -486,
+   "title": "吴王夫差筑邗城、开邗沟，沟通江淮",
+   "type": "开凿",
+   "place": "邗城（今扬州）",
+   "cite": {
+    "grade": "A",
+    "source": "《左传》哀公九年（转引自通典卷一八一州郡十一）",
+    "quote": "春秋时属吴，故左传云「吴城邗，邗音寒。沟通江淮」是也。",
+    "plain": "春秋时属吴，所以《左传》说：「吴在邗筑城（邗读音寒），开沟接通江淮。」就是指这个。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/政书/通典.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "fuchai"
+   ],
+   "ll": [
+    119.43,
+    32.41
+   ],
+   "note": "《左传》哀公九年“秋，吴城邗，沟通江淮”，为运河最早的明确纪年；此处据《通典》转引。"
+  },
+  {
+   "id": "y-482-01",
+   "year": -482,
+   "title": "夫差开深沟于商鲁之间（菏水），北会黄池",
+   "type": "开凿",
+   "place": "今山东定陶—鱼台一带",
+   "cite": {
+    "grade": "A",
+    "source": "《国语》卷十九·吴语",
+    "quote": "乃起师北征。阙为深沟，通于商、鲁之间，北属之沂，西属之济，以会晋公午于黄池。",
+    "plain": "于是起兵北征。挖成深沟，通到商、鲁之间，北面接到沂水，西面接到济水，以便在黄池会见晋公午。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/别史/国语.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "fuchai"
+   ],
+   "ll": [
+    115.9,
+    35.1
+   ],
+   "note": "沟通济水与泗水，使江淮舟师可达济、河。"
+  },
+  {
+   "id": "y-473-02",
+   "year": -473,
+   "title": "越灭吴，夫差自刭",
+   "type": "政治",
+   "place": "姑苏（今苏州）",
+   "cite": {
+    "grade": "A",
+    "source": "《史记》卷三十一·吴太伯世家",
+    "quote": "二十三年十一月丁卯，越败吴。……吾悔不用子胥之言，自令陷此。”遂自刭死。",
+    "plain": "二十三年十一月丁卯，越打败吴。……我后悔没听子胥的话，自己让自己落到这个地步。」于是自刎而死。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/史记.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "fuchai"
+   ],
+   "ll": [
+    120.62,
+    31.3
+   ]
+  },
+  {
+   "id": "y-361-03",
+   "year": -361,
+   "title": "魏惠王开鸿沟，引河水入圃田，通宋、郑、陈、蔡",
+   "type": "开凿",
+   "place": "大梁（今开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《水经注》卷二十二·渠水（引竹书纪年）",
+    "quote": "故《竹书纪年》梁惠成王十年，入河水于甫田，又为大沟而引甫水者也。",
+    "plain": "所以《竹书纪年》说：梁惠成王十年，把河水引入甫田，又开大沟引甫水。就是指这个。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/地理/水经注.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.35,
+    34.8
+   ],
+   "note": "年份有争议：《竹书纪年》系于魏惠成王十年（前361/前360，视惠王元年为前370或前369而异），另有惠成王三十一年（前339）“为大沟于北郛”之第二期工程。《史记·河渠书》记“荥阳下引河东南为鸿沟”而无年。"
+  },
+  {
+   "id": "y-361-04",
+   "year": -361,
+   "title": "《史记·河渠书》：鸿沟通宋郑陈蔡曹卫，与济汝淮泗会",
+   "type": "开凿",
+   "place": "荥阳—大梁",
+   "cite": {
+    "grade": "A",
+    "source": "《史记》卷二十九·河渠书",
+    "quote": "自是之后，荥阳下引河东南为鸿沟，以通宋、郑、陈、蔡、曹、卫，与济、汝、淮、泗会。",
+    "plain": "从这以后，在荥阳以下引黄河向东南成为鸿沟，用来通宋、郑、陈、蔡、曹、卫，与济水、汝水、淮水、泗水会合。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/史记.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    113.38,
+    34.79
+   ],
+   "note": "对鸿沟水系的总述。"
+  },
+  {
+   "id": "y-203-05",
+   "year": -203,
+   "title": "楚汉以鸿沟为界中分天下",
+   "type": "政治",
+   "place": "鸿沟（今荥阳—开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《史记》卷七·项羽本纪",
+    "quote": "项王乃与汉约，中分天下，割鸿沟以西者为汉，鸿沟而东者为楚。",
+    "plain": "项王于是与汉约定，平分天下，划鸿沟以西的归汉，鸿沟以东的归楚。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/史记.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.0,
+    34.8
+   ]
+  },
+  {
+   "id": "y-129-06",
+   "year": -129,
+   "title": "汉武帝穿漕渠，引渭水自长安至黄河，岁漕关东谷",
+   "type": "开凿",
+   "place": "长安—潼关",
+   "cite": {
+    "grade": "A",
+    "source": "《汉书》卷二十九·沟洫志（年份据卷六武帝纪元光六年“春，穿漕渠通渭”）",
+    "quote": "引渭穿渠起长安，旁南山下，至河三百余里，径，易漕，度可令三月罢",
+    "plain": "引渭水开渠，从长安起，沿南山脚下，到黄河三百多里，路直，便于漕运，估计可以三个月完工。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/汉书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    109.5,
+    34.4
+   ],
+   "note": "《汉书·沟洫志》记郑当时建言穿渠；年份据《汉书·武帝纪》元光六年（前129）。"
+  },
+  {
+   "id": "y204-07",
+   "year": 204,
+   "title": "曹操遏淇水入白沟以通粮道",
+   "type": "开凿",
+   "place": "淇水口（今河南浚县）",
+   "cite": {
+    "grade": "A",
+    "source": "《三国志》卷一·魏书武帝纪",
+    "quote": "九年春正月济河遏淇水入白沟以通粮道",
+    "plain": "九年春正月，渡过黄河，遏止淇水流入白沟，用来通粮道。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/三国志.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.55,
+    35.67
+   ],
+   "note": "白沟为隋永济渠的前身之一。"
+  },
+  {
+   "id": "y584-08",
+   "year": 584,
+   "title": "隋文帝命宇文恺凿广通渠，引渭水自大兴城东至潼关",
+   "type": "开凿",
+   "place": "大兴城—潼关",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷二十四·食货志",
+    "quote": "于是命宇文恺率水工凿渠，引渭水，自大兴城东至潼关三百余里，名曰广通渠。转运通利，关内赖之。",
+    "plain": "于是命宇文恺率领水工开渠，引渭水，从大兴城向东到潼关三百多里，名叫广通渠。转运通畅便利，关内靠着它。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    109.5,
+    34.4
+   ],
+   "note": "开皇四年。"
+  },
+  {
+   "id": "y587-09",
+   "year": 587,
+   "title": "隋文帝于扬州开山阳渎以通运漕",
+   "type": "开凿",
+   "place": "山阳—扬州",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷一·高祖纪上",
+    "quote": "庚戌，于扬州开山阳渎，以通运漕。",
+    "plain": "庚戌，在扬州开山阳渎，用来通运漕。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.2,
+    32.9
+   ],
+   "note": "开皇七年四月庚戌，整治邗沟故道以备伐陈。"
+  },
+  {
+   "id": "y604-10",
+   "year": 604,
+   "title": "杨广即皇帝位",
+   "type": "政治",
+   "place": "仁寿宫",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷三·炀帝纪上",
+    "quote": "四年七月，高祖崩，上即皇帝位于仁寿宫。",
+    "plain": "四年七月，高祖驾崩，皇上在仁寿宫即皇帝位。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    107.8,
+    34.68
+   ]
+  },
+  {
+   "id": "y605-11",
+   "year": 605,
+   "title": "炀帝营建东京洛阳",
+   "type": "政治",
+   "place": "洛阳",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷三·炀帝纪上",
+    "quote": "今可于伊、洛营建东京，便即设官分职，以为民极也。",
+    "plain": "现在可以在伊水、洛水一带营建东京，就此设官分职，作为百姓的准则。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    112.45,
+    34.62
+   ],
+   "note": "大业元年三月。"
+  },
+  {
+   "id": "y605-12",
+   "year": 605,
+   "title": "开通济渠：自西苑引谷、洛水达河，自板渚引河通淮",
+   "type": "开凿",
+   "place": "板渚（今荥阳汜水）",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷三·炀帝纪上",
+    "quote": "辛亥，发河南诸郡男女百余万，开通济渠，自西苑引谷、洛水达于河，自板渚引河通于淮。",
+    "plain": "辛亥，征发河南各郡男女一百多万人，开通济渠，从西苑引谷水、洛水到达黄河，从板渚引黄河通到淮河。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    113.1,
+    34.86
+   ],
+   "note": "大业元年三月辛亥，发河南诸郡男女百余万。"
+  },
+  {
+   "id": "y605-13",
+   "year": 605,
+   "title": "重开邗沟：发淮南民十余万，自山阳至扬子入江",
+   "type": "开凿",
+   "place": "山阳（今淮安）",
+   "cite": {
+    "grade": "A",
+    "source": "《资治通鉴》卷一百八十·隋纪四",
+    "quote": "又发淮南民十馀万开邗沟，自山阳至杨子入江。渠广四十步，渠旁皆筑御道，树以柳",
+    "plain": "又征发淮南百姓十多万人开邗沟，从山阳到扬子入江。渠宽四十步，渠边都筑御道，种上柳树。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/编年/资治通鉴.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    119.02,
+    33.5
+   ],
+   "note": "渠广四十步，旁筑御道植柳，自长安至江都置离宫四十余所。"
+  },
+  {
+   "id": "y605-14",
+   "year": 605,
+   "title": "麻叔谋开河传说（《开河记》）",
+   "type": "文化",
+   "place": "大梁—睢阳—淮口",
+   "cite": {
+    "grade": "D",
+    "source": "《开河记》（唐宋传奇）",
+    "quote": "诏以征北大总管麻叔谋为开河都护……自大梁起首",
+    "plain": "诏令以征北大总管麻叔谋为开河都护……从大梁起头开工。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/志存记录/开河记.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "mashumou"
+   ],
+   "ll": [
+    115.65,
+    34.41
+   ],
+   "note": "《开河记》为唐宋传奇，麻叔谋不见正史，属文学虚构。"
+  },
+  {
+   "id": "y605-15",
+   "year": 605,
+   "title": "炀帝御龙舟首幸江都，舳舻相接二百余里",
+   "type": "政治",
+   "place": "江都（今扬州）",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷三·炀帝纪上",
+    "quote": "八月壬寅，上御龙舟，幸江都。……舳舻相接，二百余里。",
+    "plain": "八月壬寅，皇上登上龙舟，巡幸江都。……船首尾相接，二百多里。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    119.42,
+    32.39
+   ],
+   "note": "大业元年八月壬寅。"
+  },
+  {
+   "id": "y608-16",
+   "year": 608,
+   "title": "开永济渠：引沁水南达于河，北通涿郡",
+   "type": "开凿",
+   "place": "沁水口（今武陟）—涿郡",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷三·炀帝纪上",
+    "quote": "四年春正月乙巳，诏发河北诸郡男女百余万开永济渠，引沁水，南达于河，北通涿郡。",
+    "plain": "四年春正月乙巳，下诏征发河北各郡男女一百多万人开永济渠，引沁水，南面到达黄河，北面通到涿郡。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    113.4,
+    35.1
+   ],
+   "note": "大业四年正月乙巳，发河北诸郡男女百余万。"
+  },
+  {
+   "id": "y610-17",
+   "year": 610,
+   "title": "穿江南河，自京口至余杭八百余里",
+   "type": "开凿",
+   "place": "京口—余杭",
+   "cite": {
+    "grade": "A",
+    "source": "《资治通鉴》卷一百八十一·隋纪五",
+    "quote": "敕穿江南河，自京口至馀杭，八百馀里，广十馀丈，使可通龙舟，并置驿宫、草顿，欲东巡会稽。",
+    "plain": "敕令开凿江南河，从京口到馀杭，八百多里，宽十多丈，使它可以通行龙舟，并设置驿宫、草顿，打算东巡会稽。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/编年/资治通鉴.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    119.45,
+    32.2
+   ],
+   "note": "大业六年十二月。"
+  },
+  {
+   "id": "y611-18",
+   "year": 611,
+   "title": "炀帝自江都入通济渠赴涿郡，以运河转粮征高丽",
+   "type": "漕运",
+   "place": "扬子津→涿郡",
+   "cite": {
+    "grade": "A",
+    "source": "《资治通鉴》卷一百八十一·隋纪五",
+    "quote": "发江、淮以南民夫及船运黎阳及洛口诸仓米至涿郡，舳舻相次千馀里",
+    "plain": "征发江、淮以南的民夫和船只，把黎阳及洛口各仓的米运到涿郡，船首尾相接一千多里。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/编年/资治通鉴.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "大业七年；发江淮民夫及船运黎阳、洛口仓米至涿郡，舳舻相次千余里。"
+  },
+  {
+   "id": "y616-19",
+   "year": 616,
+   "title": "炀帝三下江都",
+   "type": "政治",
+   "place": "江都（今扬州）",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷四·炀帝纪下",
+    "quote": "甲子，幸江都宫，以越王侗、光禄大夫段达、太府卿元文都、检校民部尚书韦津",
+    "plain": "甲子，巡幸江都宫，以越王侗、光禄大夫段达、太府卿元文都、检校民部尚书韦津。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    119.42,
+    32.39
+   ],
+   "note": "大业十二年七月甲子。"
+  },
+  {
+   "id": "y618-20",
+   "year": 618,
+   "title": "江都之变，宇文化及弑炀帝",
+   "type": "政治",
+   "place": "江都宫",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷四·炀帝纪下",
+    "quote": "以骁果作乱，入犯宫闱。上崩于温室，时年五十。",
+    "plain": "因为骁果作乱，侵入宫闱。皇上在温室驾崩，时年五十。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "yangdi"
+   ],
+   "ll": [
+    119.42,
+    32.39
+   ],
+   "note": "大业十四年三月。"
+  },
+  {
+   "id": "y618-21",
+   "year": 618,
+   "title": "宇文化及渡永济渠，与李密战于童山",
+   "type": "战乱",
+   "place": "童山（今河南浚县）",
+   "cite": {
+    "grade": "A",
+    "source": "《隋书》卷七十·李密传",
+    "quote": "其食又尽，乃渡永济渠，与密战于童山之下，自辰达酉。",
+    "plain": "他的粮食又吃完了，就渡过永济渠，与密在童山之下交战，从辰时打到酉时。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/隋书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.55,
+    35.67
+   ],
+   "note": "永济渠沿线黎阳仓之争。"
+  },
+  {
+   "id": "y714-22",
+   "year": 714,
+   "title": "李杰浚汴州梁公堰，江淮漕运复通",
+   "type": "漕运",
+   "place": "汴州（今开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "开元二年，河南尹李杰奏，汴州东有梁公堰，年久堰破，江淮曹运不通。发汴、郑丁夫以浚之。",
+    "plain": "开元二年，河南尹李杰上奏，汴州东面有梁公堰，年久堰坏，江淮的漕运不通。于是征发汴州、郑州的壮丁去疏浚它。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.35,
+    34.8
+   ],
+   "note": "开元二年。"
+  },
+  {
+   "id": "y733-23",
+   "year": 733,
+   "title": "裴耀卿建言分段转运（转般法），拜相充江淮河南转运使",
+   "type": "漕运",
+   "place": "长安—洛阳",
+   "cite": {
+    "grade": "A",
+    "source": "《新唐书》卷五十三·食货志三",
+    "quote": "可于河口置武牢仓，巩县置洛口仓，使江南之舟不入黄河，黄河之舟不入洛口。",
+    "plain": "可以在河口设置武牢仓，在巩县设置洛口仓，使江南的船不进黄河，黄河的船不进洛口。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/新唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "peiyaoqing"
+   ],
+   "ll": [
+    112.45,
+    34.62
+   ],
+   "note": "开元二十一年建言并拜黄门侍郎同平章事；二十二年八月置河阴县、仓（见下）。"
+  },
+  {
+   "id": "y734-24",
+   "year": 734,
+   "title": "置河阴县及河阴仓、集津仓、盐仓，开三门山路十八里",
+   "type": "漕运",
+   "place": "河阴（今荥阳北）",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "至二十二年八月，置河阴县及河阴仓、河西柏崖仓、三门东集津仓、三门西盐仓。开三门山十八里，以避湍险。",
+    "plain": "到二十二年八月，设置河阴县和河阴仓、河西柏崖仓、三门东集津仓、三门西盐仓。开凿三门山十八里，用来避开湍急的险处。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "peiyaoqing"
+   ],
+   "ll": [
+    113.3,
+    34.88
+   ],
+   "note": "开元二十二年八月；三年运七百万石。"
+  },
+  {
+   "id": "y738-25",
+   "year": 738,
+   "title": "齐浣开伊娄河，京口直渡扬子避瓜步风涛",
+   "type": "开凿",
+   "place": "瓜洲—扬子（今扬州南）",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷一百九十中·文苑传·齐浣",
+    "quote": "浣乃移其漕路，于京口塘下直渡江二十里，又开伊娄河二十五里，即达扬子县。",
+    "plain": "浣于是改移漕路，在京口塘下直接渡江二十里，又开伊娄河二十五里，就到达扬子县。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.42,
+    32.25
+   ],
+   "note": "开元二十五、六年间，润州刺史齐浣。"
+  },
+  {
+   "id": "y743-26",
+   "year": 743,
+   "title": "韦坚作广运潭于长安望春楼东",
+   "type": "漕运",
+   "place": "长安",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "天宝三载，韦坚代萧炅，以浐水作广运潭于望春楼之东，而藏舟焉。",
+    "plain": "天宝三载，韦坚接替萧炅，用浐水在望春楼东面修成广运潭，把船停藏在那里。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    109.0,
+    34.3
+   ],
+   "note": "《旧唐书·食货志》系天宝三载，《韦坚传》作天宝二年。"
+  },
+  {
+   "id": "y762-27",
+   "year": 762,
+   "title": "刘晏为度支盐铁转运使，盐铁兼漕运自此始",
+   "type": "漕运",
+   "place": "长安",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "遂以通州刺史刘晏为户部侍郎、京兆尹、度支盐铁转运使。盐铁兼漕运，自晏始也。",
+    "plain": "于是用通州刺史刘晏为户部侍郎、京兆尹、度支盐铁转运使。盐铁兼管漕运，从晏开始。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "liuyan"
+   ],
+   "ll": [
+    108.94,
+    34.26
+   ],
+   "note": "宝应元年。"
+  },
+  {
+   "id": "y763-28",
+   "year": 763,
+   "title": "刘晏拜相仍充使，以盐利为漕佣，不发丁男",
+   "type": "漕运",
+   "place": "长安",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "二年，拜吏部尚书、同平章事，依前充使。晏始以盐利为漕佣，自江淮至渭桥，率十万斛佣七千缗",
+    "plain": "二年，任吏部尚书、同平章事，仍旧充任使职。晏开始用盐利作漕运的雇值，从江淮到渭桥，大致每十万斛雇值七千缗。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "liuyan"
+   ],
+   "ll": [
+    108.94,
+    34.26
+   ],
+   "note": "宝应二年。"
+  },
+  {
+   "id": "y764-29",
+   "year": 764,
+   "title": "刘晏开决汴河，恢复江淮漕路；岁转粟百一十万石",
+   "type": "漕运",
+   "place": "汴河",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷四十九·食货志下",
+    "quote": "而晏以检校户部尚书为河南及江淮已来转运使，及与河南副元帅计会开决汴河。",
+    "plain": "而晏以检校户部尚书任河南及江淮以来转运使，并与河南副元帅商议开决汴河。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "liuyan"
+   ],
+   "ll": [
+    116.0,
+    34.3
+   ],
+   "note": "广德二年。"
+  },
+  {
+   "id": "y781-30",
+   "year": 781,
+   "title": "李勉筑汴州城，跨汴河置水门",
+   "type": "技术",
+   "place": "汴州（今开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷十二·德宗纪上",
+    "quote": "三月庚申朔，筑汴州城。",
+    "plain": "三月庚申朔，修筑汴州城。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.35,
+    34.8
+   ],
+   "note": "建中二年三月；《通鉴》记“会汴州城隘，广之”。汴州城跨汴河设水门，后为北宋东京汴河上下水门之祖。"
+  },
+  {
+   "id": "y809-31",
+   "year": 809,
+   "title": "白居易作《新乐府·隋堤柳》",
+   "type": "文化",
+   "place": "长安",
+   "cite": {
+    "grade": "A",
+    "source": "《白氏长庆集》卷四·新乐府",
+    "quote": "大业年中炀天子种栁成行夹流水西自黄河东至淮緑隂一千三百里",
+    "plain": "大业年间隋炀帝，种柳成行夹着流水，西从黄河东到淮河，绿荫一千三百里。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/集藏/四库别集/白氏长庆集.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "baijuyi"
+   ],
+   "ll": [
+    108.94,
+    34.26
+   ],
+   "note": "“西自黄河东至淮，绿荫一千三百里”。"
+  },
+  {
+   "id": "y822-32",
+   "year": 822,
+   "title": "白居易出为杭州刺史",
+   "type": "文化",
+   "place": "杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《旧唐书》卷十六·穆宗纪",
+    "quote": "壬寅，出中书舍人白居易为杭州刺史。",
+    "plain": "壬寅，把中书舍人白居易外放为杭州刺史。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/旧唐书.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "baijuyi"
+   ],
+   "ll": [
+    120.15,
+    30.27
+   ],
+   "note": "长庆二年七月壬寅。"
+  },
+  {
+   "id": "y866-33",
+   "year": 866,
+   "title": "皮日休作《汴河怀古》：“尽道隋亡为此河”",
+   "type": "文化",
+   "place": "汴河",
+   "cite": {
+    "grade": "A",
+    "source": "《全唐诗》卷六百十五",
+    "quote": "尽道隋亡为此河，至今千里赖通波。/若无水殿龙舟事，共禹论功不较多。",
+    "plain": "都说隋朝灭亡是为了这条河，到今天千里水路还靠它通航。／如果没有水殿龙舟那些事，和禹比功劳也差不了多少。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/诗藏/诗集/全唐诗.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "pirixiu"
+   ],
+   "ll": [
+    116.0,
+    34.3
+   ],
+   "note": "约咸通七年前后赴举途中作，年份为推定。"
+  },
+  {
+   "id": "y979-34",
+   "year": 979,
+   "title": "东京汴河上下水门赐名大通、宣泽、上善、通津",
+   "type": "技术",
+   "place": "东京（今开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷八十五·地理志一",
+    "quote": "汴河上水门，南曰大通，太平兴国四年赐名……汴河下，南曰上善，北曰通津。",
+    "plain": "汴河上水门，南面的叫大通，太平兴国四年赐名……汴河下水门，南面的叫上善，北面的叫通津。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.35,
+    34.8
+   ],
+   "note": "太平兴国四年。"
+  },
+  {
+   "id": "y984-35",
+   "year": 984,
+   "title": "乔维岳开楚州沙河四十里，创二斗门于西河第三堰（复闸之始）",
+   "type": "技术",
+   "place": "楚州（今淮安）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷三百七·乔维岳传",
+    "quote": "维岳始命创二斗门于西河第三堰，二门相距逾五十步，覆以厦屋，设县门积水，俟潮平乃泄之。",
+    "plain": "维岳这才下令在西河第三堰创建两座斗门，两门相距五十多步，上面盖着大屋，设悬门蓄水，等潮水平了才放掉。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.02,
+    33.55
+   ],
+   "note": "雍熙年间（984—987）；世界上最早的船闸记载。或作“真州复闸”，系误记：真州复闸在天圣中（见1025条）。"
+  },
+  {
+   "id": "y1025-36",
+   "year": 1025,
+   "title": "方仲荀奏改真、楚州堰为水闸（真州复闸）",
+   "type": "技术",
+   "place": "真州（今仪征）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷一百七十五·食货志上三漕运",
+    "quote": "天圣中，发运使方仲荀奏请度真、楚州堰为水闸，自是东南金帛、茶布之类直至京师",
+    "plain": "天圣年间，发运使方仲荀奏请把真州、楚州的堰改为水闸，从此东南的金帛、茶布之类直接运到京师。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.17,
+    32.27
+   ],
+   "note": "天圣中；一说天圣三年（1025）陶鉴议建真州复闸。"
+  },
+  {
+   "id": "y1072-37",
+   "year": 1072,
+   "title": "张方平论汴河：上供年额六百万石，汴河乃建国之本",
+   "type": "漕运",
+   "place": "东京（今开封）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷九十四·河渠志四",
+    "quote": "自后定立上供年额：汴河斛斗六百万石，广济河六十二万石，惠民河六十万石。",
+    "plain": "从此定下上供的年额：汴河斛斗六百万石，广济河六十二万石，惠民河六十万石。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.35,
+    34.8
+   ],
+   "note": "熙宁五年张方平奏，追述国初定额“汴河斛斗六百万石”。"
+  },
+  {
+   "id": "y1077-38",
+   "year": 1077,
+   "title": "黄河决曹村，北流断绝，河道南徙",
+   "type": "灾异",
+   "place": "曹村（今河南濮阳西南）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷十五·神宗纪二",
+    "quote": "丙子，河决澶州曹村埽。",
+    "plain": "丙子，黄河在澶州曹村埽决口。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.9,
+    35.7
+   ],
+   "note": "熙宁十年七月。"
+  },
+  {
+   "id": "y1128-39",
+   "year": 1128,
+   "title": "杜充决黄河自泗入淮以阻金兵，黄河夺淮之始",
+   "type": "改道",
+   "place": "滑州李固渡（今河南滑县）",
+   "cite": {
+    "grade": "A",
+    "source": "《宋史》卷二十五·高宗纪二",
+    "quote": "是冬，杜充决黄河，自泗入淮，以阻金兵。",
+    "plain": "这年冬天，杜充掘开黄河，从泗水入淮河，用来阻挡金兵。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/宋史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.6,
+    35.5
+   ],
+   "note": "建炎二年冬。"
+  },
+  {
+   "id": "y1194-40",
+   "year": 1194,
+   "title": "黄河决阳武故堤，灌封丘而东，全河夺淮",
+   "type": "改道",
+   "place": "阳武（今河南原阳）",
+   "cite": {
+    "grade": "A",
+    "source": "《金史》卷十·章宗纪二",
+    "quote": "壬子，河决阳武故堤，灌封丘而东。",
+    "plain": "壬子，黄河在阳武故堤决口，淹灌封丘而向东流。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/金史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    113.97,
+    35.06
+   ],
+   "note": "金明昌五年八月壬子。"
+  },
+  {
+   "id": "y1194-41",
+   "year": 1194,
+   "title": "都水监王汝嘉等坐河决削官杖罢",
+   "type": "政治",
+   "place": "中都（今北京）",
+   "cite": {
+    "grade": "A",
+    "source": "《金史》卷二十七·河渠志",
+    "quote": "诏汝嘉等各削官两阶，杖七十罢职。",
+    "plain": "诏令汝嘉等各削去官阶两级，杖打七十，罢免职务。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/金史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.4,
+    39.9
+   ]
+  },
+  {
+   "id": "y1275-42",
+   "year": 1275,
+   "title": "郭守敬奉命行视河北、山东可通舟处",
+   "type": "技术",
+   "place": "河北—山东",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷一百六十四·郭守敬传",
+    "quote": "十二年，丞相伯颜南征，议立水站，命守敬行视河北、山东可通舟者，为图奏之。",
+    "plain": "十二年，丞相伯颜南征，商议设立水站，命守敬巡行察看河北、山东可以通船的地方，绘成图上奏。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "guoshoujing"
+   ],
+   "ll": [
+    116.0,
+    36.5
+   ],
+   "note": "至元十二年。"
+  },
+  {
+   "id": "y1282-43",
+   "year": 1282,
+   "title": "元代海运始：伯颜命罗璧、朱清、张瑄造平底海船运粮四万六千余石",
+   "type": "漕运",
+   "place": "刘家港—直沽",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷九十三·食货志一海运",
+    "quote": "至元十九年，伯颜追忆海道载宋图籍之事，以为海运可行，于是请于朝廷，命上海总管罗璧、朱清、张瑄等",
+    "plain": "至元十九年，伯颜追忆由海道运载宋朝图籍的事，认为海运可行，于是向朝廷请求，命上海总管罗璧、朱清、张瑄等人。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    121.1,
+    31.65
+   ],
+   "note": "至元十九年，次年始至直沽。"
+  },
+  {
+   "id": "y1283-44",
+   "year": 1283,
+   "title": "济州河成，立都漕运司",
+   "type": "开凿",
+   "place": "济州（今济宁）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷十二·世祖纪九",
+    "quote": "济州新开河成，立都漕运司。",
+    "plain": "济州新开河建成，设立都漕运司。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.59,
+    35.41
+   ],
+   "note": "至元二十年八月。"
+  },
+  {
+   "id": "y1289-45",
+   "year": 1289,
+   "title": "开会通河：起须城安山至临清入御河，长二百五十余里，建闸三十一",
+   "type": "开凿",
+   "place": "安山—临清",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷六十四·河渠志一",
+    "quote": "起于须城安山之西南，止于临清之御河，其长二百五十余里，中建闸三十有一，度高低，分远迩，以节蓄泄。",
+    "plain": "从须城安山的西南起，到临清的御河为止，长二百五十多里，中间建闸三十一座，量度高低，分别远近，用来节制蓄泄。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    115.9,
+    36.3
+   ],
+   "note": "至元二十六年正月己亥起工，六月辛亥成，赐名会通河。"
+  },
+  {
+   "id": "y1289-46",
+   "year": 1289,
+   "title": "世祖诏赐名“会通河”，置提举司",
+   "type": "政治",
+   "place": "大都",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷十五·世祖纪十二",
+    "quote": "开魏博之渠，通江淮之运，古所未有。”诏赐名会通河，置提举司，职河渠事。",
+    "plain": "开魏博的渠，通江淮的漕运，是古来所没有的。」下诏赐名会通河，设置提举司，掌管河渠事务。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "至元二十六年七月。"
+  },
+  {
+   "id": "y1291-47",
+   "year": 1291,
+   "title": "郭守敬陈水利十一事，议引白浮泉开大都运粮河",
+   "type": "技术",
+   "place": "大都—白浮泉",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷一百六十四·郭守敬传",
+    "quote": "大都运粮河，不用一亩泉旧原，别引北山白浮泉水，西折而南，经瓮山泊，自西水门入城，环汇于积水潭",
+    "plain": "大都运粮河，不用一亩泉的旧水源，另外引北山白浮泉水，向西折再向南，经过瓮山泊，从西水门入城，环绕汇聚在积水潭。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "guoshoujing"
+   ],
+   "ll": [
+    116.23,
+    40.22
+   ],
+   "note": "至元二十八年。"
+  },
+  {
+   "id": "y1293-48",
+   "year": 1293,
+   "title": "通惠河成，世祖过积水潭见舳舻蔽水，赐名",
+   "type": "开凿",
+   "place": "积水潭（今北京）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷六十四·河渠志一",
+    "quote": "首事于至元二十九年之春，告成于三十年之秋，赐名曰通惠。",
+    "plain": "至元二十九年春天动工，三十年秋天完工，赐名叫通惠。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "guoshoujing"
+   ],
+   "ll": [
+    116.38,
+    39.94
+   ],
+   "note": "至元二十九年春兴工，三十年秋告成，总长一百六十四里。"
+  },
+  {
+   "id": "y1294-49",
+   "year": 1294,
+   "title": "阿八赤所开胶莱新河废，专事海运",
+   "type": "漕运",
+   "place": "胶莱（今山东）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷六十四·河渠志一",
+    "quote": "今拟以此水手军人，就用平滦船，从利津海漕运。”世祖从之。阿八失所开河遂废。",
+    "plain": "现在打算用这些水手军人，就用平滦的船，从利津海道漕运。」世祖听从了。阿八失所开的河于是废弃。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.9,
+    36.9
+   ],
+   "note": "至元三十一年。"
+  },
+  {
+   "id": "y1329-50",
+   "year": 1329,
+   "title": "元海运达到峰值：岁运三百五十二万余石",
+   "type": "漕运",
+   "place": "刘家港—直沽",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷九十三·食货志一海运",
+    "quote": "二年，三百五十二万二千一百六十三石，至者三百三十四万三百六石。",
+    "plain": "二年，三百五十二万二千一百六十三石，运到的有三百三十四万三百六石。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    121.1,
+    31.65
+   ],
+   "note": "天历二年。"
+  },
+  {
+   "id": "y1351-51",
+   "year": 1351,
+   "title": "贾鲁以工部尚书为总治河防使，发民十五万、军二万治河",
+   "type": "改道",
+   "place": "黄陵冈—白茅（今山东曹县—河南兰考）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷四十二·顺帝纪五",
+    "quote": "夏四月壬午，诏开黄河故道，命贾鲁以工部尚书为总治河防使，发汴梁、大名十三路民十五万",
+    "plain": "夏四月壬午，下诏开黄河故道，命贾鲁以工部尚书充任总治河防使，征发汴梁、大名十三路百姓十五万。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    115.03,
+    35.06
+   ],
+   "note": "至正十一年四月壬午。"
+  },
+  {
+   "id": "y1351-52",
+   "year": 1351,
+   "title": "“石人一只眼，挑动黄河天下反”：刘福通起于颍州，红巾军起",
+   "type": "战乱",
+   "place": "颍州（今安徽阜阳）",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷四十二·顺帝纪五",
+    "quote": "辛亥，颍州妖人刘福通为乱，以红巾为号，陷颍州。",
+    "plain": "辛亥，颍州妖人刘福通作乱，用红巾作标号，攻陷颍州。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    115.81,
+    32.89
+   ],
+   "note": "至正十一年五月。"
+  },
+  {
+   "id": "y1351-53",
+   "year": 1351,
+   "title": "贾鲁治河于黄陵冈得独眼石人，议者谓元乱由此",
+   "type": "文化",
+   "place": "黄陵冈",
+   "cite": {
+    "grade": "A",
+    "source": "《元史》卷六十六·河渠志三",
+    "quote": "及鲁治河，果于黄陵冈得石人一眼，而汝、颍之妖寇乘时而起。议者往往以谓天下之乱，皆由贾鲁治河之役",
+    "plain": "等到贾鲁治河，果然在黄陵冈挖到一个一只眼的石人，而汝州、颍州的妖寇趁时起事。议论的人往往认为天下大乱，都由贾鲁治河的工役引起。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/元史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    115.03,
+    35.06
+   ]
+  },
+  {
+   "id": "y1391-54",
+   "year": 1391,
+   "title": "黄河决原武，漫安山湖而东，会通河尽淤",
+   "type": "灾异",
+   "place": "原武（今河南原阳）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十五·河渠志三",
+    "quote": "洪武二十四年，河决原武，漫安山湖而东，会通尽淤，至是复之。",
+    "plain": "洪武二十四年，黄河在原武决口，漫过安山湖向东流，会通河全淤塞，到这时才恢复。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    113.97,
+    35.06
+   ],
+   "note": "洪武二十四年。"
+  },
+  {
+   "id": "y1403-55",
+   "year": 1403,
+   "title": "陈瑄总督海运，建百万仓于直沽，城天津卫",
+   "type": "漕运",
+   "place": "直沽（今天津）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷一百五十三·陈瑄传",
+    "quote": "总督海运，输粟四十九万余石，饷北京及辽东。遂建百万仓于直沽，城天津卫。",
+    "plain": "总督海运，运粮四十九万多石，供给北京和辽东。于是在直沽建百万仓，筑天津卫城。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "chenxuan",
+    "zhudi"
+   ],
+   "ll": [
+    117.2,
+    39.08
+   ],
+   "note": "永乐元年；天津卫城设于永乐二年。"
+  },
+  {
+   "id": "y1411-56",
+   "year": 1411,
+   "title": "宋礼、金纯浚会通河复通；用白英策筑戴村坝、南旺分水",
+   "type": "开凿",
+   "place": "南旺（今汶上）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十五·河渠志三",
+    "quote": "九年二月乃用济宁州同知潘叔正言，命尚书宋礼、侍郎金纯、都督周长浚会通河。",
+    "plain": "九年二月才采用济宁州同知潘叔正的建议，命尚书宋礼、侍郎金纯、都督周长疏浚会通河。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "zhudi",
+    "songli-baiying"
+   ],
+   "ll": [
+    116.37,
+    35.63
+   ],
+   "note": "永乐九年二月命，二十旬工成。"
+  },
+  {
+   "id": "y1411-57",
+   "year": 1411,
+   "title": "南旺分水：南流接徐沛十之四，北流达临清十之六",
+   "type": "技术",
+   "place": "南旺水脊",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷一百五十三·宋礼传",
+    "quote": "至南旺，中分之为二道，南流接徐、沛者十之四，北流达临清者十之六。南旺地势高，决其水，南北皆注，所谓水脊也。",
+    "plain": "到南旺，从中分为两道，南流接徐州、沛县的占十分之四，北流到临清的占十分之六。南旺地势高，放开它的水，南北都灌注，这就是所说的水脊。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "songli-baiying"
+   ],
+   "ll": [
+    116.37,
+    35.63
+   ]
+  },
+  {
+   "id": "y1415-58",
+   "year": 1415,
+   "title": "陈瑄凿清江浦，通北京漕运",
+   "type": "开凿",
+   "place": "清江浦（今淮安）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷七·成祖纪三",
+    "quote": "乙丑，凿清江浦，通北京漕运。",
+    "plain": "乙丑，开凿清江浦，通北京的漕运。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "chenxuan"
+   ],
+   "ll": [
+    119.03,
+    33.6
+   ],
+   "note": "永乐十三年五月乙丑。"
+  },
+  {
+   "id": "y1415-59",
+   "year": 1415,
+   "title": "会通河成、清江浦通，遂罢海运",
+   "type": "漕运",
+   "place": "北京",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷一百五十三·宋礼传",
+    "quote": "于是河运大便利，漕粟益多。十三年遂罢海运。",
+    "plain": "于是河运大为便利，漕运的粮食更多。十三年就停罢海运。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "zhudi",
+    "songli-baiying",
+    "chenxuan"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "永乐十三年。"
+  },
+  {
+   "id": "y1421-60",
+   "year": 1421,
+   "title": "明成祖迁都北京，御奉天殿受朝贺",
+   "type": "政治",
+   "place": "北京",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷七·成祖纪三",
+    "quote": "十九年春正月甲子朔，奉安五庙神主于太庙。御奉天殿受朝贺，大宴。",
+    "plain": "十九年春正月甲子朔，把五庙神主奉安在太庙。在奉天殿接受朝贺，举行大宴。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "zhudi"
+   ],
+   "ll": [
+    116.4,
+    39.91
+   ],
+   "note": "永乐十八年十一月诏迁都，十九年正月甲子朔正式以北京为京师。"
+  },
+  {
+   "id": "y1431-61",
+   "year": 1431,
+   "title": "陈瑄议改民运为兑运",
+   "type": "漕运",
+   "place": "淮安",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷一百五十三·陈瑄传",
+    "quote": "更民运为兑运，自此始也。",
+    "plain": "把民运改为兑运，从这时开始。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "chenxuan"
+   ],
+   "ll": [
+    119.02,
+    33.5
+   ],
+   "note": "宣德六年。"
+  },
+  {
+   "id": "y1448-62",
+   "year": 1448,
+   "title": "黄河北决冲张秋，夺运河入海",
+   "type": "灾异",
+   "place": "张秋（今山东阳谷）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十三·河渠志一",
+    "quote": "正统十三年，河北冲张秋。景泰中，徐有贞塞之，复由涡河入淮。",
+    "plain": "正统十三年，黄河向北冲张秋。景泰年间，徐有贞堵塞了它，又从涡河入淮。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.05,
+    36.05
+   ],
+   "note": "正统十三年；景泰中徐有贞塞之。"
+  },
+  {
+   "id": "y1494-63",
+   "year": 1494,
+   "title": "刘大夏治张秋决河，塞黄陵冈，河复南流",
+   "type": "改道",
+   "place": "张秋—黄陵冈",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十三·河渠志一",
+    "quote": "六年春，副都御史刘大夏奉敕往治决河。……经营二年，张秋决口就塞，复筑黄陵冈上流。",
+    "plain": "六年春，副都御史刘大夏奉敕前往治理决口的黄河。……经营两年，张秋的决口堵上，又修筑黄陵冈上流。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.05,
+    36.05
+   ],
+   "note": "弘治六年受命，经营二年，弘治七年末塞决口，改张秋曰安平镇。"
+  },
+  {
+   "id": "y1495-64",
+   "year": 1495,
+   "title": "刘大夏筑太行堤，起胙城历东明、长垣抵徐州三百六十里",
+   "type": "技术",
+   "place": "胙城—徐州（黄河北岸）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷一百八十二·刘大夏传",
+    "quote": "而筑长堤，起胙城历东明、长垣抵徐州，亘三百六十里。水大治，更名张秋镇曰“安平镇”。",
+    "plain": "又修筑长堤，从胙城起经东明、长垣到徐州，绵延三百六十里。水患大治，把张秋镇改名叫「安平镇」。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    115.0,
+    35.3
+   ],
+   "note": "弘治八年工竣；黄河从此专走南道会淮，北岸大堤即后世所称“太行堤”。"
+  },
+  {
+   "id": "y1565-65",
+   "year": 1565,
+   "title": "黄河决沛县飞云桥，运道淤塞百余里",
+   "type": "灾异",
+   "place": "沛县（今江苏沛县）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十五·河渠志三",
+    "quote": "四十四年七月，河大决沛县，漫昭阳湖，由沙河至二洪，浩渺无际，运道淤塞百馀里。",
+    "plain": "四十四年七月，黄河在沛县大决口，漫过昭阳湖，从沙河到二洪，浩渺无边，运道淤塞一百多里。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "panjixun"
+   ],
+   "ll": [
+    116.94,
+    34.72
+   ],
+   "note": "嘉靖四十四年七月。"
+  },
+  {
+   "id": "y1566-66",
+   "year": 1566,
+   "title": "朱衡开南阳新河成，河长一百九十四里",
+   "type": "开凿",
+   "place": "南阳—留城（今山东微山）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷二百二十三·朱衡传",
+    "quote": "会新河已成，乃止。河长一百九十四里。漕艘由境山入，通行至南阳。",
+    "plain": "正碰上新河已经修成，就停止了。河长一百九十四里。漕船从境山进入，一直通行到南阳。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "panjixun"
+   ],
+   "ll": [
+    117.1,
+    34.9
+   ],
+   "note": "嘉靖四十五年；循盛应期旧迹，避黄河于昭阳湖东。"
+  },
+  {
+   "id": "y1578-67",
+   "year": 1578,
+   "title": "潘季驯三任总河，筑高家堰束淮入清口，以清刷浊（束水攻沙）",
+   "type": "技术",
+   "place": "高家堰—清口",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷二百二十三·潘季驯传",
+    "quote": "当藉淮之清以刷河之浊，筑高堰束淮入清口，以敌河之强，使二水并流，则海口自浚。",
+    "plain": "应当借淮水的清去冲刷黄河的浊，修筑高堰约束淮水进入清口，用来抵挡黄河的强势，使两水一起流，那么海口自然疏通。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "panjixun"
+   ],
+   "ll": [
+    118.85,
+    33.3
+   ],
+   "note": "万历六年夏受命，七年十月两河工成；“以堤束水，以水攻沙”语出所著《河防一览》。"
+  },
+  {
+   "id": "y1579-68",
+   "year": 1579,
+   "title": "潘季驯两河工成：高家堰堤六十余里，遥堤五万六千余丈",
+   "type": "技术",
+   "place": "徐州—淮安",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十四·河渠志二",
+    "quote": "是役也，筑高家堰堤六十馀里，归仁集堤四十馀里，柳浦湾堤东西七十馀里，塞崔镇等决口百三十",
+    "plain": "这次工役，修筑高家堰堤六十多里，归仁集堤四十多里，柳浦湾堤东西七十多里，堵塞崔镇等决口一百三十。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "panjixun"
+   ],
+   "ll": [
+    118.3,
+    33.8
+   ],
+   "note": "万历七年十月。"
+  },
+  {
+   "id": "y1604-69",
+   "year": 1604,
+   "title": "李化龙开泇河成，自直河至李家港二百六十余里，尽避黄河之险",
+   "type": "开凿",
+   "place": "泇河（今山东台儿庄—江苏邳州）",
+   "cite": {
+    "grade": "A",
+    "source": "《明史》卷八十五·河渠志三",
+    "quote": "三十二年，总河侍郎李化龙始大开泇河，自直河至李家港二百六十馀里，尽避黄河之险。",
+    "plain": "三十二年，总河侍郎李化龙才大开泇河，从直河到李家港二百六十多里，完全避开黄河的险处。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/明史.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    117.73,
+    34.56
+   ],
+   "note": "万历三十二年四月浚泇河工成。"
+  },
+  {
+   "id": "y1644-70",
+   "year": 1644,
+   "title": "清承明制置漕运总督驻淮安、总河驻济宁",
+   "type": "政治",
+   "place": "淮安／济宁",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百十六·职官志三",
+    "quote": "顺治元年，遣御史巡漕，寻置总督，驻淮安。",
+    "plain": "顺治元年，派遣御史巡视漕运，不久设置总督，驻在淮安。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.02,
+    33.5
+   ],
+   "note": "顺治元年。"
+  },
+  {
+   "id": "y1677-71",
+   "year": 1677,
+   "title": "靳辅授河道总督，八疏同日上，束水入海、修高家堰",
+   "type": "技术",
+   "place": "清江浦",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百十六·职官志三",
+    "quote": "顺治元年，置总河，驻济宁。康熙十六年，移驻清江浦。",
+    "plain": "顺治元年，设置总河，驻在济宁。康熙十六年，移驻清江浦。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "jinfu"
+   ],
+   "ll": [
+    119.03,
+    33.6
+   ],
+   "note": "康熙十六年二月；河道总督自济宁移驻清江浦。"
+  },
+  {
+   "id": "y1684-72",
+   "year": 1684,
+   "title": "康熙首次南巡阅河，至清口令添建石闸",
+   "type": "政治",
+   "place": "清口",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十七·河渠志二",
+    "quote": "二十三年，上南巡阅河，至清口，以运口水紧，令添建石闸于清河运口。",
+    "plain": "二十三年，皇上南巡阅河，到清口，因为运口水势紧急，下令在清河运口增建石闸。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "jinfu"
+   ],
+   "ll": [
+    119.1,
+    33.62
+   ],
+   "note": "康熙二十三年；此后康熙南巡凡六次。"
+  },
+  {
+   "id": "y1686-73",
+   "year": 1686,
+   "title": "靳辅开中河，自骆马湖历宿迁、桃源至仲家庄",
+   "type": "开凿",
+   "place": "宿迁—清河",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十七·河渠志二",
+    "quote": "自骆马湖凿渠，历宿迁、桃源至清河仲家庄出口，名曰中河。",
+    "plain": "从骆马湖开渠，经过宿迁、桃源到清河仲家庄出口，名叫中河。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "jinfu"
+   ],
+   "ll": [
+    118.28,
+    33.96
+   ],
+   "note": "康熙二十五年始凿。"
+  },
+  {
+   "id": "y1688-74",
+   "year": 1688,
+   "title": "中河通航，粮船避黄河一百八十里之险；靳辅罢",
+   "type": "漕运",
+   "place": "中河",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十七·河渠志二",
+    "quote": "粮船北上，出清口后，行黄河数里，即入中河，直达张庄运口，以避黄河百八十里之险。",
+    "plain": "粮船北上，出清口以后，在黄河上走几里，就进入中河，直达张庄运口，用来避开黄河一百八十里的险处。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "jinfu"
+   ],
+   "ll": [
+    118.6,
+    33.85
+   ],
+   "note": "康熙二十七年。"
+  },
+  {
+   "id": "y1751-75",
+   "year": 1751,
+   "title": "乾隆首次南巡，奉皇太后循运河南下",
+   "type": "政治",
+   "place": "北京→杭州",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十一·高宗纪二",
+    "quote": "辛亥，上奉皇太后南巡。癸丑，免经过直隶、山东地方本年额赋十分之三。自是南巡皆如之。",
+    "plain": "辛亥，皇上奉皇太后南巡。癸丑，免除经过的直隶、山东地方本年额赋的十分之三。从此南巡都照这样办。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "乾隆十六年正月辛亥启銮。"
+  },
+  {
+   "id": "y1757-76",
+   "year": 1757,
+   "title": "乾隆第二次南巡",
+   "type": "政治",
+   "place": "北京→江浙",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十二·高宗纪三",
+    "quote": "二十二年春正月甲午，以南巡免江苏、安徽、浙江累年逋赋。",
+    "plain": "二十二年春正月甲午，因南巡免除江苏、安徽、浙江历年拖欠的赋税。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ]
+  },
+  {
+   "id": "y1762-77",
+   "year": 1762,
+   "title": "乾隆第三次南巡",
+   "type": "政治",
+   "place": "北京→江浙",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十二·高宗纪三",
+    "quote": "丙午，上奉皇太后南巡，发京师，免直隶、山东经过地方本年钱粮十分之三",
+    "plain": "丙午，皇上奉皇太后南巡，从京师出发，免除直隶、山东经过地方本年钱粮的十分之三。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ]
+  },
+  {
+   "id": "y1765-78",
+   "year": 1765,
+   "title": "乾隆第四次南巡",
+   "type": "政治",
+   "place": "北京→江浙",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十三·高宗纪四",
+    "quote": "壬戌，上奉皇太后启跸南巡。癸亥，免直隶、山东经过州县额赋十分之三。",
+    "plain": "壬戌，皇上奉皇太后起驾南巡。癸亥，免除直隶、山东经过州县额赋的十分之三。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ]
+  },
+  {
+   "id": "y1780-79",
+   "year": 1780,
+   "title": "乾隆第五次南巡，幸杭州阅水师，回程阅高家堰堤工",
+   "type": "政治",
+   "place": "杭州／高家堰",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十四·高宗纪五",
+    "quote": "癸未，上幸杭州府。甲申，上幸秋涛宫阅水师。",
+    "plain": "癸未，皇上巡幸杭州府。甲申，皇上巡幸秋涛宫检阅水师。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    120.15,
+    30.27
+   ],
+   "note": "乾隆四十五年。"
+  },
+  {
+   "id": "y1784-80",
+   "year": 1784,
+   "title": "乾隆第六次（末次）南巡",
+   "type": "政治",
+   "place": "北京→江浙",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷十五·高宗纪六",
+    "quote": "四十九年春正月丁未，上南巡，免直隶、山东经过地方本年钱粮十分之三。",
+    "plain": "四十九年春正月丁未，皇上南巡，免除直隶、山东经过地方本年钱粮的十分之三。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [
+    "qianlong"
+   ],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "乾隆四十九年正月丁未。"
+  },
+  {
+   "id": "y1826-81",
+   "year": 1826,
+   "title": "道光六年初行海运，苏松等府漕米由沙船运抵天津",
+   "type": "漕运",
+   "place": "上海—天津",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷三百七十二·关天培传",
+    "quote": "道光六年，初行海运，督护百四十馀艘抵天津，被优叙。",
+    "plain": "道光六年，初次实行海运，督护一百四十多艘船抵达天津，受到优等叙功。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    121.47,
+    31.23
+   ],
+   "note": "道光六年。"
+  },
+  {
+   "id": "y1855-82",
+   "year": 1855,
+   "title": "黄河决兰阳铜瓦厢，改道北流穿运入大清河",
+   "type": "改道",
+   "place": "铜瓦厢（今河南兰考）",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十六·河渠志一",
+    "quote": "五年六月，决兰阳铜瓦厢，夺溜由长垣、东明至张秋，穿运注大清河入海，正河断流。",
+    "plain": "五年六月，在兰阳铜瓦厢决口，夺流经长垣、东明到张秋，穿过运河注入大清河入海，正河断流。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    114.82,
+    34.83
+   ],
+   "note": "咸丰五年六月；黄河结束七百年夺淮历史，运河在张秋被拦腰截断。"
+  },
+  {
+   "id": "y1855-83",
+   "year": 1855,
+   "title": "黄河北徙、中原多故，运道中梗，海运遂以为常",
+   "type": "漕运",
+   "place": "张秋",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十七·河渠志二",
+    "quote": "迨咸丰朝，黄河北徙，中原多故，运道中梗。终清之世，海运遂以为常。",
+    "plain": "到了咸丰朝，黄河向北改道，中原多事故，运道中间阻断。终清一代，海运于是成为常例。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.05,
+    36.05
+   ]
+  },
+  {
+   "id": "y1872-84",
+   "year": 1872,
+   "title": "李鸿章奏设轮船招商局，分运漕米",
+   "type": "漕运",
+   "place": "上海",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百五十一·交通志二",
+    "quote": "同治十一年，直隶总督李鸿章建议设轮船招商局，论者谓妨河船生计。",
+    "plain": "同治十一年，直隶总督李鸿章建议设立轮船招商局，议论的人说妨碍河船的生计。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    121.47,
+    31.23
+   ],
+   "note": "同治十一年。"
+  },
+  {
+   "id": "y1901-85",
+   "year": 1901,
+   "title": "诏各省漕粮全改折色，河运遂废",
+   "type": "漕运",
+   "place": "北京",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百二十二·食货志三漕运",
+    "quote": "自是河运遂废，而运河水利亦由各省分筹矣。",
+    "plain": "从此河运于是废止，而运河的水利也由各省分别筹办了。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "note": "光绪二十七年，奕劻、李鸿章奏。"
+  },
+  {
+   "id": "y1904-86",
+   "year": 1904,
+   "title": "裁漕运总督",
+   "type": "政治",
+   "place": "淮安",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百十六·职官志三",
+    "quote": "光绪三十年，以淮、徐盗警，改置巡抚。明年省。",
+    "plain": "光绪三十年，因为淮、徐一带的盗警，改设巡抚。第二年裁撤。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.02,
+    33.5
+   ],
+   "note": "光绪三十年改置江淮巡抚，次年省。"
+  },
+  {
+   "id": "y1911-87",
+   "year": 1911,
+   "title": "津浦铁路工竣",
+   "type": "技术",
+   "place": "天津—浦口",
+   "cite": {
+    "grade": "A",
+    "source": "《清史稿》卷一百四十九·交通志一",
+    "quote": "改议北起天津，南讫浦口，借英、德款五百万镑。尚书吕海寰主其事。宣统三年，工竣。",
+    "plain": "改议为北起天津，南到浦口，借英国、德国的款项五百万镑。尚书吕海寰主持这件事。宣统三年，工程完竣。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/史藏/正史/清史稿.txt"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    117.2,
+    39.08
+   ],
+   "note": "宣统三年工竣，1912年全线通车；铁路取代运河成为南北干线。"
+  },
+  {
+   "id": "y1958-88",
+   "year": 1958,
+   "title": "京杭运河大规模整治，苏北段结合南水北调东线雏形扩建",
+   "type": "技术",
+   "place": "扬州—徐州",
+   "cite": {
+    "grade": "C",
+    "source": "《京杭运河志（苏北段）》等今人编纂"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.42,
+    32.39
+   ],
+   "note": "1958年起国家投资整治京杭运河，苏北段（扬州—徐州）拓浚为二级航道，并建江都水利枢纽（1961年起）。今人研究，未取得原始档案核对。"
+  },
+  {
+   "id": "y2014-89",
+   "year": 2014,
+   "title": "中国大运河列入《世界遗产名录》",
+   "type": "文化",
+   "place": "多哈（第38届世界遗产大会）",
+   "cite": {
+    "grade": "C",
+    "source": "〔数据库〕UNESCO WHC 38 COM 8B.24（2014）",
+    "url": "https://whc.unesco.org/en/list/1443/"
+   },
+   "topics": [
+    "yunhe"
+   ],
+   "person_ids": [],
+   "ll": [
+    51.53,
+    25.29
+   ],
+   "note": "2014年6月22日联合国教科文组织第38届世界遗产大会（卡塔尔多哈）通过，含隋唐大运河、京杭大运河、浙东运河共31处遗产区。"
+  },
+  {
+   "id": "hg1839-00",
+   "year": 1839,
+   "title": "林则徐抵广州",
+   "type": "政治",
+   "place": "广州",
+   "cite": {
+    "grade": "B",
+    "source": "《清史稿·林则徐传》",
+    "quote": "十九年春，至。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%B8%85%E5%8F%B2%E7%A8%BF.txt",
+    "plain": "道光十九年春天，到达（广州）。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "linzexu"
+   ],
+   "ll": [
+    113.26,
+    23.13
+   ],
+   "note": "具体日期道光十九年正月二十五日（1839-03-10）为通行说。"
+  },
+  {
+   "id": "hg1839-01",
+   "year": 1839,
+   "title": "虎门销烟",
+   "type": "政治",
+   "place": "虎门",
+   "cite": {
+    "grade": "B",
+    "source": "《清史稿·林则徐传》",
+    "quote": "亲莅虎门验收，焚於海滨，四十馀日始尽。",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%B8%85%E5%8F%B2%E7%A8%BF.txt",
+    "plain": "亲自到虎门验收，在海边销毁，四十多天才烧完。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "linzexu"
+   ],
+   "ll": [
+    113.67,
+    22.82
+   ],
+   "note": "公历1839年6月3日起为通行说。"
+  },
+  {
+   "id": "hg1839-02",
+   "year": 1839,
+   "title": "林则徐译馆编译《四洲志》",
+   "type": "译书",
+   "place": "广州",
+   "cite": {
+    "grade": "C",
+    "source": "邹振环《〈四洲志〉：近代中国最早的百科全书》",
+    "url": "https://www.thepaper.cn/newsDetail_forward_7465895"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "linzexu"
+   ],
+   "ll": [
+    113.26,
+    23.13
+   ],
+   "note": "主要译者梁进德；底本慕瑞 An Encyclopaedia of Geography（美国费城版之说）。"
+  },
+  {
+   "id": "hg1841-03",
+   "year": 1841,
+   "title": "京口林魏夜话",
+   "type": "会面",
+   "place": "京口（今镇江）",
+   "cite": {
+    "grade": "B",
+    "source": "魏源《江口晤林少穆制府》二首（转引）",
+    "quote": "不辞京口月，肝胆醉轮囷",
+    "url": "https://www.sohu.com/a/364438908_273853",
+    "plain": "不推辞京口的月夜长谈，肝胆相照，醉意盘桓。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "linzexu",
+    "weiyuan"
+   ],
+   "ll": [
+    119.45,
+    32.2
+   ],
+   "note": "交付《四洲志》之说为今人通行叙述（C）。"
+  },
+  {
+   "id": "hg1842-04",
+   "year": 1842,
+   "title": "魏源叙《海国图志》于扬州（五十卷本）",
+   "type": "刊行",
+   "place": "扬州",
+   "cite": {
+    "grade": "A",
+    "source": "魏源《海国图志·原叙》（百卷本所载，署道光二十二年）（殆知阁本，原文无标点，引文中逗号为本条整理时代替空格所加，文字未改）",
+    "quote": "道光二十有二载，岁在壬寅嘉平月，内阁中书邵阳魏源叙于扬州",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%B7%E5%9B%BD%E5%9B%BE%E5%BF%97.txt",
+    "plain": "道光二十二年，壬寅年十二月，内阁中书、邵阳人魏源在扬州写下这篇序。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "weiyuan"
+   ],
+   "ll": [
+    119.43,
+    32.39
+   ],
+   "note": "叙署年当公历1843年1月；刊行年有1842/1843/1844三说，庄钦永据牌记定为1844年古微堂聚珍板。"
+  },
+  {
+   "id": "hg1847-05",
+   "year": 1847,
+   "title": "六十卷本刻于扬州",
+   "type": "刊行",
+   "place": "扬州",
+   "cite": {
+    "grade": "A",
+    "source": "《海国图志》百卷本附记",
+    "quote": "原刻六十卷，道光二十七载刻于扬州",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%B7%E5%9B%BD%E5%9B%BE%E5%BF%97.txt",
+    "plain": "最初刻印的是六十卷，道光二十七年在扬州刻版。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "weiyuan"
+   ],
+   "ll": [
+    119.43,
+    32.39
+   ]
+  },
+  {
+   "id": "hg1848-06",
+   "year": 1848,
+   "title": "徐继畬《瀛寰志略》刊于福州",
+   "type": "刊行",
+   "place": "福州",
+   "cite": {
+    "grade": "C",
+    "source": "〔数据库〕书格国图藏本著录",
+    "url": "https://www.shuge.org/meet/topic/18476/"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    119.3,
+    26.08
+   ],
+   "note": "同期世界地理志，后被百卷本引用。"
+  },
+  {
+   "id": "hg1851-07",
+   "year": 1851,
+   "title": "《海国图志》由中国商船传入长崎",
+   "type": "传入",
+   "place": "长崎",
+   "cite": {
+    "grade": "B",
+    "source": "〔数据库〕国立国会図書館电子展示「知識を世界に求めて」开国期における西洋知識の移入",
+    "url": "https://www.ndl.go.jp/d_exhibitions/honyaku/211",
+    "quote": "我が国へは嘉永4（1851）年に伝来し",
+    "plain": "（此书）于嘉永四年（1851）传入我国（日本）。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    129.874,
+    32.745
+   ],
+   "note": "另说嘉永三年（1850）"
+  },
+  {
+   "id": "hg1851-08",
+   "year": 1851,
+   "title": "因含基督教记事，首批输入本被没收",
+   "type": "政治",
+   "place": "长崎",
+   "cite": {
+    "grade": "C",
+    "source": "Tankha 2000 注14 引 Kornicki 1998",
+    "url": "https://journals.sagepub.com/doi/10.1177/000944550003600102",
+    "quote": "the last recorded case of censorship was the HKTC that was imported in 1851 and 1852.",
+    "plain": "有记录的最后一次审查，是针对 1851、1852 年输入的《海国图志》。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    129.874,
+    32.745
+   ],
+   "note": "没收经办人向井兼哲、船号亥二号见中文转述"
+  },
+  {
+   "id": "hg1852-09",
+   "year": 1852,
+   "title": "百卷本刊于高邮州",
+   "type": "刊行",
+   "place": "高邮",
+   "cite": {
+    "grade": "A",
+    "source": "《海国图志》百卷本附记及后叙",
+    "quote": "咸丰二年重补成一百卷，刊于高邮州",
+    "url": "https://raw.githubusercontent.com/garychowcmu/daizhigev20/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%B7%E5%9B%BD%E5%9B%BE%E5%BF%97.txt",
+    "plain": "咸丰二年重新增补成一百卷，在高邮州刊行。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "weiyuan"
+   ],
+   "ll": [
+    119.46,
+    32.78
+   ],
+   "note": "梁启章等称百卷本“在扬州杀青付梓”，与附记“刊于高邮州”不一致。"
+  },
+  {
+   "id": "hg1853-10",
+   "year": 1853,
+   "title": "佩里舰队来航浦贺",
+   "type": "政治",
+   "place": "浦贺",
+   "cite": {
+    "grade": "C",
+    "source": "一般史实（嘉永六年六月）"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    139.72,
+    35.24
+   ],
+   "note": "此后禁制松动"
+  },
+  {
+   "id": "hg1854-11",
+   "year": 1854,
+   "title": "日美和亲条约（神奈川条约）签订",
+   "type": "政治",
+   "place": "横滨（神奈川）",
+   "cite": {
+    "grade": "C",
+    "source": "一般史实（嘉永七年三月三日）"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    139.64,
+    35.44
+   ],
+   "note": "和刻本集中出现于同年"
+  },
+  {
+   "id": "hg1854-12",
+   "year": 1854,
+   "title": "输入15部，7部入幕府，余者拍卖",
+   "type": "传入",
+   "place": "长崎",
+   "cite": {
+    "grade": "C",
+    "source": "〔图录〕安土堂和洋史料販売目録",
+    "url": "http://azuchi.cocolog-nifty.com/catalog/2004/09/post_9.html",
+    "quote": "嘉永７年には15部が輸入され、７部が幕府御用となり",
+    "plain": "嘉永七年（1854）输入十五部，其中七部归幕府使用。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    129.874,
+    32.745
+   ],
+   "note": "中文综述作寅一号船"
+  },
+  {
+   "id": "hg1854-13",
+   "year": 1854,
+   "title": "《翻栞海国图志》（筹海篇）江户刊行",
+   "type": "刊行",
+   "place": "江户",
+   "cite": {
+    "grade": "B",
+    "source": "〔数据库〕早稲田大学古典籍総合データベース i13_00525",
+    "url": "https://www.wul.waseda.ac.jp/kotenseki/html/i13/i13_00525/index.html",
+    "quote": "序題:翻栞海国図志",
+    "plain": "序题为《翻栞海国图志》。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "shionoya_toin",
+    "mitsukuri_genpo"
+   ],
+   "ll": [
+    139.785,
+    35.698
+   ],
+   "note": "嘉永七年七月（据古书目录，C）"
+  },
+  {
+   "id": "hg1854-14",
+   "year": 1854,
+   "title": "佐久间象山下狱，著《省諐录》论魏源",
+   "type": "阅读",
+   "place": "江户",
+   "cite": {
+    "grade": "B",
+    "source": "《省諐録》录文（网络录文，未与原刻对校，降为 B）",
+    "url": "http://sybrma.sakura.ne.jp/359syouzan.seikenroku2.html",
+    "quote": "眞可謂海外同志矣",
+    "plain": "真可以说是海外的同志了。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "sakuma_shozan",
+    "yoshida_shoin"
+   ],
+   "ll": [
+    139.776,
+    35.691
+   ]
+  },
+  {
+   "id": "hg1855-15",
+   "year": 1855,
+   "title": "横井小楠与内藤泰吉共读《海国图志》",
+   "type": "阅读",
+   "place": "熊本沼山津",
+   "cite": {
+    "grade": "C",
+    "source": "荒川紘 2011",
+    "url": "https://www.aichi-toho.ac.jp/wp-content/uploads/2016/07/201106004001_08.pdf"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [
+    "yokoi_shonan"
+   ],
+   "ll": [
+    130.78,
+    32.78
+   ]
+  },
+  {
+   "id": "hg1861-16",
+   "year": 1861,
+   "title": "《瀛环志略》和刻本（对嵋阁本）刊行",
+   "type": "刊行",
+   "place": "阿波（德岛）",
+   "cite": {
+    "grade": "B",
+    "source": "〔数据库〕早稲田大学古典籍総合データベース ru02_02016",
+    "url": "https://www.wul.waseda.ac.jp/kotenseki/html/ru02/ru02_02016/index.html"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    134.55,
+    34.07
+   ]
+  },
+  {
+   "id": "hg1876-17",
+   "year": 1876,
+   "title": "甘肃平庆泾固道署重刊百卷本，左宗棠作序",
+   "type": "刊行",
+   "place": "平凉",
+   "cite": {
+    "grade": "B",
+    "source": "〔数据库〕早稲田大学古典籍総合データベース ru01_03176",
+    "url": "https://www.wul.waseda.ac.jp/kotenseki/html/ru01/ru01_03176/index.html",
+    "quote": "序:左宗棠ほか",
+    "plain": "序：左宗棠等。"
+   },
+   "topics": [
+    "haiguo"
+   ],
+   "person_ids": [],
+   "ll": [
+    106.67,
+    35.54
+   ],
+   "note": "序文称“光绪纪元”，NDL展示另著录光緒元（1875）重刊本；道署驻平凉"
+  },
+  {
+   "id": "xz-622-ordain",
+   "year": 622,
+   "title": "成都受具足戒",
+   "type": "学法",
+   "place": "成都",
+   "ll": [
+    104.07,
+    30.67
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷一（CBETA T2053）",
+    "quote": "法师年满二十，即以武德五年于成都受具",
+    "plain": "法师年满二十岁，就在武德五年于成都受了具足戒。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-629-depart",
+   "year": 629,
+   "title": "违禁西行",
+   "type": "出发",
+   "place": "长安",
+   "ll": [
+    108.94,
+    34.26
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷一（CBETA T2053）",
+    "quote": "贞观三年秋八月，将欲首涂",
+    "plain": "贞观三年秋天八月，正要启程上路。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "出发月份另有“四月”说（于阗进表），见 years.json。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-629-desert",
+   "year": 629,
+   "title": "独越八百里沙河",
+   "type": "出发",
+   "place": "莫贺延碛",
+   "ll": [
+    94.5,
+    42.0
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷一（CBETA T2053）",
+    "quote": "宁可就西而死，岂归东而生！",
+    "plain": "宁可向西走而死，岂能回东方去求生！",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-630-gaochang",
+   "year": 630,
+   "title": "与高昌王麴文泰结为兄弟",
+   "type": "会见",
+   "place": "高昌王城",
+   "ll": [
+    89.53,
+    42.85
+   ],
+   "person_ids": [
+    "xuanzang",
+    "qu_wentai"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷一（CBETA T2053）",
+    "quote": "对母张太妃，共法师约为兄弟，任师求法",
+    "plain": "当着母亲张太妃的面，与法师结为兄弟，任由法师去求法。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-630-kucha",
+   "year": 630,
+   "title": "屈支论难木叉毱多",
+   "type": "辩论",
+   "place": "屈支",
+   "ll": [
+    82.96,
+    41.72
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷二（CBETA T2053）",
+    "quote": "乃取本对读之，毱多极惭，云：「老忘耳。」",
+    "plain": "于是拿出论本对照阅读，毱多非常惭愧，说：“老了，忘记了。”",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-630-yehu",
+   "year": 630,
+   "title": "素叶城见西突厥叶护可汗",
+   "type": "会见",
+   "place": "素叶城",
+   "ll": [
+    75.2,
+    42.8
+   ],
+   "person_ids": [
+    "xuanzang",
+    "yehu_khagan"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷二（CBETA T2053）",
+    "quote": "可汗乃令军中访解汉语及诸国音者",
+    "plain": "可汗于是命令在军中寻找懂汉语和各国语言的人。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推；可汗身份见 unresolved。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-631-shadow",
+   "year": 631,
+   "title": "瞿波罗龙窟礼佛影",
+   "type": "学法",
+   "place": "那揭罗曷灯光城",
+   "ll": [
+    70.45,
+    34.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷二（CBETA T2053）",
+    "quote": "贼者，人也，今为礼佛，虽猛兽盈衢，奘犹不惧",
+    "plain": "盗贼也是人。如今我为礼佛而来，即使猛兽满路，我尚且不怕。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-631-kashmir",
+   "year": 631,
+   "title": "迦湿弥罗从僧称学俱舍、顺正理",
+   "type": "学法",
+   "place": "迦湿弥罗",
+   "ll": [
+    74.8,
+    34.08
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷二（CBETA T2053）",
+    "quote": "自午已前讲《俱舍论》，自午已后讲《顺正理论》",
+    "plain": "中午以前讲《俱舍论》，中午以后讲《顺正理论》。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-633-ganges",
+   "year": 633,
+   "title": "殑伽河遇贼将被祭天",
+   "type": "会见",
+   "place": "阿踰陀附近殑伽河",
+   "ll": [
+    80.6,
+    26.4
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷三（CBETA T2053）",
+    "quote": "法师颜无有惧，贼皆惊异",
+    "plain": "法师脸上毫无惧色，盗贼们都很惊异。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推；类型无“遇险”项，暂归“会见”。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-633-nalanda",
+   "year": 633,
+   "title": "入那烂陀寺拜戒贤为师",
+   "type": "学法",
+   "place": "那烂陀寺",
+   "ll": [
+    85.44,
+    25.14
+   ],
+   "person_ids": [
+    "xuanzang",
+    "jiexian"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷三（CBETA T2053）",
+    "quote": "从支那国来，欲依师学《瑜伽论》",
+    "plain": "我从支那国来，想跟随老师学习《瑜伽论》。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推（631—633之间）。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-638-kanchi",
+   "year": 638,
+   "title": "建志补罗未能渡海往僧伽罗",
+   "type": "学法",
+   "place": "建志补罗",
+   "ll": [
+    79.7,
+    12.83
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷四（CBETA T2053）",
+    "quote": "我国王死，人庶饥荒，无可依仗",
+    "plain": "我们国王死了，百姓饥荒，没有可以依靠的。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-640-jayasena",
+   "year": 640,
+   "title": "杖林山从胜军学唯识",
+   "type": "学法",
+   "place": "杖林山",
+   "ll": [
+    85.22,
+    24.93
+   ],
+   "person_ids": [
+    "xuanzang",
+    "shengjun"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷四（CBETA T2053）",
+    "quote": "此处十年后，戒日王当崩，印度荒乱，恶人相害，汝可知之",
+    "plain": "这里十年以后，戒日王会驾崩，印度将陷入荒乱，恶人互相残害，你应当知道。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-641-poejian",
+   "year": 641,
+   "title": "作《破恶见论》一千六百颂",
+   "type": "辩论",
+   "place": "那烂陀寺",
+   "ll": [
+    85.44,
+    25.14
+   ],
+   "person_ids": [
+    "xuanzang",
+    "jiexian"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷四（CBETA T2053）",
+    "quote": "申大乘义而破之，为一千六百颂，名《破恶见论》",
+    "plain": "阐述大乘义理来破斥它，写成一千六百颂，名为《破恶见论》。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-642-kumara",
+   "year": 642,
+   "title": "应鸠摩罗王之请赴迦摩缕波",
+   "type": "会见",
+   "place": "迦摩缕波",
+   "ll": [
+    91.75,
+    26.14
+   ],
+   "person_ids": [
+    "xuanzang",
+    "kumara",
+    "jiexian"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "仁或是其宿世善友，努力为去",
+    "plain": "你或许是他前世的善友，努力去一趟吧。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-642-harsha",
+   "year": 642,
+   "title": "羯朱嗢祇罗初见戒日王",
+   "type": "会见",
+   "place": "羯朱嗢祇罗",
+   "ll": [
+    87.84,
+    25.05
+   ],
+   "person_ids": [
+    "xuanzang",
+    "harsha",
+    "kumara"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "弟子闻彼国有《秦王破阵乐》歌舞之曲，未知秦王是何人？",
+    "plain": "弟子听说那个国家有《秦王破阵乐》的歌舞曲子，不知道秦王是什么人？",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-642-kanyakubja",
+   "year": 642,
+   "title": "曲女城大会立大乘义",
+   "type": "辩论",
+   "place": "曲女城",
+   "ll": [
+    79.92,
+    27.05
+   ],
+   "person_ids": [
+    "xuanzang",
+    "harsha",
+    "kumara"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "大乘众号曰「摩诃耶那提婆」，此云「大乘天」",
+    "plain": "大乘僧众称他为“摩诃耶那提婆”，汉语意为“大乘天”。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-643-prayaga",
+   "year": 643,
+   "title": "钵逻耶伽七十五日无遮大会",
+   "type": "会见",
+   "place": "钵逻耶伽",
+   "ll": [
+    81.88,
+    25.43
+   ],
+   "person_ids": [
+    "xuanzang",
+    "harsha",
+    "kumara"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "五年一请五印度沙门、婆罗门及贫穷孤独，为七十五日无遮大施",
+    "plain": "每五年邀请五印度的沙门、婆罗门以及贫穷孤独者，举行七十五天的无遮大布施。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-643-indus",
+   "year": 643,
+   "title": "渡信度河失经五十夹",
+   "type": "归国",
+   "place": "乌铎迦汉荼城",
+   "ll": [
+    72.43,
+    34.03
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "遂失五十夹经本及花果种等，自余仅得保全",
+    "plain": "于是丢失了五十夹经本和花果种子等，其余的勉强得以保全。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "年份约推。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-644-khotan",
+   "year": 644,
+   "title": "于阗上表太宗",
+   "type": "归国",
+   "place": "瞿萨旦那",
+   "ll": [
+    79.92,
+    37.11
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_taizong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷五（CBETA T2053）",
+    "quote": "闻师访道殊域，今得归还，欢喜无量，可即速来与朕相见",
+    "plain": "听说法师到异域求法，如今得以归来，朕欢喜无比，可立即速来与朕相见。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-645-changan",
+   "year": 645,
+   "title": "携经像返抵长安",
+   "type": "归国",
+   "place": "长安",
+   "ll": [
+    108.94,
+    34.26
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷六（CBETA T2053）",
+    "quote": "始自朱雀街内，终届弘福寺门，数十里间，都人仕子、内外官僚列道两傍",
+    "plain": "从朱雀街开始，到弘福寺门为止，几十里之间，京城士人与内外官员排列在道路两旁。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-645-luoyang",
+   "year": 645,
+   "title": "洛阳宫仪鸾殿谒见太宗",
+   "type": "会见",
+   "place": "洛阳宫",
+   "ll": [
+    112.45,
+    34.68
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_taizong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷六（CBETA T2053）",
+    "quote": "帝曰：「师去何不相报？」",
+    "plain": "皇帝说：“法师出行为什么不告诉朕？”",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-645-hongfu",
+   "year": 645,
+   "title": "弘福寺开设译场",
+   "type": "译经",
+   "place": "长安弘福寺",
+   "ll": [
+    108.93,
+    34.28
+   ],
+   "person_ids": [
+    "xuanzang",
+    "bianji",
+    "huili_yancong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷六（CBETA T2053）",
+    "quote": "又有缀文大德九人至，即京师普光寺沙门栖玄",
+    "plain": "又有九位负责缀文的大德到来，即京城普光寺僧栖玄等人。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-646-xiyuji",
+   "year": 646,
+   "title": "进呈《大唐西域记》十二卷",
+   "type": "译经",
+   "place": "长安弘福寺",
+   "ll": [
+    108.93,
+    34.28
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_taizong",
+    "bianji"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷六（CBETA T2053）",
+    "quote": "称为《大唐西域记》，凡一十二卷",
+    "plain": "名为《大唐西域记》，共十二卷。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-648-preface",
+   "year": 648,
+   "title": "太宗御制《大唐三藏圣教序》",
+   "type": "译经",
+   "place": "玉华宫",
+   "ll": [
+    109.08,
+    35.28
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_taizong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷六（CBETA T2053）",
+    "quote": "名《大唐三藏圣教序》，凡七百八十一字",
+    "plain": "名为《大唐三藏圣教序》，共七百八十一字。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-648-cien",
+   "year": 648,
+   "title": "迎经像入大慈恩寺",
+   "type": "译经",
+   "place": "大慈恩寺",
+   "ll": [
+    108.96,
+    34.22
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_gaozong",
+    "tang_taizong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷七（CBETA T2053）",
+    "quote": "旦集安福门街，迎像送僧入大慈恩寺",
+    "plain": "早晨在安福门街集合，迎送佛像和僧众进入大慈恩寺。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-652-pagoda",
+   "year": 652,
+   "title": "慈恩寺西院建砖塔（大雁塔前身）",
+   "type": "建塔",
+   "place": "大慈恩寺",
+   "ll": [
+    108.96,
+    34.22
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_gaozong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷七（CBETA T2053）",
+    "quote": "塔有五级，并相轮、露槃，凡高一百八十尺",
+    "plain": "塔有五层，加上相轮和露盘，共高一百八十尺。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "原文“三年春三月”在永徽纪年下，即永徽三年。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-663-prajna",
+   "year": 663,
+   "title": "玉华寺译毕《大般若经》六百卷",
+   "type": "译经",
+   "place": "玉华寺",
+   "ll": [
+    109.08,
+    35.28
+   ],
+   "person_ids": [
+    "xuanzang",
+    "kuiji"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷十（CBETA T2053）",
+    "quote": "至龙朔三年冬十月二十三日，功毕绝笔，合成六百卷",
+    "plain": "到龙朔三年冬十月二十三日，翻译完成搁笔，共成六百卷。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-664-death",
+   "year": 664,
+   "title": "玉华寺圆寂",
+   "type": "卒葬",
+   "place": "玉华寺",
+   "ll": [
+    109.08,
+    35.28
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_gaozong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷十（CBETA T2053）",
+    "quote": "言讫，喘息渐微。少间神逝，侍人不觉，属纩方知",
+    "plain": "说完，呼吸渐渐微弱。不久便圆寂了，侍者没有察觉，用丝绵试鼻息时才知道。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "note": "卒于麟德元年二月五日夜半。",
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-664-burial",
+   "year": 664,
+   "title": "葬白鹿原",
+   "type": "卒葬",
+   "place": "浐东白鹿原",
+   "ll": [
+    109.05,
+    34.22
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_gaozong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "道宣《续高僧传》卷四《玄奘传》（CBETA T2060）",
+    "quote": "乃葬于白鹿原四十里中。皂素弥满",
+    "plain": "于是安葬在白鹿原，方圆四十里之内，僧俗送葬者布满原野。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2060.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-669-reburial",
+   "year": 669,
+   "title": "改葬樊川北原",
+   "type": "卒葬",
+   "place": "樊川北原",
+   "ll": [
+    108.98,
+    34.07
+   ],
+   "person_ids": [
+    "xuanzang",
+    "tang_gaozong"
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "慧立、彦悰《大唐大慈恩寺三藏法师传》卷十（CBETA T2053）",
+    "quote": "至总章二年四月八日，有勅徙葬法师于樊川北原，营建塔宇",
+    "plain": "到总章二年四月八日，皇帝下敕将法师迁葬到樊川北原，并营建塔寺。",
+    "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T50/T50n2053.xml"
+   },
+   "topics": [
+    "xuanzang"
+   ]
+  },
+  {
+   "id": "xz-yi-645-大菩萨藏",
+   "year": 645,
+   "title": "译《大菩萨藏经》20卷",
+   "type": "译经",
+   "place": "长安弘福寺翻经院",
+   "ll": [
+    108.915,
+    34.283
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "大菩萨藏经二十卷（见内典录今编入宝积当第十二会贞观十九年五月二日于西京弘福寺翻经院译至九月二日毕沙门智证笔受道宣证文）",
+    "plain": "贞观十九年五月二日在长安弘福寺翻经院开译，九月二日译毕，智证笔受，道宣证文。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 645
+  },
+  {
+   "id": "xz-yi-645-显扬圣教",
+   "year": 645,
+   "title": "译《显扬圣教论》20卷",
+   "type": "译经",
+   "place": "长安弘福寺翻经院",
+   "ll": [
+    108.915,
+    34.283
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "显扬圣教论二十卷（见内典录无著菩萨造贞观十九年十月一日于弘福寺翻经院译至二十年正月十五日毕沙门智证等笔受）",
+    "plain": "无著造；贞观十九年十月一日在弘福寺翻经院开译，二十年正月十五日毕。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 646
+  },
+  {
+   "id": "xz-yi-646-瑜伽师地",
+   "year": 646,
+   "title": "译《瑜伽师地论》100卷",
+   "type": "译经",
+   "place": "长安弘福寺翻经院",
+   "ll": [
+    108.915,
+    34.283
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "瑜伽师地论一百卷（见内典录弥勒菩萨说贞观二十年五月十五日于弘福寺翻经院译至二十二年五月十五日毕沙门灵会朗𤀹等笔受）",
+    "plain": "弥勒说；贞观二十年五月十五日在弘福寺翻经院开译，二十二年五月十五日译毕。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 648
+  },
+  {
+   "id": "xz-yi-647-解深密经",
+   "year": 647,
+   "title": "译《解深密经》5卷",
+   "type": "译经",
+   "place": "长安弘福寺",
+   "ll": [
+    108.915,
+    34.283
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "解深密经五卷（见内典录全本第二译与深密解脱解节相续解脱等并同本贞观二十一年五月十八日于弘福寺译至七月十三日毕沙门大乘光笔受）",
+    "plain": "贞观二十一年五月十八日至七月十三日于弘福寺译，大乘光（普光）笔受。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 647
+  },
+  {
+   "id": "xz-yi-647-因明入正",
+   "year": 647,
+   "title": "译《因明入正理论》1卷",
+   "type": "译经",
+   "place": "长安弘福寺翻经院",
+   "ll": [
+    108.915,
+    34.283
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "因明入正理论一卷（见内典录商羯罗主菩萨造贞观二十一年八月六日于弘福寺翻经院译沙门知仁笔受）",
+    "plain": "商羯罗主造；贞观二十一年八月六日在弘福寺翻经院译，知仁笔受。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 647
+  },
+  {
+   "id": "xz-yi-648-能断金刚",
+   "year": 648,
+   "title": "译《能断金刚般若波罗蜜多经》1卷",
+   "type": "译经",
+   "place": "坊州宜君县玉华宫弘法台",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "能断金刚般若波罗蜜多经一卷（见内典录第四出与姚秦罗什等出者同本贞观二十二年十月一日于坊州宜君县玉华宫弘法台译直中书杜行顗笔受）",
+    "plain": "第四译，与鸠摩罗什本同本；贞观二十二年十月一日在玉华宫弘法台译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 648
+  },
+  {
+   "id": "xz-yi-648-摄大乘论",
+   "year": 648,
+   "title": "译《摄大乘论本》3卷",
+   "type": "译经",
+   "place": "宫城北阙紫微殿西弘法院→大慈恩寺",
+   "ll": [
+    108.94,
+    34.28
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "摄大乘论本三卷（见内典录无著菩萨造第三出贞观二十二年𨳝十二月二十六日于北阙紫微殿西弘法院译至二十三年六月十七日慈恩寺毕大乘巍笔受）",
+    "plain": "无著造，第三译；贞观二十二年闰十二月二十六日于宫中弘法院开译，二十三年六月十七日在慈恩寺译毕。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 649
+  },
+  {
+   "id": "xz-yi-649-般若波罗",
+   "year": 649,
+   "title": "译《般若波罗蜜多心经》1卷",
+   "type": "译经",
+   "place": "终南山翠微宫",
+   "ll": [
+    108.87,
+    34.0
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "般若波罗蜜多心经一卷（见内典录第二出与摩诃般若大明呪经等同本贞观二十三年五月二十四日于终南山翠微宫译沙门知仁笔受）",
+    "plain": "第二译；贞观二十三年五月二十四日在终南山翠微宫译，知仁笔受。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 649
+  },
+  {
+   "id": "xz-yi-650-说无垢称",
+   "year": 650,
+   "title": "译《说无垢称经》6卷",
+   "type": "译经",
+   "place": "大慈恩寺翻经院",
+   "ll": [
+    108.9643,
+    34.2197
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "说无垢称经六卷（见内典录第七译与罗什维摩经等同本永徽元年二月八日于大慈恩寺翻经院译至八月一日毕沙门大乘光笔受）",
+    "plain": "第七译；永徽元年二月八日至八月一日在大慈恩寺翻经院译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 650
+  },
+  {
+   "id": "xz-yi-651-阿毘达磨",
+   "year": 651,
+   "title": "译《阿毘达磨俱舍论》30卷",
+   "type": "译经",
+   "place": "大慈恩寺翻经院",
+   "ll": [
+    108.9643,
+    34.2197
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "阿毘达磨俱舍论三十卷（见内典录世亲造第二出与真谛出者同本永徽二年五月十日于大慈恩寺翻经院译至五年七月二十七日毕沙门元瑜笔受）",
+    "plain": "世亲造，第二译；永徽二年五月十日开译，五年七月二十七日毕，于大慈恩寺翻经院。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 654
+  },
+  {
+   "id": "xz-yi-653-阿毘达磨",
+   "year": 653,
+   "title": "译《阿毘达磨顺正理论》80卷",
+   "type": "译经",
+   "place": "大慈恩寺翻经院",
+   "ll": [
+    108.9643,
+    34.2197
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "阿毘达磨顺正理论八十卷（见内典录众贤造永徽四年正月一日于大慈恩寺翻经院译至五年七月十日毕沙门元瑜笔受）",
+    "plain": "众贤造；永徽四年正月一日至五年七月十日于大慈恩寺翻经院译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 654
+  },
+  {
+   "id": "xz-yi-656-阿毘达磨",
+   "year": 656,
+   "title": "译《阿毘达磨大毘婆沙论》200卷",
+   "type": "译经",
+   "place": "大慈恩寺翻经院（开元录目录）；传文另记657年曾于洛阳明德宫译",
+   "ll": [
+    108.9643,
+    34.2197
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "阿毘达磨大毘婆沙论二百卷（见内典录五百大阿罗汉等造显庆元年七月二十七日于大慈恩寺翻经院译至四年七月三日毕沙门嘉尚大乘光等笔受）",
+    "plain": "五百大阿罗汉造；显庆元年七月二十七日开译，四年七月三日毕。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 659
+  },
+  {
+   "id": "xz-yi-659-成唯识论",
+   "year": 659,
+   "title": "译《成唯识论》10卷",
+   "type": "译经",
+   "place": "玉华寺云光殿",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "成唯识论十卷（见内典录护法等菩萨造显庆四年闰十月于玉华寺云光殿译沙门大乘基笔受）",
+    "plain": "护法等造；显庆四年闰十月于玉华寺云光殿译，大乘基（窥基）笔受。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 659
+  },
+  {
+   "id": "xz-yi-660-大般若波",
+   "year": 660,
+   "title": "译《大般若波罗蜜多经》600卷",
+   "type": "译经",
+   "place": "玉华宫寺玉华殿",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "大般若波罗蜜多经六百卷（见翻经图佛于四处十六会说显庆五年正月一日于玉华宫寺玉华殿译至龙朔三年十月二十日毕沙门大乘光大乘钦嘉尚等笔受）",
+    "plain": "佛于四处十六会所说；显庆五年正月一日于玉华宫寺玉华殿开译，龙朔三年十月二十日毕。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 663
+  },
+  {
+   "id": "xz-yi-661-辩中边论",
+   "year": 661,
+   "title": "译《辩中边论》3卷",
+   "type": "译经",
+   "place": "玉华寺嘉寿殿",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "辩中边论三卷（见内典录世亲菩萨造第二出与中边分别论同本龙朔元年五月十日于玉华寺嘉寿殿译至三十日毕沙门大乘基笔受）",
+    "plain": "世亲造，第二译；龙朔元年五月十日至三十日于玉华寺嘉寿殿译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 661
+  },
+  {
+   "id": "xz-yi-661-唯识二十",
+   "year": 661,
+   "title": "译《唯识二十论》1卷",
+   "type": "译经",
+   "place": "玉华寺庆福殿",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "唯识二十论一卷（见翻经图世亲菩萨造第三出与元魏智希陈真谛出者同本龙朔元年六月一日于玉华寺庆福殿译沙门大乘基笔受）",
+    "plain": "世亲造，第三译；龙朔元年六月一日于玉华寺庆福殿译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 661
+  },
+  {
+   "id": "xz-yi-662-异部宗轮",
+   "year": 662,
+   "title": "译《异部宗轮论》1卷",
+   "type": "译经",
+   "place": "玉华寺庆福殿",
+   "ll": [
+    109.26,
+    35.43
+   ],
+   "person_ids": [
+    "xuanzang"
+   ],
+   "cite": {
+    "grade": "B",
+    "source": "《开元释教录》卷八·玄奘译经目录夹注（T2154）",
+    "quote": "异部宗轮论一卷（见翻经图世友造第三出与十八部论部异执论并同本龙朔二年七月十四日于玉华寺庆福殿译沙门大乘基笔受）",
+    "plain": "世友造，第三译；龙朔二年七月十四日于玉华寺庆福殿译。",
+    "url": "https://cbetaonline.dila.edu.tw/zh/T2154"
+   },
+   "topics": [
+    "xuanzang"
+   ],
+   "to": 662
+  },
+  {
+   "id": "ky1584-00",
+   "year": 1584,
+   "title": "利玛窦在肇庆应粤人之请刻世界图",
+   "type": "人物",
+   "place": "肇庆",
+   "place_id": "zhaoqingfu",
+   "ll": [
+    112.47,
+    23.05
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "《坤舆万国全图》利玛窦自序（1602 北京刻本，贝尔图书馆藏；狩野文库彩绘本对校）",
+    "quote": "壬午解纜東粵，粵人士請圖所過諸國以垂不朽。",
+    "plain": "壬午年在东粤解缆，粤地士人请我把所经过的各国画成图，使之流传不朽。"
+   },
+   "topics": [
+    "kunyu"
+   ],
+   "person_ids": [
+    "limadou"
+   ],
+   "note": "即《山海舆地图》，原刻不存；刻年 1584 从今人（黄时鉴、龚缨晏 2004）。"
+  },
+  {
+   "id": "ky1600-00",
+   "year": 1600,
+   "title": "利玛窦至南京，吴中明为之修订世界图",
+   "type": "人物",
+   "place": "南京",
+   "place_id": "jiankang",
+   "ll": [
+    118.78,
+    32.06
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "《坤舆万国全图》利玛窦自序（1602 北京刻本，贝尔图书馆藏；狩野文库彩绘本对校）",
+    "quote": "庚子至白下，蒙左海吳先生之教，再為修訂。",
+    "plain": "庚子年到白下，承蒙左海吴先生指教，又修订了一次。"
+   },
+   "topics": [
+    "kunyu"
+   ],
+   "person_ids": [
+    "limadou"
+   ],
+   "note": "即《山海舆地全图》南京刻本，吴中明序移录于 1602 北京刻本。"
+  },
+  {
+   "id": "ky1601-00",
+   "year": 1601,
+   "title": "利玛窦入北京，李之藻请重订增广世界图",
+   "type": "人物",
+   "place": "北京",
+   "place_id": "beijing",
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "《坤舆万国全图》利玛窦自序（1602 北京刻本，贝尔图书馆藏；狩野文库彩绘本对校）",
+    "quote": "辛丑來京……繕部我存李先生……深賞茲圖……歉前刻之隘狹，未盡西來原圖什一，謀更恢廣之。",
+    "plain": "辛丑年来到京师……工部的我存李先生……很欣赏这张图……嫌以前的刻本狭小，不及西方带来的原图的十分之一，打算把它再扩大。"
+   },
+   "topics": [
+    "kunyu"
+   ],
+   "person_ids": [
+    "limadou",
+    "lizhizao"
+   ]
+  },
+  {
+   "id": "ky1602-00",
+   "year": 1602,
+   "title": "《坤舆万国全图》六幅在北京刻成",
+   "type": "人物",
+   "place": "北京",
+   "place_id": "beijing",
+   "ll": [
+    116.4,
+    39.9
+   ],
+   "cite": {
+    "grade": "A",
+    "source": "《坤舆万国全图》刻工题记（1602 北京刻本，贝尔图书馆藏）",
+    "quote": "錢塘張文燾過紙　萬曆壬寅孟秋日",
+    "plain": "钱塘张文焘过纸，万历壬寅年孟秋之日。"
+   },
+   "topics": [
+    "kunyu"
+   ],
+   "person_ids": [
+    "limadou",
+    "lizhizao"
+   ]
+  },
+  {
+   "id": "l591-72",
+   "year": 591,
+   "title": "杨素创杭州州城",
+   "type": "城建",
+   "place": "凤凰山州治",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷十八·城郭（引《九域志》）",
+    "quote": "隋杨素刱周回三十六里九十步",
+    "plain": "隋朝杨素创建，周回三十六里九十步。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.163,
+    30.226
+   ],
+   "note": "周回三十六里九十步"
+  },
+  {
+   "id": "l781-73",
+   "year": 781,
+   "title": "李泌引西湖水入城，开六井",
+   "type": "城建",
+   "place": "杭州城内",
+   "cite": {
+    "grade": "B",
+    "source": "《咸淳临安志》卷三十三",
+    "quote": "六井始唐刺史李邺侯以郡城水泉恶引湖水以便民汲",
+    "plain": "六井始于唐代刺史李邺侯，因为郡城的泉水不好，引湖水来方便百姓汲取。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.256
+   ],
+   "note": "建中年间，年份据今人系年"
+  },
+  {
+   "id": "l824-74",
+   "year": 824,
+   "title": "白居易作《钱塘湖石记》，定湖水蓄泄",
+   "type": "城建",
+   "place": "西湖",
+   "cite": {
+    "grade": "A",
+    "source": "白居易《钱塘湖石记》（《咸淳临安志》卷三十三引）",
+    "quote": "钱塘湖一名上湖周回三十里北有石函南有笕凡放水溉田每减一寸可溉十五余顷",
+    "plain": "钱塘湖又名上湖，周回三十里，北面有石函，南面有笕。凡放水灌田，湖水每减一寸，可灌十五顷多。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E5%92%B8%E6%B7%B3%E4%B8%B4%E5%AE%89%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.152,
+    30.262
+   ],
+   "note": "长庆四年"
+  },
+  {
+   "id": "l1359-75",
+   "year": 1359,
+   "title": "新城被围三月，一城饿死十之六七",
+   "type": "灾异",
+   "place": "杭州城",
+   "cite": {
+    "grade": "B",
+    "source": "《西湖游览志余》卷六",
+    "quote": "至正十九年已亥冬十二月金陵游军斩闗而入突至城下城门闭三月余……一城之人饿死者十有六七",
+    "plain": "至正十九年己亥冬十二月，金陵的游军破关而入，突然到了城下，城门关闭三个多月……全城的人饿死了十分之六七。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E8%A5%BF%E6%B9%96%E6%B8%B8%E8%A7%88%E5%BF%97%E4%BD%99.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ],
+   "note": "至正十九年冬十二月"
+  },
+  {
+   "id": "l1366-76",
+   "year": 1366,
+   "title": "朱文忠取杭州，城门并为十",
+   "type": "政治",
+   "place": "杭州城",
+   "cite": {
+    "grade": "A",
+    "source": "万历《杭州府志》（雍正《浙江通志》卷二十三·城池引）",
+    "quote": "至正二十六年十一月明太祖命曹国公朱文忠兵取杭州守将潘原明以全城内附遂因之为省城门省为十",
+    "plain": "至正二十六年十一月，明太祖命曹国公朱文忠领兵取杭州，守将潘原明率全城归附，于是就以这座城为省城，城门减为十座。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%99%E6%B1%9F%E9%80%9A%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ]
+  },
+  {
+   "id": "l1508-77",
+   "year": 1508,
+   "title": "杨孟瑛浚西湖，筑杨公堤",
+   "type": "城建",
+   "place": "西湖",
+   "cite": {
+    "grade": "A",
+    "source": "嘉靖《浙江通志》（雍正《浙江通志》卷五十二·水利引）",
+    "quote": "正徳三年郡守杨孟瑛力排羣议……斥毁田荡三千四百八十一亩……自是西湖始复唐宋之旧",
+    "plain": "正德三年，知府杨孟瑛力排众议……拆毁田荡三千四百八十一亩……从此西湖才恢复唐宋时的旧样。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%99%E6%B1%9F%E9%80%9A%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1352,
+    30.245
+   ],
+   "note": "拆田荡三千四百八十一亩"
+  },
+  {
+   "id": "l1648-78",
+   "year": 1648,
+   "title": "筑满洲驻防城",
+   "type": "城建",
+   "place": "省城西部",
+   "cite": {
+    "grade": "A",
+    "source": "雍正《浙江通志》卷三十·公署",
+    "quote": "国朝顺治五年设镇守将军驻防于杭州筑满洲驻防城以民房大者为衙署小者为兵房",
+    "plain": "本朝顺治五年设镇守将军驻防杭州，修筑满洲驻防城，把大的民房作衙署，小的作兵房。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E5%9C%B0%E7%90%86/%E6%B5%99%E6%B1%9F%E9%80%9A%E5%BF%97.txt"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1636,
+    30.2575
+   ]
+  },
+  {
+   "id": "l1860-79",
+   "year": 1860,
+   "title": "太平军破省城，瑞昌退守驻防城六日",
+   "type": "战乱",
+   "place": "驻防城",
+   "cite": {
+    "grade": "B",
+    "source": "《清史稿》卷三百九十八·瑞昌传",
+    "quote": "瑞昌率旗兵迎击於涌金门，杀伤相当。退守驻防子城，贼屡攻，力拒却之。相持六日",
+    "plain": "瑞昌率旗兵在涌金门迎击，双方杀伤相当。退守驻防子城，敌军屡次进攻，奋力抵御击退。相持了六天。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%B8%85%E5%8F%B2%E7%A8%BF.txt"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1636,
+    30.2575
+   ],
+   "note": "咸丰十年"
+  },
+  {
+   "id": "l1861-80",
+   "year": 1861,
+   "title": "太平军再破杭州，满城失守",
+   "type": "战乱",
+   "place": "驻防城",
+   "cite": {
+    "grade": "B",
+    "source": "《清史稿》卷四百七十五·洪秀全传",
+    "quote": "秀成已陷杭州，满城亦相继失守",
+    "plain": "李秀成已经攻陷杭州，满城也接着失守。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%B8%85%E5%8F%B2%E7%A8%BF.txt"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1636,
+    30.2575
+   ],
+   "note": "咸丰十一年"
+  },
+  {
+   "id": "l1864-81",
+   "year": 1864,
+   "title": "清军收复杭州",
+   "type": "战乱",
+   "place": "杭州城",
+   "cite": {
+    "grade": "B",
+    "source": "《清史稿》卷四百八·蒋益澧传",
+    "quote": "二月，馒头山地雷发，坏城垣，诸军拥入，战竟日，悍贼多毙，馀夜遁，遂复杭州",
+    "plain": "二月，馒头山的地雷爆发，炸坏城墙，各军涌入，打了一整天，敌军死伤甚多，剩下的连夜逃走，于是收复杭州。",
+    "url": "https://github.com/garychowcmu/daizhigev20/blob/master/%E5%8F%B2%E8%97%8F/%E6%AD%A3%E5%8F%B2/%E6%B8%85%E5%8F%B2%E7%A8%BF.txt"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ],
+   "note": "同治三年二月"
+  },
+  {
+   "id": "l1907-82",
+   "year": 1907,
+   "title": "沪杭铁路城站启用",
+   "type": "经济",
+   "place": "清泰门外",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕Timeline of Hangzhou（维基百科）",
+    "quote": "1907 – Qing Tai Men Station opens.",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_Hangzhou"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1945,
+    30.2472
+   ]
+  },
+  {
+   "id": "l1912-83",
+   "year": 1912,
+   "title": "起拆钱塘门至涌金门城墙",
+   "type": "城建",
+   "place": "湖滨",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕夏思《民国时期（1912—1937）的杭州与西湖》（杭州市西湖学研究会）",
+    "quote": "1912年7月，杭州开始拆除城墙，首先拆除钱塘门和涌金门之间的城墙",
+    "url": "https://xhxyjh.com/news/shownews.php?id=104"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1606,
+    30.2575
+   ]
+  },
+  {
+   "id": "l1913-84",
+   "year": 1913,
+   "title": "拆驻防城墙，旗营旧地辟新市场",
+   "type": "城建",
+   "place": "湖滨",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕夏思《民国时期（1912—1937）的杭州与西湖》（杭州市西湖学研究会）",
+    "quote": "1913年，拆除清旗营围墙",
+    "url": "https://xhxyjh.com/news/shownews.php?id=104"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1636,
+    30.2575
+   ]
+  },
+  {
+   "id": "l1927-85",
+   "year": 1927,
+   "title": "设杭州市",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕夏思《民国时期（1912—1937）的杭州与西湖》（杭州市西湖学研究会）",
+    "quote": "1927年5月，杭州市政厅成立",
+    "url": "https://xhxyjh.com/news/shownews.php?id=104"
+   },
+   "topics": [
+    "linan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ]
+  },
+  {
+   "id": "l1929-86",
+   "year": 1929,
+   "title": "西湖博览会开幕",
+   "type": "经济",
+   "place": "北山路一带",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕夏思《民国时期（1912—1937）的杭州与西湖》（杭州市西湖学研究会）",
+    "quote": "1929年6月6日，第一届西湖博览会开幕，历时137天",
+    "url": "https://xhxyjh.com/news/shownews.php?id=104"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1505,
+    30.2628
+   ]
+  },
+  {
+   "id": "l1937-87",
+   "year": 1937,
+   "title": "钱塘江大桥通车；十二月日军占杭州",
+   "type": "战乱",
+   "place": "六和塔东",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕Timeline of Hangzhou（维基百科）",
+    "quote": "1937 – The Qiantang Bridge is completed on September 26. Japanese occupation begins on 23–24 December.",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_Hangzhou"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.1415,
+    30.2008
+   ]
+  },
+  {
+   "id": "l1949-88",
+   "year": 1949,
+   "title": "解放军入杭州",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕Timeline of Hangzhou（维基百科）",
+    "quote": "1949 – The 21st Division of the People's Liberation Army take the city on May 3.",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_Hangzhou"
+   },
+   "topics": [
+    "linan",
+    "hupan"
+   ],
+   "person_ids": [],
+   "ll": [
+    120.172,
+    30.25
+   ],
+   "note": "五月三日"
+  },
+  {
+   "id": "hp1861-01",
+   "year": 1861,
+   "title": "丁申、丁丙雇人入文澜阁废墟抢救库书，共得8689册",
+   "type": "文化",
+   "place": "浙江图书馆孤山馆舍与文澜阁",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·浙江宣传丨文澜阁《四库全书》传奇",
+    "url": "https://zjnews.zjol.com.cn/zjxc/202301/t20230113_25297443.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "ding-bing"
+   ],
+   "date": "1861",
+   "place_id": "zhejiang-tushuguan",
+   "ll": [
+    120.1463,
+    30.2555
+   ],
+   "note": "约占原书四分之一，部分从市上高价购回"
+  },
+  {
+   "id": "hp1880-01",
+   "year": 1880,
+   "title": "护理江苏巡抚谭钧培严禁进香，天竺香市骤衰",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕澎湃新闻·王健《多元视野下民间信仰与国家权力的互动：以明清江南为中心》节选",
+    "url": "https://m.thepaper.cn/baijiahao_5020383"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1880",
+   "note": "1881年谭钧培卸任后禁令渐弛"
+  },
+  {
+   "id": "hp1896-01",
+   "year": 1896,
+   "title": "杭州开埠；宁波商人何宝林在北山建成何庄",
+   "type": "经济",
+   "place": "新新饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·葛岭孤云在凤林梵音逝，紫阳花又开草舍已新新",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2019-10/14/content_7283940_4.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "he-baolin"
+   ],
+   "date": "1896",
+   "place_id": "xinxin-fandian",
+   "ll": [
+    120.1494,
+    30.2617
+   ],
+   "note": "何庄为中、西式楼房三幢，即今新新饭店东楼；何宝林界面新闻作何葆龄"
+  },
+  {
+   "id": "hp1904-01",
+   "year": 1904,
+   "title": "叶为铭、丁辅之等在孤山创立西泠印社",
+   "type": "文化",
+   "place": "西泠印社",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕崇真艺客·【115年社庆专题】西泠印社历史沿革（二）",
+    "url": "https://www.trueart.com/news/222199.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1904",
+   "place_id": "xiling-yinshe",
+   "ll": [
+    120.1438,
+    30.256
+   ],
+   "note": "1913年首次社员大会定名，推吴昌硕为首任社长"
+  },
+  {
+   "id": "hp1908-01",
+   "year": 1908,
+   "title": "徐自华、吴芝瑛将秋瑾葬于西泠桥畔",
+   "type": "政治",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·\"十葬\"秋瑾：遗骨浙湘两地迁葬 三葬西湖之畔",
+    "url": "https://www.chinanews.com.cn/cul/news/2009/11-05/1949048.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1908-02",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "吴芝瑛书碑「鉴湖女侠秋瑾之墓」"
+  },
+  {
+   "id": "hp1908-02",
+   "year": 1908,
+   "title": "秋瑾墓被勒令平毁，遗骨迁回绍兴",
+   "type": "政治",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·\"十葬\"秋瑾：遗骨浙湘两地迁葬 三葬西湖之畔",
+    "url": "https://www.chinanews.com.cn/cul/news/2009/11-05/1949048.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1908-12",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "同年10月御史常徽上奏请平墓"
+  },
+  {
+   "id": "hp1909-01",
+   "year": 1909,
+   "title": "沪杭铁路全线通车",
+   "type": "城建",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕维基百科（英文）·Timeline of Hangzhou",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_Hangzhou"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1909",
+   "ll": [
+    120.1945,
+    30.2472
+   ],
+   "note": "沪杭间由水路约三日缩短为约三小时"
+  },
+  {
+   "id": "hp1909-02",
+   "year": 1909,
+   "title": "刘学询以刘庄抵押大清银行上海分行，借银10万两",
+   "type": "经济",
+   "place": "刘庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕南都N视频·杭州刘庄与刘学询、刘启言父子：西湖国宾馆的前世今生",
+    "url": "https://m.mp.oeeee.com/a/BAAFRD000020200307279006.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "liu-xuexun"
+   ],
+   "date": "1909",
+   "place_id": "liu-zhuang",
+   "ll": [
+    120.136,
+    30.232
+   ],
+   "note": "民初园被没收，1918年赎回"
+  },
+  {
+   "id": "hp1909-03",
+   "year": 1909,
+   "title": "鲁迅在二我轩拍下归国后首张照片",
+   "type": "文化",
+   "place": "二我轩照相馆",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·鲁迅的杭高入职照 是他留学归来拍的首张照片",
+    "url": "https://zjnews.zjol.com.cn/zjnews/hznews/201805/t20180527_7395041.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "lu-xun"
+   ],
+   "date": "1909",
+   "place_id": "erwoxuan",
+   "ll": [
+    120.1597,
+    30.2522
+   ],
+   "note": "秋。即其浙江两级师范学堂入职照。"
+  },
+  {
+   "id": "hp1910-01",
+   "year": 1910,
+   "title": "二我轩《西湖各景》48幅获南洋劝业会金牌",
+   "type": "文化",
+   "place": "二我轩照相馆",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州档案·光影二我轩",
+    "url": "https://www.hzarchives.org.cn/info/6856"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1910",
+   "place_id": "erwoxuan",
+   "ll": [
+    120.1597,
+    30.2522
+   ]
+  },
+  {
+   "id": "hp1911-01",
+   "year": 1911,
+   "title": "杭州光复，艮山门满兵六十余人缴械",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·杭州旗营与浙省光复",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/11029"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1911-11-04",
+   "note": "夜"
+  },
+  {
+   "id": "hp1911-02",
+   "year": 1911,
+   "title": "革命军炮击旗营将军署，当晚旗营议降",
+   "type": "战乱",
+   "place": "旗营／新市场",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·杭州旗营与浙省光复",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/11029"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1911-11-05",
+   "place_id": "xinshichang",
+   "ll": [
+    120.1635,
+    30.2575
+   ]
+  },
+  {
+   "id": "hp1911-03",
+   "year": 1911,
+   "title": "协领贵林父子与哈楚显在咨议局被枪决",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·杭州旗营与浙省光复",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/11029",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "gui-lin"
+   ],
+   "date": "1911-11",
+   "note": "贵林之子名星海，一作量海"
+  },
+  {
+   "id": "hp1912-01",
+   "year": 1912,
+   "title": "《浙省旗营善后办法》订立",
+   "type": "政治",
+   "place": "旗营／新市场",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·杭州旗营与浙省光复",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/11029"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1912-02-16",
+   "place_id": "xinshichang",
+   "ll": [
+    120.1635,
+    30.2575
+   ],
+   "note": "民政长褚辅成与旗营代表德济订定；旗人自造私宅准归本人所有"
+  },
+  {
+   "id": "hp1913-01",
+   "year": 1913,
+   "title": "新新旅馆正式挂牌",
+   "type": "经济",
+   "place": "新新饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕界面新闻·连徐志摩、胡适都恋恋不忘的民国老酒店，隐藏着太多传奇",
+    "url": "https://www.jiemian.com/article/2281710.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1913",
+   "place_id": "xinxin-fandian",
+   "ll": [
+    120.1494,
+    30.2617
+   ],
+   "note": "1909年起已在何庄接客；店名取「苟日新，日日新，又日新」"
+  },
+  {
+   "id": "hp1913-02",
+   "year": 1913,
+   "title": "秋瑾遗骨迁回西泠桥，建风雨亭与秋瑾祠",
+   "type": "文化",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·\"十葬\"秋瑾：遗骨浙湘两地迁葬 三葬西湖之畔",
+    "url": "https://www.chinanews.com.cn/cul/news/2009/11-05/1949048.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1913",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "秋"
+  },
+  {
+   "id": "hp1913-03",
+   "year": 1913,
+   "title": "孙翼斋等在湖滨仁和路开设知味观",
+   "type": "经济",
+   "place": "知味观",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·杭州记忆丨1913年，孙翼斋开设知味观",
+    "url": "https://hangzhou.zjol.com.cn/jrsd/bwzg/201905/t20190504_10044992.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "sun-yi-zhai"
+   ],
+   "date": "1913",
+   "place_id": "zhiweiguan",
+   "ll": [
+    120.1622,
+    30.2555
+   ],
+   "note": "次年孙翼斋独资经营"
+  },
+  {
+   "id": "hp1918-01",
+   "year": 1918,
+   "title": "李叔同在虎跑寺剃度，法号弘一",
+   "type": "文化",
+   "place": "虎跑寺",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·昨天是李叔同出家一百周年纪念日 100年了大家都还记着他",
+    "url": "https://zjnews.zjol.com.cn/zjnews/zjxw/201808/t20180824_8091528.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "hongyi"
+   ],
+   "date": "1918-08-23",
+   "place_id": "hupao",
+   "ll": [
+    120.133,
+    30.214
+   ],
+   "note": "农历七月十三日"
+  },
+  {
+   "id": "hp1920-01",
+   "year": 1920,
+   "title": "北山路在湖边小径基础上拓建",
+   "type": "城建",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·地名知识科普之是北山路还是北山街？",
+    "url": "https://hznews.hangzhou.com.cn/shehui/content/2024-01/27/content_8681075.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1920",
+   "ll": [
+    120.149,
+    30.2612
+   ]
+  },
+  {
+   "id": "hp1921-01",
+   "year": 1921,
+   "title": "西泠印社募集8000银元赎回汉三老碑",
+   "type": "文化",
+   "place": "西泠印社",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕崇真艺客·【115年社庆专题】西泠印社历史沿革（二）",
+    "url": "https://www.trueart.com/news/222199.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1921",
+   "place_id": "xiling-yinshe",
+   "ll": [
+    120.1438,
+    30.256
+   ]
+  },
+  {
+   "id": "hp1924-01",
+   "year": 1924,
+   "title": "雷峰塔倒塌",
+   "type": "灾异",
+   "place": "雷峰塔",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·100年前的昨天雷峰塔倒了 雷峰塔重生记",
+    "url": "https://pic.hangzhou.com.cn/hzyx/content/content_8792572.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1924-09-25",
+   "place_id": "leifeng",
+   "ll": [
+    120.1488,
+    30.2313
+   ],
+   "note": "下午。俞平伯在孤山俞楼望见。"
+  },
+  {
+   "id": "hp1928-01",
+   "year": 1928,
+   "title": "国立艺术院在孤山罗苑举行开学典礼",
+   "type": "文化",
+   "place": "罗苑",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕网易（中国美术学院）·筚路蓝缕 薪火相传：西子湖畔的艺术教育探索",
+    "url": "https://www.163.com/dy/article/IN5N5C5N05169GG3.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1928-04-09",
+   "place_id": "luoyuan",
+   "ll": [
+    120.1472,
+    30.2557
+   ],
+   "note": "另有3月26日开学之说；首任院长林风眠"
+  },
+  {
+   "id": "hp1928-02",
+   "year": 1928,
+   "title": "张静江下令拆除西泠桥畔松风上人墓与亭",
+   "type": "政治",
+   "place": "苏小小墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·西湖迁墓往事",
+    "url": "https://hznews.hangzhou.com.cn/content/2019-08/09/content_7242281.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhang-jingjiang"
+   ],
+   "date": "1928",
+   "place_id": "su-xiaoxiao-mu",
+   "ll": [
+    120.1427,
+    30.2582
+   ],
+   "note": "理由是该墓亭与苏小小墓亭相对"
+  },
+  {
+   "id": "hp1934-01",
+   "year": 1934,
+   "title": "史量才自秋水山庄返沪途中遇刺",
+   "type": "政治",
+   "place": "秋水山庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·见证杭州100余年历史 西湖边的秋水山庄 悄悄营业",
+    "url": "https://zjnews.zjol.com.cn/zjnews/hznews/202108/t20210817_22962762.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "shi-liangcai"
+   ],
+   "date": "1934-11-13",
+   "place_id": "qiushui-shanzhuang",
+   "ll": [
+    120.1482,
+    30.2618
+   ],
+   "note": "遇刺地在海宁境内沪杭公路旁"
+  },
+  {
+   "id": "hp1935-01",
+   "year": 1935,
+   "title": "警官杜承荣与奥地利女子瓦格纳在新新饭店成婚",
+   "type": "文化",
+   "place": "新新饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕界面新闻·连徐志摩、胡适都恋恋不忘的民国老酒店，隐藏着太多传奇",
+    "url": "https://www.jiemian.com/article/2281710.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1935",
+   "place_id": "xinxin-fandian",
+   "ll": [
+    120.1494,
+    30.2617
+   ],
+   "note": "初"
+  },
+  {
+   "id": "hp1937-01",
+   "year": 1937,
+   "title": "文澜阁《四库全书》228箱运往南星桥西迁",
+   "type": "文化",
+   "place": "浙江图书馆孤山馆舍与文澜阁",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国作家网·书阁相望——文澜阁《四库全书》抗日西迁记",
+    "url": "https://www.chinawriter.com.cn/n1/2025/0429/c442005-40471068.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1937-08-04",
+   "place_id": "zhejiang-tushuguan",
+   "ll": [
+    120.1463,
+    30.2555
+   ],
+   "note": "次日运抵富阳；馆长陈训慈主持"
+  },
+  {
+   "id": "hp1937-02",
+   "year": 1937,
+   "title": "中国军队自毁钱塘江大桥",
+   "type": "战乱",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕抗日战争纪念网·杭州抗战大事记",
+    "url": "https://www.krzzjn.com/show-1154-69250.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1937-12-23"
+  },
+  {
+   "id": "hp1937-03",
+   "year": 1937,
+   "title": "两百多名妇女逃入蕙兰中学避难所",
+   "type": "战乱",
+   "place": "蕙兰中学",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕搜狐·80年前，日军侵占杭州照片首度公开！有的人真的不能忘记！",
+    "url": "https://www.sohu.com/a/272025043_761939"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1937-12-27",
+   "place_id": "huilan-zhongxue",
+   "note": "凌晨。见蕙兰中学校长葛烈腾书信。"
+  },
+  {
+   "id": "hp1937-04",
+   "year": 1937,
+   "title": "杭州沦陷后日军在湖滨公众体育场焚毁书局与私家藏书",
+   "type": "战乱",
+   "place": "湖滨公众体育场",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江党史和文献网·侵华日军罪行研究",
+    "url": "https://www.zjds.org.cn/zhyj/6290.jhtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1937",
+   "place_id": "gongzhong-tiyuchang",
+   "ll": [
+    120.1603,
+    30.251
+   ],
+   "note": "焚书日期未载；善本部分运往日本"
+  },
+  {
+   "id": "hp1938-01",
+   "year": 1938,
+   "title": "日军从广济医院强行带走106名伤兵",
+   "type": "战乱",
+   "place": "广济医院",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·杭州沦陷时，30位外国侨民为何选择留下？",
+    "url": "https://www.chinanews.com.cn/hr/2025/08-19/10467682.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1938-07-30",
+   "place_id": "guangji-yiyuan",
+   "ll": [
+    120.1545,
+    30.2655
+   ],
+   "note": "见周东华据海外档案整理的外侨记述"
+  },
+  {
+   "id": "hp1944-01",
+   "year": 1944,
+   "title": "伪杭州市代理市长谭淑奎在西湖边被暗杀",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·今天是国家公祭日 让我们穿越历史 回到那时的杭州……",
+    "url": "https://zjnews.zjol.com.cn/zjnews/hznews/201712/t20171213_6037910.shtml",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1944",
+   "ll": [
+    120.146,
+    30.245
+   ]
+  },
+  {
+   "id": "hp1945-01",
+   "year": 1945,
+   "title": "中日在富阳宋殿村洽降",
+   "type": "政治",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·揭秘丨73年前富阳洽降 日军代表被强留在宋殿过夜",
+    "url": "https://zjnews.zjol.com.cn/zjnews/zjxw/201808/t20180815_8021298.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1945-09-04",
+   "note": "杭州城内未举行受降签字仪式"
+  },
+  {
+   "id": "hp1946-01",
+   "year": 1946,
+   "title": "文澜阁《四库全书》运回孤山",
+   "type": "文化",
+   "place": "浙江图书馆孤山馆舍与文澜阁",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国作家网·书阁相望——文澜阁《四库全书》抗日西迁记",
+    "url": "https://www.chinawriter.com.cn/n1/2025/0429/c442005-40471068.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1946-07-05",
+   "place_id": "zhejiang-tushuguan",
+   "ll": [
+    120.1463,
+    30.2555
+   ]
+  },
+  {
+   "id": "hp1946-02",
+   "year": 1946,
+   "title": "丰子恺暂住招贤寺，次年3月迁湖畔小屋",
+   "type": "文化",
+   "place": "招贤寺",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕腾讯新闻（都市快报）·城纪｜葛岭招贤寺：历史深处的西湖佳话",
+    "url": "https://news.qq.com/rain/a/20230611A05EQ600?no-redirect=1"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "feng-zikai"
+   ],
+   "date": "1946-11",
+   "place_id": "zhaoxian-si",
+   "ll": [
+    120.1475,
+    30.2619
+   ],
+   "note": "1947年3月11日迁入北山街85号"
+  },
+  {
+   "id": "hp1947-01",
+   "year": 1947,
+   "title": "浙大学生于子三在浙江保安司令部狱中遇害",
+   "type": "运动",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·纵死不惭世上英——寻访\"于子三运动\"",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2021-03/04/content_7920360_2.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1947-10-29"
+  },
+  {
+   "id": "hp1948-01",
+   "year": 1948,
+   "title": "西湖封冻",
+   "type": "灾异",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕维基百科（英文）·Timeline of Hangzhou",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_Hangzhou"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1948-01-26",
+   "ll": [
+    120.146,
+    30.245
+   ]
+  },
+  {
+   "id": "hp1950-01",
+   "year": 1950,
+   "title": "马一浮应弟子蒋国榜之邀住进蒋庄",
+   "type": "文化",
+   "place": "蒋庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国作家网·马一浮的蒋庄晚境",
+    "url": "http://www.chinawriter.com.cn/n1/2021/1021/c404064-32259591.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "ma-yifu",
+    "jiang-guo-bang"
+   ],
+   "date": "1950-04",
+   "place_id": "jiang-zhuang",
+   "ll": [
+    120.1435,
+    30.23
+   ],
+   "note": "此后在蒋庄住了17年"
+  },
+  {
+   "id": "hp1951-01",
+   "year": 1951,
+   "title": "西湖疏浚开工，至1958年平均水深增至1.8米",
+   "type": "城建",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·老杭州们 还记得1951-1958年西湖大疏浚吗？",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2014-12/21/content_5577476_0.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1951",
+   "ll": [
+    120.146,
+    30.245
+   ],
+   "note": "疏浚前平均水深0.55米"
+  },
+  {
+   "id": "hp1952-01",
+   "year": 1952,
+   "title": "楼外楼转为国营",
+   "type": "经济",
+   "place": "楼外楼",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州档案·楼外楼",
+    "url": "https://www.hzarchives.org.cn/info/6880"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1952-08",
+   "place_id": "louwailou",
+   "ll": [
+    120.1446,
+    30.2555
+   ]
+  },
+  {
+   "id": "hp1953-01",
+   "year": 1953,
+   "title": "刘学询遗孀将刘庄捐给国家",
+   "type": "经济",
+   "place": "刘庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·81岁少庄主重返杭州刘庄 西湖第一名园成国宾馆",
+    "url": "https://www.chinanews.com.cn/sh/2011/01-27/2816262.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "liu-xuexun"
+   ],
+   "date": "1953",
+   "place_id": "liu-zhuang",
+   "ll": [
+    120.136,
+    30.232
+   ]
+  },
+  {
+   "id": "hp1953-02",
+   "year": 1953,
+   "title": "二我轩歇业，余家迁居饮马井巷",
+   "type": "经济",
+   "place": "二我轩照相馆",
+   "cite": {
+    "grade": "D",
+    "source": "〔口碑〕小时新闻·爸爸的帅,妈妈的美,83岁的她都收在了月饼盒里",
+    "url": "https://www.thehour.cn/news/381084.html",
+    "note": "后人口述，无档案佐证"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1953",
+   "place_id": "erwoxuan",
+   "ll": [
+    120.1597,
+    30.2522
+   ],
+   "note": "据余寅初孙女余慧珍口述，歇业因公私合营"
+  },
+  {
+   "id": "hp1953-03",
+   "year": 1953,
+   "title": "毛泽东抵杭，在北山街84号院起草宪法",
+   "type": "政治",
+   "place": "北山街84号大院",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕共产党员网·新中国第一部宪法，起笔于西湖山水间",
+    "url": "https://www.12371.cn/2023/12/01/ARTI1701386464283110.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "mao-zedong"
+   ],
+   "date": "1953-12-24",
+   "place_id": "beishan-84",
+   "ll": [
+    120.1462,
+    30.2623
+   ],
+   "note": "1954年1月9日起草正式展开，3月17日离杭"
+  },
+  {
+   "id": "hp1954-01",
+   "year": 1954,
+   "title": "刘庄改建为西湖国宾馆，并入韩、杨、康、范四庄",
+   "type": "城建",
+   "place": "刘庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·杭州记忆丨\"西湖第一名园\"里的那些往事",
+    "url": "https://hangzhou.zjol.com.cn/jrsd/bwzg/201904/t20190406_9840610.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1954",
+   "place_id": "liu-zhuang",
+   "ll": [
+    120.136,
+    30.232
+   ]
+  },
+  {
+   "id": "hp1954-02",
+   "year": 1954,
+   "title": "都锦生丝织厂获批公私合营",
+   "type": "经济",
+   "place": "都锦生丝织厂",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江档案网·合营——资本主义工商业的社会主义改造",
+    "url": "https://www.zjda.gov.cn/art/2009/8/10/art_1390025_12519228.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "du-jinsheng"
+   ],
+   "date": "1954-03-31",
+   "place_id": "du-jinsheng-chang",
+   "ll": [
+    120.1305,
+    30.247
+   ],
+   "note": "为杭州第一批，4月起实行"
+  },
+  {
+   "id": "hp1955-01",
+   "year": 1955,
+   "title": "章太炎灵柩自苏州迁葬南屏山北麓",
+   "type": "文化",
+   "place": "章太炎墓·张苍水墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕民进中央网站·马叙伦·章太炎与章太炎墓",
+    "url": "https://www.mj.org.cn/hszl/mrys/202101/t20210111_235247.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhang-taiyan"
+   ],
+   "date": "1955",
+   "place_id": "zhang-taiyan-mu",
+   "ll": [
+    120.1478,
+    30.2268
+   ],
+   "note": "距张苍水墓50米"
+  },
+  {
+   "id": "hp1955-02",
+   "year": 1955,
+   "title": "西湖疏浚中先后有4万多市民义务挖泥运土",
+   "type": "运动",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·老杭州们 还记得1951-1958年西湖大疏浚吗？",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2014-12/21/content_5577476_0.htm",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1955",
+   "ll": [
+    120.146,
+    30.245
+   ]
+  },
+  {
+   "id": "hp1956-01",
+   "year": 1956,
+   "title": "秋瑾等墓一夜迁往鸡笼山，后又迁回",
+   "type": "运动",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕腾讯新闻·一夜之间，西湖周边的很多坟墓都被迁走了｜何其亮 一席第967位讲者",
+    "url": "https://news.qq.com/rain/a/20230321A09TK200",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1956-02-21",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "事后经周恩来干预迁回"
+  },
+  {
+   "id": "hp1958-01",
+   "year": 1958,
+   "title": "西湖出现持续约50天的赤潮",
+   "type": "灾异",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕腾讯新闻·一夜之间，西湖周边的很多坟墓都被迁走了｜何其亮 一席第967位讲者",
+    "url": "https://news.qq.com/rain/a/20230321A09TK200"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1958",
+   "ll": [
+    120.146,
+    30.245
+   ],
+   "note": "同年楼外楼迁至西泠印社东面（杭州档案·楼外楼）"
+  },
+  {
+   "id": "hp1959-01",
+   "year": 1959,
+   "title": "林风眠玉泉别墅被杭州植物园收买",
+   "type": "经济",
+   "place": "林风眠玉泉别墅",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕澎湃新闻·林风眠杭州故居——玉泉别墅的前世今生",
+    "url": "https://www.thepaper.cn/newsDetail_forward_21145107"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "lin-fengmian"
+   ],
+   "date": "1959",
+   "place_id": "lin-fengmian-yuquan",
+   "ll": [
+    120.1345,
+    30.264
+   ],
+   "note": "林家称植物园派人到上海要求收买"
+  },
+  {
+   "id": "hp1961-01",
+   "year": 1961,
+   "title": "刘庄重建完成，毛泽东看后改住汪庄",
+   "type": "政治",
+   "place": "汪庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·西子宾馆——汪庄",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/1739"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "mao-zedong"
+   ],
+   "date": "1961",
+   "place_id": "wang-zhuang",
+   "ll": [
+    120.1515,
+    30.232
+   ],
+   "note": "此后汪庄为毛泽东来杭主要住处"
+  },
+  {
+   "id": "hp1963-01",
+   "year": 1963,
+   "title": "延安路开设一家二我轩，后改名立新照相馆",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕小时新闻·寻找二我轩,影像里的杭州眷恋",
+    "url": "https://www.thehour.cn/news/381082.html",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1963",
+   "note": "据文史学者仲向平所述"
+  },
+  {
+   "id": "hp1964-01",
+   "year": 1964,
+   "title": "西湖平坟，至次年3月6日拆654座",
+   "type": "运动",
+   "place": "苏小小墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕光明网（文摘报）·西湖名人墓地之劫",
+    "url": "https://epaper.gmw.cn/wzb/html/2012-02/04/nw.D110000wzb_20120204_1-05.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1964-12-02",
+   "place_id": "su-xiaoxiao-mu",
+   "ll": [
+    120.1427,
+    30.2582
+   ],
+   "note": "自苏小小墓开始，分五批"
+  },
+  {
+   "id": "hp1964-02",
+   "year": 1964,
+   "title": "北山路改名环湖北路",
+   "type": "城建",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·地名知识科普之是北山路还是北山街？",
+    "url": "https://hznews.hangzhou.com.cn/shehui/content/2024-01/27/content_8681075.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1964",
+   "ll": [
+    120.149,
+    30.2612
+   ],
+   "note": "1980年称北山路，2011年定名北山街"
+  },
+  {
+   "id": "hp1965-01",
+   "year": 1965,
+   "title": "秋瑾墓被拆",
+   "type": "运动",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕光明网（文摘报）·西湖名人墓地之劫",
+    "url": "https://epaper.gmw.cn/wzb/html/2012-02/04/nw.D110000wzb_20120204_1-05.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1965-01-29",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "前一日作出拆除决定"
+  },
+  {
+   "id": "hp1966-01",
+   "year": 1966,
+   "title": "浙大学生在灵隐寺阻挡中学红卫兵",
+   "type": "运动",
+   "place": "灵隐寺",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕网易·1966年，灵隐寺保卫战惊心动魄五昼夜",
+    "url": "https://www.163.com/dy/article/BPCD76MI05219KSO.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1966-08-24",
+   "place_id": "lingyin",
+   "ll": [
+    120.1015,
+    30.2408
+   ],
+   "note": "对峙五昼夜，8月27日周恩来办公室指示保护灵隐寺"
+  },
+  {
+   "id": "hp1966-02",
+   "year": 1966,
+   "title": "净慈寺被毁，岳飞坐像被拉倒",
+   "type": "运动",
+   "place": "净慈寺",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕网易·1966年，灵隐寺保卫战惊心动魄五昼夜",
+    "url": "https://www.163.com/dy/article/BPCD76MI05219KSO.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1966-08-23",
+   "place_id": "jingci",
+   "ll": [
+    120.151,
+    30.2295
+   ],
+   "note": "同日平湖秋月乾隆书「西湖十景」碑被砸断，苏小小墓被扒平"
+  },
+  {
+   "id": "hp1966-03",
+   "year": 1966,
+   "title": "杭州市政府下令以砖石封闭灵隐寺",
+   "type": "运动",
+   "place": "灵隐寺",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕网易·1966年，灵隐寺保卫战惊心动魄五昼夜",
+    "url": "https://www.163.com/dy/article/BPCD76MI05219KSO.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1966-08-30",
+   "place_id": "lingyin",
+   "ll": [
+    120.1015,
+    30.2408
+   ]
+  },
+  {
+   "id": "hp1966-04",
+   "year": 1966,
+   "title": "马一浮离开蒋庄，避居安吉路",
+   "type": "运动",
+   "place": "蒋庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国作家网·马一浮的蒋庄晚境",
+    "url": "http://www.chinawriter.com.cn/n1/2021/1021/c404064-32259591.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "ma-yifu"
+   ],
+   "date": "1966",
+   "place_id": "jiang-zhuang",
+   "ll": [
+    120.1435,
+    30.23
+   ],
+   "note": "次年去世"
+  },
+  {
+   "id": "hp1967-01",
+   "year": 1967,
+   "title": "农民进城参加武斗，杭州出现首例死亡",
+   "type": "运动",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕二十一世纪（香港中文大学）·軍隊、群眾與武鬥：以1967年浙江文革為例",
+    "url": "https://www.cuhk.edu.hk/ics/21c/media/articles/c206-202301002.pdf"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1967-06-07",
+   "note": "农民乘17辆卡车过钱塘江大桥，与桥上省联总成员冲突"
+  },
+  {
+   "id": "hp1967-02",
+   "year": 1967,
+   "title": "活佛照相馆与湖滨照相馆合并为杭州摄影图片社",
+   "type": "经济",
+   "place": "活佛照相馆",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州档案·活佛照相馆",
+    "url": "https://www.hzarchives.org.cn/info/6984"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1967",
+   "place_id": "huofo-zhaoxiangguan",
+   "ll": [
+    120.169,
+    30.2455
+   ]
+  },
+  {
+   "id": "hp1969-01",
+   "year": 1969,
+   "title": "首趟知青专列载1200多人赴黑龙江",
+   "type": "运动",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州人在黑龙江兵团的经历比《狼图腾》里演的更惊险",
+    "url": "https://hznews.hangzhou.com.cn/wenti/content/2015-11/14/content_5980899.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1969-04-20",
+   "ll": [
+    120.1945,
+    30.2472
+   ],
+   "note": "自杭州火车站开出，学生来自杭州六中、十中、铁路中学、女子中学"
+  },
+  {
+   "id": "hp1971-01",
+   "year": 1971,
+   "title": "盖叫天在杭州病逝",
+   "type": "运动",
+   "place": "燕南寄庐",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕维基百科·盖叫天",
+    "url": "https://zh.wikipedia.org/wiki/%E7%9B%96%E5%8F%AB%E5%A4%A9"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "gai-jiaotian"
+   ],
+   "date": "1971-01-15",
+   "place_id": "yannan-jilu",
+   "ll": [
+    120.1362,
+    30.2562
+   ]
+  },
+  {
+   "id": "hp1972-01",
+   "year": 1972,
+   "title": "尼克松抵杭，住刘庄一号楼",
+   "type": "政治",
+   "place": "刘庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·1972年2月：美国总统尼克松在杭州的21个小时",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2022-02/25/content_8181360.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1972-02-26",
+   "place_id": "liu-zhuang",
+   "ll": [
+    120.136,
+    30.232
+   ],
+   "note": "在杭21小时；沿湖语录牌、大字报连夜清除"
+  },
+  {
+   "id": "hp1979-01",
+   "year": 1979,
+   "title": "汪庄改称浙江西子宾馆，逐步对外开放",
+   "type": "城建",
+   "place": "汪庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕迈点网·西湖C位，百年汪庄，主席下榻27回！浙江西子宾馆厉害的不是一点点",
+    "url": "https://www.meadin.com/zl/276046.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1979-09",
+   "place_id": "wang-zhuang",
+   "ll": [
+    120.1515,
+    30.232
+   ]
+  },
+  {
+   "id": "hp1979-02",
+   "year": 1979,
+   "title": "西泠印社召开75周年社员大会",
+   "type": "文化",
+   "place": "西泠印社",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国西藏新闻网·恢复西泠印社的往事 曾经历文革猛烈冲击",
+    "url": "https://www.xzxw.com/lyrw/2015-03/21/content_1172366.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1979-12",
+   "place_id": "xiling-yinshe",
+   "ll": [
+    120.1438,
+    30.256
+   ],
+   "note": "此前学术活动中断10多年"
+  },
+  {
+   "id": "hp1981-01",
+   "year": 1981,
+   "title": "秋瑾墓在西泠桥南端重建落成",
+   "type": "文化",
+   "place": "秋瑾墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕搜狐·秋瑾墓70年内11迁：最令人痛心的第10次迁动，草草掩埋未留任何标记",
+    "url": "https://www.sohu.com/a/331601981_761727"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "qiu-jin"
+   ],
+   "date": "1981-09-05",
+   "place_id": "qiujin-mu",
+   "ll": [
+    120.1432,
+    30.2569
+   ],
+   "note": "发掘遗骨时凭颈骨刀痕认定"
+  },
+  {
+   "id": "hp1985-01",
+   "year": 1985,
+   "title": "新西湖十景陆续立碑",
+   "type": "文化",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪·三代\"西湖十景\"，排序历年变化，知道最新的十大景点是什么吗？",
+    "url": "https://k.sina.cn/article_7266404687_1b11c894f00100ltcm.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1985-09",
+   "note": "1984年五单位发起评选，10万多人参与"
+  },
+  {
+   "id": "hp1985-02",
+   "year": 1985,
+   "title": "杭州饭店与西泠饭店合为杭州香格里拉饭店",
+   "type": "经济",
+   "place": "杭州饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·香格里拉饭店变\"矮\"了，西湖的天际线更美了",
+    "url": "https://zzhz.zjol.com.cn/hz/lsnews/201911/t20191106_11317801.shtml",
+    "note": "各家说法不一"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1985",
+   "place_id": "hangzhou-fandian",
+   "ll": [
+    120.1437,
+    30.2612
+   ],
+   "note": "一说1984年；为中国大陆首家香格里拉饭店"
+  },
+  {
+   "id": "hp1988-01",
+   "year": 1988,
+   "title": "黄宾虹旧居修复后重新开放",
+   "type": "文化",
+   "place": "黄宾虹旧居",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕qingquanbook.com·黄宾虹：旧居系出首富门",
+    "url": "https://www.qingquanbook.com/m-Wap/Article/Details/725"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "huang-binhong"
+   ],
+   "date": "1988-03-25",
+   "place_id": "huang-binhong-jiuju",
+   "ll": [
+    120.1418,
+    30.264
+   ]
+  },
+  {
+   "id": "hp1990-01",
+   "year": 1990,
+   "title": "秋水山庄恢复旧名",
+   "type": "文化",
+   "place": "秋水山庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕光明网·史量才•秋水山庄",
+    "url": "https://www.gmw.cn/01wzb/2009-04/02/content_904852.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1990",
+   "place_id": "qiushui-shanzhuang",
+   "ll": [
+    120.1482,
+    30.2618
+   ]
+  },
+  {
+   "id": "hp1990-02",
+   "year": 1990,
+   "title": "1990年代初南山路酒吧街形成",
+   "type": "经济",
+   "place": "南山路酒吧街",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州统一战线·南山路酒吧逐渐消失应引起关注",
+    "url": "https://www.hztyzx.org.cn/article/4701.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1990",
+   "place_id": "nanshanlu-jiuba",
+   "ll": [
+    120.1598,
+    30.246
+   ],
+   "note": "年份取1990，来源作「90年代初」"
+  },
+  {
+   "id": "hp1999-01",
+   "year": 1999,
+   "title": "北线湖滨已连成开放公园，南线仍分段收门票",
+   "type": "城建",
+   "place": "湖滨公园（一至六公园）",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕界面新闻·门票客流双下降？不如看看4天250万游客的西湖免票往事",
+    "url": "https://www.jiemian.com/article/3125098.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1999",
+   "place_id": "hubin-gongyuan",
+   "ll": [
+    120.1597,
+    30.2555
+   ],
+   "note": "同年雷峰塔重建议案通过；南线整合后于2002年10月1日免费开放"
+  },
+  {
+   "id": "hp1896-02",
+   "year": 1896,
+   "title": "梅藤更在里西湖13号建屋，迁入广济麻风病院",
+   "type": "经济",
+   "place": "海盐馆",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州北山街与梅滕更的两面性",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-08/11/content_8029025.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "duncan-main"
+   ],
+   "date": "1896",
+   "place_id": "haiyan-guan",
+   "ll": [
+    120.15155,
+    30.262
+   ],
+   "note": "病人一次交5元挂号费即终身免费；1915年病院迁松木场"
+  },
+  {
+   "id": "hp1915-01",
+   "year": 1915,
+   "title": "1915—1919年杨叔英等颜料商集资重修葛岭道院",
+   "type": "文化",
+   "place": "抱朴道院",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·葛岭千年：仙踪难觅，朝暾依旧",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2018-10/23/content_7085573_4.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "yang-shuying"
+   ],
+   "date": "1915",
+   "place_id": "baopu-daoyuan",
+   "ll": [
+    120.1449,
+    30.266
+   ],
+   "note": "道院内设染业公会，后称抱朴道院"
+  },
+  {
+   "id": "hp1920-02",
+   "year": 1920,
+   "title": "太虚驻锡宝石山弥勒院，《海潮音》编辑部设此",
+   "type": "文化",
+   "place": "弥勒院",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（二）大石佛院",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqjd.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "taixu"
+   ],
+   "date": "1920",
+   "place_id": "mile-yuan",
+   "ll": [
+    120.1529,
+    30.2637
+   ]
+  },
+  {
+   "id": "hp1924-02",
+   "year": 1924,
+   "title": "孙传芳入浙，以里西湖13号为官邸",
+   "type": "政治",
+   "place": "海盐馆",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州北山街与梅滕更的两面性",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2021-08/11/content_8029025.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "sun-chuanfang"
+   ],
+   "date": "1924",
+   "place_id": "haiyan-guan",
+   "ll": [
+    120.15155,
+    30.262
+   ],
+   "note": "杭州网作1924—1927年；维基百科记其督浙至1926年12月"
+  },
+  {
+   "id": "hp1929-01",
+   "year": 1929,
+   "title": "孙花翁墓因西博会拓路迁移",
+   "type": "城建",
+   "place": "孙花翁墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（二）大石佛院",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqjd.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1929",
+   "place_id": "sun-huaweng-mu",
+   "ll": [
+    120.1523,
+    30.2619
+   ]
+  },
+  {
+   "id": "hp1931-01",
+   "year": 1931,
+   "title": "春润庐转让项松茂父子，改名春晖小筑",
+   "type": "经济",
+   "place": "春润庐",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州北山街54号，曾是\"不挂牌的北大招待所\"",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2022-05/06/content_8246106.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "xiang-songmao"
+   ],
+   "date": "1931",
+   "place_id": "chunrun-lu",
+   "ll": [
+    120.1498,
+    30.2621
+   ]
+  },
+  {
+   "id": "hp1932-01",
+   "year": 1932,
+   "title": "项松茂在上海营救被日军抓走的店员时遇害",
+   "type": "战乱",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州北山街54号，曾是\"不挂牌的北大招待所\"",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2022-05/06/content_8246106.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "xiang-songmao"
+   ],
+   "date": "1932-01"
+  },
+  {
+   "id": "hp1932-02",
+   "year": 1932,
+   "title": "陈布雷一家九口迁入坚匏别墅，住至1934年2月",
+   "type": "政治",
+   "place": "坚匏别墅",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州政协·陈布雷旧居——坚匏别墅",
+    "url": "https://www.hzzx.gov.cn/hzzx/content/2010-10/26/content_5138472.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "chen-bulei"
+   ],
+   "date": "1932",
+   "place_id": "jianpao-bieshu",
+   "ll": [
+    120.152,
+    30.2622
+   ],
+   "note": "此前陈布雷独居乐庐"
+  },
+  {
+   "id": "hp1933-01",
+   "year": 1933,
+   "title": "保俶塔大修122天，未复木檐，只留砖身",
+   "type": "城建",
+   "place": "保俶塔",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·保俶塔-西湖北山的千年古塔",
+    "url": "https://hznews.hangzhou.com.cn/wghz/content/2024-04/25/content_8720355.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1933",
+   "place_id": "baochu",
+   "ll": [
+    120.1525,
+    30.2656
+   ],
+   "note": "1933年3月1日开工，6月30日完工"
+  },
+  {
+   "id": "hp1934-02",
+   "year": 1934,
+   "title": "杭江铁路局改称浙赣铁路局",
+   "type": "经济",
+   "place": "浙赣铁路局旧址",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕搜狐·北山梦寻文化街（西湖散记之二十四）",
+    "url": "https://www.sohu.com/a/507068886_121107223"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1934-05",
+   "place_id": "zhegan-tieluju",
+   "ll": [
+    120.1524,
+    30.2628
+   ]
+  },
+  {
+   "id": "hp1934-03",
+   "year": 1934,
+   "title": "陈小蝶开设蝶来饭店，请胡蝶、徐来揭幕",
+   "type": "经济",
+   "place": "蝶来饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网（杭州日报）·西湖北山三父子",
+    "url": "https://hznews.hangzhou.com.cn/content/2024-06/28/content_8751633.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "chen-xiaodie"
+   ],
+   "date": "1934",
+   "place_id": "dielai-fandian",
+   "ll": [
+    120.1434,
+    30.2616
+   ],
+   "note": "另有1930年开业之说"
+  },
+  {
+   "id": "hp1936-01",
+   "year": 1936,
+   "title": "朱家骅任浙江省主席，以孤云草舍为官邸",
+   "type": "政治",
+   "place": "孤云草舍",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州政协·北山路上的孤云草舍",
+    "url": "https://www.hzzx.gov.cn/hzzx/content/2010-10/26/content_5138275.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhu-jiahua"
+   ],
+   "date": "1936-12",
+   "place_id": "guyun-caoshe",
+   "ll": [
+    120.1488,
+    30.262
+   ],
+   "note": "西安事变后陈布雷在孤云草舍隔壁写成《西安半月记》"
+  },
+  {
+   "id": "hp1936-02",
+   "year": 1936,
+   "title": "蒋介石在东山别墅边会见杨虎城",
+   "type": "政治",
+   "place": "东山别墅",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·杭州公布第五批历史建筑43处",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2010-04/16/content_3231357_0.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "chiang-kaishek",
+    "yang-hucheng"
+   ],
+   "date": "1936",
+   "place_id": "dongshan-bieshu",
+   "ll": [
+    120.1438,
+    30.2621
+   ],
+   "note": "秋。有当年史料照片存世。"
+  },
+  {
+   "id": "hp1937-05",
+   "year": 1937,
+   "title": "周恩来、潘汉年来杭谈判，住昭庆寺旁柏庐",
+   "type": "政治",
+   "place": "柏庐",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州政协·沉默了半个多世纪的秘密——周恩来、潘汉年与蒋介石、张冲在杭州西湖的秘密谈判",
+    "url": "https://www.hzzx.gov.cn/hzzx/content/2010-10/26/content_5138679.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhou-enlai"
+   ],
+   "date": "1937-03",
+   "place_id": "bai-lu",
+   "ll": [
+    120.1556,
+    30.2607
+   ],
+   "note": "张冲安排入住；会谈在3月下旬"
+  },
+  {
+   "id": "hp1945-02",
+   "year": 1945,
+   "title": "日本领事馆旧址改作杭州市政府外宾招待所",
+   "type": "政治",
+   "place": "日本驻杭领事馆旧址",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·陈仪与石函路1号",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/3196"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1945-12",
+   "place_id": "riben-lingshiguan",
+   "ll": [
+    120.1545,
+    30.2618
+   ]
+  },
+  {
+   "id": "hp1948-02",
+   "year": 1948,
+   "title": "陈仪任浙江省主席，以日领馆旧址为官邸",
+   "type": "政治",
+   "place": "日本驻杭领事馆旧址",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕武林旧事·陈仪与石函路1号",
+    "url": "https://www.hangchow.org/index.php/base/news_show/cid/3196"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "chen-yi"
+   ],
+   "date": "1948-06-29",
+   "place_id": "riben-lingshiguan",
+   "ll": [
+    120.1545,
+    30.2618
+   ],
+   "note": "维基百科作6月22日"
+  },
+  {
+   "id": "hp1948-03",
+   "year": 1948,
+   "title": "1948年10月至11月蒋经国携妻儿小住北山街8号",
+   "type": "政治",
+   "place": "蒋经国旧居",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕中国新闻网·蒋经国故居改开经营场所 蒋友柏设计方案未被采纳",
+    "url": "https://www.chinanews.com.cn/m/cul/2015/11-17/7626829.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "jiang-jingguo"
+   ],
+   "date": "1948-10",
+   "place_id": "jiang-jingguo-jiuju",
+   "ll": [
+    120.1531,
+    30.262
+   ],
+   "note": "由杭州市长周象贤拨借"
+  },
+  {
+   "id": "hp1948-04",
+   "year": 1948,
+   "title": "卢志学捐卍字草堂房地及法币5亿元办范德小学",
+   "type": "文化",
+   "place": "卍字草堂",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网（杭州日报）·西湖北山三父子",
+    "url": "https://hznews.hangzhou.com.cn/content/2024-06/28/content_8751633.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1948",
+   "place_id": "wanzi-caotang",
+   "ll": [
+    120.1434,
+    30.2627
+   ]
+  },
+  {
+   "id": "hp1951-02",
+   "year": 1951,
+   "title": "杨虎城之弟杨茂三出售东山别墅",
+   "type": "经济",
+   "place": "东山别墅",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州政协·虎城旧居今安在？",
+    "url": "https://www.hzzx.gov.cn/hzzx/content/2010-10/26/content_5139761.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "yang-hucheng"
+   ],
+   "date": "1951",
+   "place_id": "dongshan-bieshu",
+   "ll": [
+    120.1438,
+    30.2621
+   ],
+   "note": "委托张映溪办理，契价旧币2.25亿元；另称售予部队作117医院职工宿舍"
+  },
+  {
+   "id": "hp1951-03",
+   "year": 1951,
+   "title": "秋水山庄转给上海市总工会作疗养所",
+   "type": "经济",
+   "place": "秋水山庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（七）秋水山庄",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqks.html",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1951",
+   "place_id": "qiushui-shanzhuang",
+   "ll": [
+    120.1482,
+    30.2618
+   ],
+   "note": "一度改名西子楼"
+  },
+  {
+   "id": "hp1953-04",
+   "year": 1953,
+   "title": "凤林寺被拆，1956年在其一带建杭州饭店",
+   "type": "城建",
+   "place": "杭州饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（十）香格里拉饭店",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqla.html",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1953",
+   "place_id": "hangzhou-fandian",
+   "ll": [
+    120.1437,
+    30.2612
+   ],
+   "note": "同一博文另作1955年全部拆除"
+  },
+  {
+   "id": "hp1954-03",
+   "year": 1954,
+   "title": "作家史莽迁入北山街69号，自题「集艺楼」",
+   "type": "文化",
+   "place": "集艺楼",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕古建中国·集艺楼——杭州名人故居",
+    "url": "https://www.gujianchina.cn/quote/show-6244.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "shi-mang"
+   ],
+   "date": "1954",
+   "place_id": "jiyi-lou",
+   "ll": [
+    120.14693,
+    30.2624
+   ]
+  },
+  {
+   "id": "hp1955-03",
+   "year": 1955,
+   "title": "蝶来饭店拆除，原址建杭州饭店",
+   "type": "城建",
+   "place": "蝶来饭店",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕搜狐·找找老照片，讲讲老故事——浙旅酒店的前世今身",
+    "url": "https://m.sohu.com/n/474720256/"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1955",
+   "place_id": "dielai-fandian",
+   "ll": [
+    120.1434,
+    30.2616
+   ]
+  },
+  {
+   "id": "hp1958-02",
+   "year": 1958,
+   "title": "北山路95号江宅纳入社会主义改造",
+   "type": "经济",
+   "place": "北山路95号别墅",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（十二）穗庐",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqlg.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1958",
+   "place_id": "beishan-95",
+   "ll": [
+    120.14467,
+    30.2621
+   ],
+   "note": "该宅为江曼锋1934年所建"
+  },
+  {
+   "id": "hp1964-03",
+   "year": 1964,
+   "title": "孙花翁墓被毁",
+   "type": "运动",
+   "place": "孙花翁墓",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（二）大石佛院",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqjd.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1964",
+   "place_id": "sun-huaweng-mu",
+   "ll": [
+    120.1523,
+    30.2619
+   ],
+   "note": "2008年重修"
+  },
+  {
+   "id": "hp1986-01",
+   "year": 1986,
+   "title": "葛荫山庄拆除，改建镜湖厅景区",
+   "type": "城建",
+   "place": "葛荫山庄",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕新浪博客·杭州北山街（七）秋水山庄",
+    "url": "https://blog.sina.com.cn/s/blog_520b11410102zqks.html",
+    "note": "单一来源，待核"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1986",
+   "place_id": "geyin-shanzhuang",
+   "ll": [
+    120.1479,
+    30.2613
+   ],
+   "note": "景区面积1.7公顷"
+  },
+  {
+   "id": "hp1997-01",
+   "year": 1997,
+   "title": "润庐以280万元易主",
+   "type": "经济",
+   "place": "润庐",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·全城票选\"西湖最美十庐\"杭州人最爱的是美丽而有故事的西湖老建筑",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2013-09/03/content_4878831_0.htm",
+    "note": "各家说法不一"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1997",
+   "place_id": "run-lu",
+   "ll": [
+    120.1517,
+    30.2632
+   ],
+   "note": "杭州网称买主为一金华商人，其后归李念孔所有；买主另有异说"
+  },
+  {
+   "id": "hp1928-03",
+   "year": 1928,
+   "title": "浙江省政府第163次会议通过张静江举办西湖博览会的议案",
+   "type": "政治",
+   "place": "xihu-bolanhui",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕浙江在线·杭州记忆·1929年西湖博览会开幕",
+    "url": "http://hangzhou.zjol.com.cn/jrsd/bwzg/201906/t20190629_10440550.shtml"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhang-jingjiang"
+   ],
+   "date": "1928-10-03"
+  },
+  {
+   "id": "hp1956-02",
+   "year": 1956,
+   "title": "张宗祥提案恢复西泠印社，成立筹备委员会",
+   "type": "文化",
+   "place": "xiling-yinshe",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕西藏在线·恢复西泠印社的往事（吕国璋口述）",
+    "url": "https://www.xzxw.com/lyrw/2015-03/21/content_1172366.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [
+    "zhang-zong-xiang"
+   ],
+   "date": "1956"
+  },
+  {
+   "id": "hp1962-01",
+   "year": 1962,
+   "title": "张鲁庵病逝，家属将印章1525方、印谱433部捐给西泠印社",
+   "type": "文化",
+   "place": "xiling-yinshe",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕西藏在线·恢复西泠印社的往事（吕国璋口述）",
+    "url": "https://www.xzxw.com/lyrw/2015-03/21/content_1172366.html"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1962-04"
+  },
+  {
+   "id": "hp1957-01",
+   "year": 1957,
+   "title": "西湖第一艘木质机动游船「西子号」试制成功",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·西湖游船变迁 2026-05-24",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-05/24/content_9227884.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1957"
+  },
+  {
+   "id": "hp1979-03",
+   "year": 1979,
+   "title": "全国首艘大型玻璃钢电瓶游船「共青团号」在西湖下水",
+   "type": "经济",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕杭州网·西湖游船变迁 2026-05-24",
+    "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-05/24/content_9227884.htm"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1979"
+  },
+  {
+   "id": "hp1968-01",
+   "year": 1968,
+   "title": "西湖山林松毛虫成灾，至1980年初砍伐受害松树233万株",
+   "type": "灾异",
+   "place": "杭州",
+   "cite": {
+    "grade": "C",
+    "source": "〔今人〕腾讯新闻·何其亮一席演讲",
+    "url": "https://news.qq.com/rain/a/20230321A09TK200"
+   },
+   "topics": [
+    "hupan"
+   ],
+   "person_ids": [],
+   "date": "1968"
+  }
+ ]
+}

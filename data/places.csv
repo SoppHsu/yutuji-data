@@ -1,0 +1,705 @@
+﻿id,name,name_now,admin_now,kind,lon,lat,precision,within,dynasty,topics
+anyang,相州,河南安阳,,city,114.39,36.1,county,,,yunhe
+awa,阿波（德岛）,日本德岛,,city,134.55,34.07,city,,,haiguo
+ayuwang,阿育王寺,阿育王寺,宁波鄞州区 五乡镇,temple,121.724,29.872,town,maoxian,,liuchao|linan
+baima,洛阳白马寺,洛阳白马寺,,site,112.6,34.72,town,,东汉（传）；北魏沿用,liuchao
+baocheng,宝成院,今吴山东麓宝成寺存（有元至治二年麻曷葛剌造像）；宋院原址待考,,temple,120.1705,30.2438,town,qiantang,,linan
+baochu,保俶塔,保俶塔,杭州 宝石山,temple,120.147,30.264,town,qiantang,,liuchao|linan|hupan
+baoguo_yuan,报国寺,无存（南宋皇城遗址范围内）,,temple,120.163,30.226,town,qiantang,,linan
+baoqin,褒亲崇寿寺,无存,,temple,120.158,30.222,town,qiantang,,linan
+baoshan,云南金齿卫,云南保山,,city,99.169,25.1211,县一级,,,tiangong
+baosheng,保圣寺,保圣寺（甪直）,苏州吴中区 甪直古镇,temple,120.87,31.265,town,wujun,,liuchao
+beijing,涿郡,北京,,city,116.4,39.9,county,,,yunhe|haiguo|tiangong|kunyu
+beisheng,北胜州,云南永胜,,city,100.7486,26.6891,州一级,,,tiangong
+biaozhong,表忠观,宋址（龙山）无存；今钱王祠为明嘉靖以后迁建于涌金门外（柳浪闻莺）,,taoist,120.155,30.2165,town,qiantang,,linan
+binglingsi,炳灵寺石窟,炳灵寺石窟,,site,103.03,35.8,town,,西秦–北魏–北周,liuchao
+cangzhou,沧州,河北沧州,,city,116.85,38.3,county,,,yunhe|tiangong
+caotangsi,长安草堂寺（逍遥园译场）,长安草堂寺（逍遥园译场）,,site,108.62,34.05,town,,后秦（十六国北方）,liuchao
+changan,大兴城,陕西西安,,city,108.95,34.27,county,,,yunhe|xuanzang|tiangong
+changgan,长干寺,大报恩寺遗址公园,南京秦淮区 中华门外,temple,118.787,32.013,town,jiankang,,liuchao
+changshan,常山,浙江常山,,city,118.514,28.9037,县一级,,,tiangong
+changzhou,常州,江苏常州,,city,119.95,31.78,county,,,yunhe
+chaotianmen,朝天门,今鼓楼（中山南路与望江路口）,,other,120.172,30.243,point,qiantang,,linan
+chaozhou,潮州府,广东潮州,,city,116.63,23.67,府一级,,,tiangong
+chenzhou,辰,湖南沅陵,,city,110.3986,28.4595,县一级,,,tiangong
+chongan,建宁崇安,福建武夷山,,city,118.0267,27.7562,县一级,,,tiangong
+chongxian_hy,崇先显孝华严教寺,无存,,temple,120.235,30.345,town,qiantang,,linan
+chuxiong,楚雄,云南楚雄,,city,101.5436,25.0461,县一级,,,tiangong
+dafo,石城寺,新昌大佛寺,绍兴新昌县 南明山,temple,120.899,29.493,town,shanxian,,liuchao
+daizhou,代郡,山西代县,,city,112.9571,39.0648,县一级,,,tiangong
+dali,大理府,云南大理,,city,100.3003,25.6811,府一级,,,tiangong
+dalisi,大理寺,钱塘门内，今小车桥一带（杭州市第四人民医院旧址附近，推定）,,office,120.162,30.2625,point,qiantang,,linan
+daming,大明寺,大明寺,扬州邗江区 蜀冈中峰,temple,119.433,32.4125,town,guangling,,liuchao
+danei,皇城（大内）,凤凰山东麓、馒头山一带（宋城路—万松岭路以南）,,palace,120.168,30.226,point,qiantang,,linan
+danzhou,琼州儋州,海南儋州,,city,109.5833,19.5,州一级,,,tiangong
+daochang,道场山护圣万寿禅寺,道场山万寿寺（湖州吴兴区）,,temple,120.085,30.826,town,,,linan
+dashifo,大石佛院,遗址（宝石山东麓，大石佛残像存）,,temple,120.1535,30.2615,town,qiantang,,linan|hupan
+datong,大同,山西大同,,city,113.2914,40.0936,府一级,,,tiangong
+dehua,德化,福建德化,,city,118.2361,25.4949,县一级,,,tiangong
+dengzhou,登州府,山东蓬莱,,city,120.7333,37.8167,府一级,,,tiangong
+deshougong,德寿宫（北内）,望江路北侧、中河东岸（原杭州工具厂地块），今德寿宫遗址博物馆,,palace,120.1765,30.2445,point,qiantang,,linan
+dezhou,德州,山东德州,,city,116.36,37.44,county,,,yunhe
+dinglin,定林寺,方山定林寺,原在钟山；今寺在江宁区方山,temple,118.878,31.89,town,jiankang,,liuchao
+dingzhou,真定定州,河北定州,,city,114.9845,38.5158,县一级,,,tiangong
+dongtaiyi,太乙宫,无存,,taoist,120.166,30.2675,town,qiantang,,linan
+dongxiao,洞霄宫,遗址（余杭大涤山）,,taoist,119.905,30.315,town,qiantang,,linan
+dongyang,东阳郡乌伤县,义乌,,city,120.06,29.2,county,,,liuchao
+edo,江户,日本东京,,city,139.77,35.69,city,,,haiguo
+fajing,下天竺,法镜寺,杭州西湖区 天竺路,temple,120.1085,30.237,town,qiantang,,liuchao|linan
+fangshan,顺天房山,北京房山,,city,116.1369,39.7478,县一级,,,tiangong
+fantian,梵天寺,遗址（凤凰山梵天寺路，吴越经幢存）,,temple,120.1665,30.2285,town,qiantang,,linan
+fengcheng,丰城诸处,江西丰城,,city,115.7833,28.1958,县一级,,,tiangong
+fengleqiao,丰乐桥,中河上，今丰乐桥（开元路东，推定）,,bridge,120.1755,30.2545,point,qiantang,,linan
+fengxian,凤县,陕西凤县,,city,106.5187,33.9123,县一级,,,tiangong
+fokuo,佛窟寺,宏觉寺 · 牛首山,南京江宁区 牛首山,temple,118.743,31.912,town,jiankang,,liuchao
+fugu,府谷,陕西府谷,,city,111.0619,39.0276,县一级,,,tiangong
+fukui,福井,日本福井,,city,136.22,36.06,city,,,haiguo
+fuzhou_min,福州,福建福州,,city,119.3,26.08,city,,,haiguo
+ganzhou,甘州与肃州,甘肃张掖、酒泉,,city,100.4553,38.9355,县一级,,,tiangong
+gaoyou,高邮,江苏高邮,,city,119.46,32.78,county,,,yunhe|haiguo
+gaozhou,广东高州,广东高州,,city,110.8481,21.9135,县一级,,,tiangong
+gaozuo,高座寺,雨花台遗迹,南京雨花台,temple,118.781,31.999,town,jiankang,,liuchao
+gate-baoanmen,保安门,今望江路—小营巷南一带（推定）,,gate,120.18,30.24,point,qiantang,,linan
+gate-baoanshuimen,保安水门,今望江路西段近中河南口（推定）,,gate,120.1795,30.238,point,qiantang,,linan
+gate-beishuimen,北水门,今江城路凤凰山脚路口北侧（推定）,,gate,120.176,30.226,point,qiantang,,linan
+gate-bianmen,便门,今江城路候潮门南（推定）,,gate,120.178,30.228,point,qiantang,,linan
+gate-chongxinmen,崇新门,今清泰街东河一带（明清清泰门前身，张士诚东移）,,gate,120.182,30.253,point,qiantang,,linan
+gate-donghuamen,东华门,今馒头山东侧、江城路西（推定）,,gate,120.174,30.228,point,qiantang,,linan
+gate-dongqingmen,东青门,今庆春路东河菜市桥一带（明清庆春门前身，后东移）,,gate,120.183,30.262,point,qiantang,,linan
+gate-fengyumen,丰豫门,今涌金门（湖滨路南端、涌金公园）,,gate,120.161,30.252,point,qiantang,,linan
+gate-genshanmen,艮山门,今艮山门（明清艮山门略东）,,gate,120.184,30.283,point,qiantang,,linan
+gate-heningmen,和宁门,今万松岭路东端与中山南路交会处（推定，皇城北门）,,gate,120.17,30.2335,point,qiantang,,linan
+gate-houchaomen,候潮门,今候潮门（江城路/候潮路口一带；明清候潮门略东）,,gate,120.18,30.232,point,qiantang,,linan
+gate-jiahuimen,嘉会门,今凤凰山脚路东端、江城路南段一带（推定）,,gate,120.175,30.222,point,qiantang,,linan
+gate-lizhengmen,丽正门,今宋城路/凤凰山路南端一带（推定，皇城南门）,,gate,120.171,30.221,point,qiantang,,linan
+gate-nanshuimen,南水门,今江城路南段近嘉会门（推定）；龙山河入城处,,gate,120.175,30.224,point,qiantang,,linan
+gate-qianhumen,钱湖门,今南山路万松岭路口北一带（推定）,,gate,120.158,30.238,point,qiantang,,linan
+gate-qiantangmen,钱塘门,今少年宫广场东南、昭庆寺旧址前（2008年考古调查，地下遗址展示）,,gate,120.16,30.263,point,qiantang,,linan
+gate-qingbomen,清波门,今清波门（南山路/清波街口）,,gate,120.158,30.244,point,qiantang,,linan
+gate-tianzongshuimen,天宗水门,今中河北端、环城北路中河口一带（推定）,,gate,120.178,30.281,point,qiantang,,linan
+gate-xinkaimen,新开门,今清泰街南、东河西侧（推定，近今望江门内）,,gate,120.181,30.246,point,qiantang,,linan
+gate-yuhangmen,余杭门,今武林门,,gate,120.165,30.276,point,qiantang,,linan
+gate-yuhangshuimen,余杭水门,今武林门东、环城北路一带（推定）,,gate,120.17,30.279,point,qiantang,,linan
+gongsheng_huanghou_zhai,恭圣仁烈皇后宅（杨皇后家庙/宅）,今吴山广场东侧、河坊街中山中路口西南（推定精度中）,,residence,120.1685,30.2425,point,qiantang,,linan
+gongxian,巩县石窟（希玄寺）,巩县石窟（希玄寺）,,site,112.98,34.78,town,,北魏,liuchao
+gongyuan,礼部贡院,观桥西（今中河北路西、贡院前一带，推定）,,office,120.1725,30.2725,point,qiantang,,linan
+guan,顺天固安,河北固安,,city,116.2932,39.4372,县一级,,,tiangong
+guanghua,广化院,无存,,temple,120.148,30.2615,town,qiantang,,linan
+guangling,广陵,扬州,,city,119.43,32.4,county,,,liuchao|yunhe|haiguo|tiangong
+guangxin,广信郡,江西上饶,,city,117.9633,28.4419,县一级,,,tiangong
+guangze,邵武光泽,福建光泽,,city,117.3331,27.5464,县一级,,,tiangong
+guangzhou,广州,广东广州,,city,113.26,23.13,city,,,haiguo
+guanqiao,观桥,今中河北路观桥（推定）,,bridge,120.1755,30.2725,point,qiantang,,linan
+guanxiangkou,官巷口,今解放路与中山中路交会处（官巷口）,,street,120.169,30.254,point,qiantang,,linan
+guazhou_zhen,瓜洲,江苏扬州瓜洲,,city,119.3832,32.2527,镇一级,,,tiangong
+guoqing,国清寺,国清寺,台州天台县 天台山南麓,temple,121.035,29.159,town,linhai,,liuchao|linan
+hagi,萩,日本山口萩市,,city,131.4,34.41,city,,,haiguo
+haicheng_fj,海澄,福建龙海海澄,,city,117.8509,24.4151,县一级,,,tiangong
+haifeng,海丰,山东无棣,,city,117.6116,37.7439,县一级,,,tiangong
+haimen,海门黄连沙,江苏南通海门,,city,121.1727,31.8936,县一级,,,tiangong
+hancheng,韩城,陕西韩城,,city,110.4419,35.4768,县一级,,,tiangong
+hanshan,妙利普明塔院,寒山寺,苏州姑苏区 枫桥,temple,120.567,31.31,town,wujun,,liuchao
+hechi,庆远河池,广西河池,,city,108.085,24.6928,州一级,,,tiangong
+hengyang,衡阳,湖南衡阳,,city,112.5857,26.8968,县一级,,,tiangong
+hepu,合浦,广西合浦,,city,109.2,21.6667,县一级,,,tiangong
+hexiwu,河西务（武清县）,天津武清河西务,,city,116.92,39.65,county,,,yunhe
+hezhou,临贺郡,广西贺州,,city,111.5478,24.4164,县一级,,,tiangong
+hongtang,福州洪塘,福建福州洪塘,,city,119.2917,26.0769,镇一级,,,tiangong
+huaian,末口,江苏淮安,,city,119.02,33.6,county,,,yunhe
+huaijun,淮郡,江苏淮安,,city,119.1392,33.5058,县一级,,,tiangong
+huating,平凉华亭,甘肃华亭,,city,106.6545,35.2175,县一级,,,tiangong
+huichuan,四川会川密勒山,四川会理,,mountain,102.2469,26.6614,县一级,,,tiangong
+huishan,华山精舍,惠山寺,无锡梁溪区 惠山东麓,temple,120.261,31.587,town,wuxi,,liuchao
+huiyin,惠因院,慧因高丽寺（杭州玉岑山，今为重建）,,temple,120.137,30.232,town,qiantang,,linan
+huiyuan,伊犁惠远城,新疆霍城惠远镇,,city,80.93,43.95,city,,,haiguo
+huiyun,广寿慧云禅寺,无存,,temple,120.1805,30.2775,town,qiantang,,linan
+huizhou,徽郡,安徽歙县,,city,118.422,29.8697,县一级,,,tiangong
+huizhou_gd,惠州府,广东惠州,,city,114.4152,23.1115,府一级,,,tiangong
+humen,虎门,广东东莞虎门镇,,site,113.67,22.82,town,,,haiguo
+hupao,广福院,虎跑定慧寺,杭州西湖区 虎跑路,temple,120.133,30.214,town,qiantang,,liuchao|linan|hupan
+huzhou,湖,浙江湖州,,city,120.0875,30.8925,县一级,,,tiangong
+jiading_sc,嘉定州,四川乐山,,city,103.7575,29.5854,州一级,,,tiangong
+jian_fu,吉安,江西吉安,,city,114.9793,27.1172,府一级,,,tiangong
+jiangxin,江心龙翔寺,江心寺（温州鹿城区江心屿）,,temple,120.6405,28.0335,town,,,linan
+jiankang,建康,南京,,city,118.8,32.05,county,,,liuchao|kunyu
+jianzhou,剑州,四川剑阁,,city,105.5211,32.2867,县一级,,,tiangong
+jiaoshan,普济庵,焦山定慧寺,镇江 焦山（江中岛屿）,temple,119.501,32.23,town,jingkou,,liuchao
+jiaxiang,嘉祥寺,旧址不详,会稽（今绍兴一带），旧址不详,temple,,,unknown,kuaiji,,liuchao
+jiaxing,嘉兴,浙江嘉兴,,city,120.75,30.75,county,,,yunhe|tiangong
+jiayu,嘉峪,甘肃嘉峪关,,city,98.2862,39.8112,关,,,tiangong
+jiechi,解池,山西运城,,water,110.998,35.0304,县一级,,,tiangong
+jiezhou,阶,甘肃陇南,,city,105.349,33.535,县一级,,,tiangong
+jiezhu,戒珠寺,戒珠寺,绍兴越城区 蕺山脚下,temple,120.588,30.007,town,kuaiji,,liuchao
+jingci,慧日永明院,净慈寺,杭州 南屏山下,temple,120.151,30.2295,town,qiantang,,liuchao|linan|hupan
+jingdezhen,景德镇,江西景德镇,,city,117.2036,29.2942,县一级,,,tiangong
+jingkou,京口,镇江,,city,119.45,32.2,county,,,liuchao|yunhe|haiguo|tiangong
+jinglinggong,景灵宫,约今武林路—凤起路一带（推定）,,palace,120.166,30.268,point,qiantang,,linan
+jingshan,径山寺,径山万寿禅寺,杭州余杭区 径山,temple,119.78,30.39,town,qiantang,,liuchao|linan
+jingzhou,荆州,湖北荆州,,city,112.2361,30.3244,县一级,,,tiangong
+jining,任城,山东济宁,,city,116.59,35.41,county,,,yunhe|tiangong
+jinshan,泽心寺,金山寺（江天禅寺）,镇江润州区 金山,temple,119.4175,32.2195,town,jingkou,,liuchao
+jiuhuashan,池郡之九华山,安徽青阳,,mountain,117.8527,30.6398,县一级,,,tiangong
+jujingyuan,聚景园,清波门外西湖东南岸，今柳浪闻莺一带,,garden,120.158,30.247,point,qiantang,,linan
+juzhou,莒州,山东莒县,,city,118.8336,35.5769,州一级,,,tiangong
+kaifeng,汴州,河南开封,,city,114.35,34.8,county,,,yunhe|haiguo|tiangong
+kaihua,开化,浙江开化,,city,118.4102,29.1397,县一级,,,tiangong
+kaishan,开善寺,灵谷寺,南京钟山东南麓，原址在独龙阜,temple,118.873,32.05,town,jiankang,,liuchao|linan
+kaiyuan,开元宫,无存,,taoist,120.1685,30.2465,town,qiantang,,linan
+kanagawa,神奈川（横滨）,日本横滨,,city,139.64,35.44,city,,,haiguo
+kuaiji,会稽 · 山阴,绍兴,,city,120.6,29.99,county,,,liuchao
+kumamoto,熊本,日本熊本,,city,130.78,32.78,city,,,haiguo
+kyoto,京都,日本京都,,city,135.768,35.012,city,,,haiguo
+laizhou,莱州府,山东莱州,,city,119.9333,37.1792,府一级,,,tiangong
+lantian,蓝田,陕西蓝田,,city,109.3109,34.1616,县一级,,,tiangong
+lanzhou,兰州,甘肃兰州,,city,103.8318,36.0617,县一级,,,tiangong
+leifeng,雷峰塔,雷峰塔（新塔）,杭州 夕照山,temple,120.1485,30.2335,town,qiantang,,liuchao|linan|hupan
+leizhou,雷、廉二池,广东雷州、广西合浦,,water,110.0806,20.9147,县一级,,,tiangong
+leping,饶州乐平,江西乐平,,city,117.1203,28.9632,县一级,,,tiangong
+liaocheng,博州,山东聊城,,city,115.98,36.45,county,,,yunhe
+liaoyang,辽阳,辽宁辽阳,,city,123.1772,41.2643,县一级,,,tiangong
+lijiang,丽江府,云南丽江,,city,100.2208,26.8808,府一级,,,tiangong
+linanfuzhi,临安府治,清波门内荷花池头（今河坊街西端/南山路东）,,office,120.1625,30.2455,point,qiantang,,linan
+lingfeng,鹫峰禅院,灵峰（寺已废）,杭州植物园 青芝坞,temple,120.118,30.263,town,qiantang,,liuchao|linan
+lingjiu,灵鹫兴圣寺,遗址（飞来峰下，理公塔存）,,temple,120.1035,30.2385,town,qiantang,,linan
+lingyan,灵岩山寺,灵岩山寺,苏州吴中区 灵岩山,temple,120.456,31.244,town,wujun,,liuchao
+lingyin,灵隐寺,灵隐寺（云林禅寺）,杭州西湖区 北高峰南麓,temple,120.1015,30.2408,town,qiantang,,liuchao|linan|hupan
+lingzhi,灵芝崇福寺,无存（址在今涌金门外钱王祠一带）,,temple,120.1595,30.2505,town,qiantang,,linan
+linhai,临海郡始丰县,天台,,city,121.035,29.16,county,,,liuchao
+linjin,临晋,山西临猗临晋镇,,city,110.5494,35.0957,县一级,,,tiangong
+linqing,临清,山东临清,,city,115.7,36.84,county,,,yunhe|tiangong
+lintao,临洮,甘肃临洮,,city,103.8613,35.3773,县一级,,,tiangong
+lishui,处州丽水,浙江丽水,,city,119.9167,28.45,县一级,,,tiangong
+liubuqiao,六部桥（都亭驿桥）,中河上，今六部桥（河坊街东、中河中路）,,bridge,120.175,30.247,point,qiantang,,linan
+liuhe,六和塔,六和塔,杭州 月轮山，钱塘江北岸,temple,120.13,30.2,town,qiantang,,liuchao|linan
+liuyang,浏阳,湖南浏阳,,city,113.6375,28.1675,县一级,,,tiangong
+london,兰墩（伦敦）,英国伦敦,,city,-0.13,51.51,city,,,haiguo
+longchang,宝华山寺,隆昌寺,镇江句容市 宝华山,temple,119.09,32.137,town,jiankang,,liuchao
+longjing,龙井延恩衍庆院,遗址（老龙井一带）,,temple,120.1285,30.2255,town,qiantang,,linan
+longmen,龙门石窟（北魏诸窟）,龙门石窟（北魏诸窟）,,site,112.47,34.56,town,,北魏,liuchao
+longquan_tg,龙泉琉山,浙江龙泉,,mountain,119.1277,28.0733,县一级,,,tiangong
+longxiang,龙翔宫,无存,,taoist,120.1685,30.2505,town,qiantang,,linan
+luoyang,东都,河南洛阳,,city,112.45,34.66,county,,,yunhe|xuanzang
+lushi,卢氏高嘴儿,河南卢氏,,city,111.0523,34.0551,县一级,,,tiangong
+macao,澳门,澳门,,city,113.54,22.19,city,,,haiguo|tiangong
+maijishan,麦积山石窟,麦积山石窟,,site,105.96,34.35,town,,后秦–北魏–西魏–北周,liuchao
+manao,玛瑙宝胜寺,旧址存清代建筑（北山路玛瑙寺，今辟为纪念馆）,,temple,120.1505,30.2612,town,qiantang,,linan|hupan
+maoxian,鄮县,宁波,,city,121.73,29.86,county,,,liuchao
+mayang,麻阳,湖南麻阳,,city,109.7988,27.8673,县一级,,,tiangong
+mingqing,明庆寺,无存（宋址在木子巷北）,,temple,120.17,30.2605,town,qiantang,,linan
+mogao,敦煌莫高窟（北魏–北周窟）,敦煌莫高窟（北魏–北周窟）,,site,94.81,40.04,town,,北凉/北魏–西魏–北周,liuchao
+nagasaki,长崎,日本长崎,,city,129.874,32.745,city,,,haiguo
+nandan,南丹,广西南丹,,city,107.5333,24.9833,县一级,,,tiangong
+nanwang,南旺（汶上县）,山东汶上南旺镇,,city,116.35,35.78,county,,,yunhe
+nanxiong,南雄,广东南雄,,city,114.3093,25.1187,县一级,,,tiangong
+ningbo,宁波,浙江宁波,,city,121.55,29.87,city,,,haiguo|tiangong
+ningguo,宁国郡,安徽宣城,,city,118.7518,30.9475,县一级,,,tiangong
+ningshou,三茅宁寿观,无存,,taoist,120.1715,30.2465,town,qiantang,,linan
+ningxia,宁夏,宁夏银川,,city,106.225,38.485,县一级,,,tiangong
+osaka,大阪,日本大阪,,city,135.502,34.693,city,,,haiguo
+philadelphia,费城,美国费城,,city,-75.16,39.95,city,,,haiguo
+pingcheng,平城寺院（永宁寺、思远佛寺遗址）,平城寺院（永宁寺、思远佛寺遗址）,,site,113.3,40.09,town,,北魏,liuchao
+pingding,太原平定,山西平定,,city,113.6273,37.7949,州一级,,,tiangong
+pingliang,平凉,甘肃平凉,,city,106.67,35.54,city,,,haiguo
+pingshanyuan,屏山园（翠芳园）,南屏山麓、净慈寺附近（推定）,,garden,120.147,30.229,point,qiantang,,linan
+pingyang,山西平阳,山西临汾,,city,111.5087,36.0812,县一级,,,tiangong
+puning,普宁,广东普宁,,city,116.17,23.3,city,,,haiguo
+puti,菩提院,无存（菩提寺路名存）,,temple,120.158,30.2645,town,qiantang,,linan
+qianqing,千顷广化院,无存,,temple,120.1705,30.2615,town,qiantang,,linan
+qiantang,钱唐,杭州,,city,120.14,30.25,county,,,liuchao|yunhe|haiguo|tiangong
+qimen,祁门,安徽祁门,,city,117.7125,29.8535,县一级,,,tiangong
+qinghefang,清河坊,今河坊街与中山中路交会处,,street,120.1705,30.2465,point,qiantang,,linan
+qingleyuan,庆乐园（南园）,南山路长桥一带（推定）,,garden,120.152,30.238,point,qiantang,,linan
+qingzhou_longxing,青州龙兴寺造像窖藏,青州龙兴寺造像窖藏,,site,118.48,36.69,town,,北魏–东魏–北齐（至北宋埋藏）,liuchao
+qingzhou_tg,青州,山东青州,,city,118.4797,36.6967,县一级,,,tiangong
+qinhui_zhai,秦桧宅（望仙桥赐第）,与德寿宫遗址同址（望江路中河东）,,residence,120.1765,30.2445,point,qiantang,,linan
+qinzhou,巩昌秦州,甘肃天水,,city,105.7311,34.5809,州一级,,,tiangong
+qixia,栖霞寺,栖霞寺,南京栖霞区 栖霞山中峰西麓,temple,118.955,32.155,town,jiankang,,liuchao
+qiyuan,崇化寺,萧山祇园寺,杭州萧山区（东晋永兴县）,temple,120.27,30.165,town,qiantang,,liuchao|linan
+quanzhou,东南泉郡,福建泉州,,city,118.5858,24.9139,县一级,,,tiangong
+qujing,曲靖府,云南曲靖,,city,103.8029,25.5102,府一级,,,tiangong
+quyang,真定曲阳,河北曲阳,,city,114.6974,38.619,县一级,,,tiangong
+quyang_xiude,曲阳修德寺造像窖藏,曲阳修德寺造像窖藏,,site,114.7,38.62,town,,北魏–东魏–北齐（至隋唐）,liuchao
+quzhou,衢州府,浙江衢州,,city,118.8763,28.9545,府一级,,,tiangong
+raozhou,江西饶郡,江西鄱阳,,city,116.8206,29.2433,县一级,,,tiangong
+renwang,护国仁王禅寺,黄龙洞（清末改为道院，今为园林景点）,,temple,120.1455,30.2695,town,qiantang,,linan
+rongguo,南高峰荣国寺,遗址（南高峰塔基）,,temple,120.1235,30.2295,town,qiantang,,linan
+ruizhou,瑞州府,江西高安,,city,115.3722,28.4222,府一级,,,tiangong
+sansheng_liubu,三省六部（都堂、枢密院）,和宁门北、中山南路西侧，万松岭路北至太庙巷南之间（推定）,,office,120.1715,30.2355,point,qiantang,,linan
+sdl,上定林寺遗址,钟山考古遗址,南京钟山南麓,temple,118.852,32.072,town,jiankang,,liuchao
+shamendao,沙门岛,山东蓬莱庙岛,,city,120.6803,37.9381,岛,,,tiangong
+shanggao,上高诸邑,江西上高,,city,114.8833,28.1833,县一级,,,tiangong
+shangqiu,宋州,河南商丘,,city,115.65,34.42,county,,,yunhe
+shangtz,上天竺,法喜寺,杭州西湖区 天竺路尽头,temple,120.12,30.226,town,qiantang,,liuchao|linan
+shangzhou,西安商州,陕西商洛,,city,109.9244,33.868,州一级,,,tiangong
+shanxian,剡县,新昌,,city,120.9,29.5,county,,,liuchao
+shaolin,嵩山少林寺,嵩山少林寺,,site,112.94,34.51,town,,北魏,liuchao
+shaoxing,绍兴府,浙江绍兴,,city,120.5833,30.0,府一级,,,tiangong
+shaoyang,邵阳金潭,湖南隆回金潭村,,site,111.08,27.28,town,,,haiguo
+shaozhou,韶郡,广东韶关,,city,113.5927,24.8011,县一级,,,tiangong
+shengguo,圣果寺,遗址（凤凰山月岩下，吴越西方三圣造像存）,,temple,120.16,30.2255,town,qiantang,,linan
+shenmu,神木,陕西神木,,city,110.4896,38.8389,县一级,,,tiangong
+shenzhou,深州,河北深州,,city,115.5541,38.0005,州一级,,,tiangong
+shicheng_gd,石城,广东廉江,,city,110.2794,21.6146,县一级,,,tiangong
+shimoda,下田,日本静冈下田,,city,138.94,34.68,town,,,haiguo
+shisi,时思荐福寺,无存,,temple,120.118,30.253,town,qiantang,,linan
+shixifang,市西坊,今中山中路高银街—惠民路西侧（推定）,,street,120.1695,30.2485,point,qiantang,,linan
+shuanglin,双林寺,双林寺（重建）,金华义乌市,temple,120.06,29.2,town,dongyang,,liuchao|linan
+shuixin,水心保宁寺,无存,,temple,120.158,30.2455,town,qiantang,,linan
+singapore_city,新嘉坡,新加坡,,city,103.85,1.29,city,,,haiguo
+sizhou,泗州,江苏盱眙,,city,118.52,33.02,county,,,yunhe
+songjiang,松江,上海松江,,city,121.2333,31.0058,县一级,,,tiangong
+songxian,嵩县马槽山,河南嵩县,,city,112.0839,34.1352,县一级,,,tiangong
+songyuesi,嵩岳寺塔,嵩岳寺塔,,site,112.98,34.49,town,,北魏,liuchao
+suian,遂安,浙江淳安,,city,119.0384,29.605,县一级,,,tiangong
+suining,遂宁,四川遂宁,,city,105.5737,30.5098,县一级,,,tiangong
+suqian,宿迁,江苏宿迁,,city,118.28,33.96,county,,,yunhe
+suzhou_anhui,宿州（元和四年置）,安徽宿州,,city,116.98,33.65,county,,,yunhe
+suzhou_bgx,,今已无存（苏州古城东南）,,temple,120.635,31.3,town,,,linan
+taicang,刘家港（昆山州）,江苏太仓,,city,121.11,31.51,county,,,yunhe|tiangong
+taierzhuang,台儿庄（峄县）,山东枣庄台儿庄,,city,117.73,34.56,county,,,yunhe
+taimiao,太庙,紫阳山东麓、中山南路太庙巷，今太庙遗址公园,,palace,120.1705,30.2375,point,qiantang,,linan
+taiping_cf,太平兴国传法寺,无存,,temple,120.1775,30.2485,town,qiantang,,linan
+taipingfu,太平府,安徽当涂,,city,118.4889,31.5511,县一级,,,tiangong
+taixue,太学,今岳王路—庆春路北、众安桥以北（推定，原岳飞宅）,,academy,120.169,30.263,point,qiantang,,linan
+taizhou,台州府,浙江临海,,city,121.1409,28.8523,府一级,,,tiangong
+taoguang,韬光寺,韬光寺,杭州 北高峰西南坡,temple,120.0955,30.2465,town,qiantang,,liuchao|linan
+tianjin,直沽,天津,,city,117.2,39.13,county,,,yunhe|tiangong
+tianlongshan,天龙山石窟,天龙山石窟,,site,112.42,37.78,town,,东魏–北齐,liuchao
+tianqing,天庆观,无存,,taoist,120.17,30.2455,town,qiantang,,linan
+tianshuiqiao,天水院桥（天水桥）,今天水桥一带（中河中北段，推定）,,bridge,120.1745,30.2665,point,qiantang,,linan
+tiantong,天童寺,天童寺,宁波鄞州区 太白山,temple,121.788,29.803,town,maoxian,,liuchao|linan
+tongchuan,川北潼川,四川三台,,city,105.087,31.092,县一级,,,tiangong
+tongren,铜仁,贵州铜仁,,city,109.1885,27.7233,县一级,,,tiangong
+tongshan_fj,铜山,福建东山,,city,117.4226,23.7045,所一级,,,tiangong
+tongtai,同泰寺,鸡鸣寺,南京玄武区 鸡笼山，台城北侧,temple,118.797,32.064,town,jiankang,,liuchao
+tongxiang,嘉郡桐乡,浙江桐乡,,city,120.5474,30.6326,县一级,,,tiangong
+tongzhou,通州,北京通州,,city,116.66,39.91,county,,,yunhe|tiangong
+uraga,浦贺,日本神奈川横须贺浦贺,,city,139.72,35.24,town,,,haiguo
+w-caochuan,漕船形制,漕船形制（明浅船）,,other,119.02,33.6,town,,,yunhe
+w-daicunba,戴村坝,戴村坝,,other,116.45,35.98,town,,,yunhe
+w-gaojiayan,洪泽湖高家堰,洪泽湖高家堰,,other,118.85,33.3,town,,,yunhe
+w-gongchenqiao,拱宸桥,拱宸桥,,other,120.14,30.32,town,,,yunhe
+w-guangyuntan,广运潭,广运潭,,other,109.05,34.27,town,,,yunhe
+w-guazhou_zha,瓜洲闸与仪真闸,瓜洲闸与仪真闸,,other,119.35,32.24,town,,,yunhe
+w-guishan_yunhe,龟山运河,龟山运河,,other,118.6,33.05,town,,,yunhe
+w-hanjia_cang,含嘉仓与洛口仓,含嘉仓与洛口仓,,other,112.47,34.68,town,,,yunhe
+w-jieshui_he,减河与水柜,减河与水柜（运河水量调节）,,other,116.3,37.4,town,,,yunhe
+w-linqing_chaoguan,临清钞关,临清钞关,,other,115.7,36.86,town,,,yunhe
+w-nanwang_fenshui,南旺分水与戴村坝,南旺分水与戴村坝（汶河引水）,,other,116.35,35.78,town,,,yunhe
+w-qiandao,纤道与宝带桥,纤道与宝带桥,,other,120.65,31.25,town,,,yunhe
+w-qiaoweiyue,乔维岳复闸,乔维岳复闸（最早船闸记载）,,other,119.05,33.58,town,,,yunhe
+w-qingkou,清口枢纽,清口枢纽,,other,118.98,33.63,town,,,yunhe
+w-tonghui_zha,通惠河闸与积水潭码头,通惠河闸与积水潭码头,,other,116.38,39.94,town,,,yunhe
+w-tongzhou_cang,通州仓与北京京仓,通州仓与北京京仓,,other,116.66,39.91,town,,,yunhe
+w-xuzhou_hong,徐州洪与吕梁洪,徐州洪与吕梁洪,,other,117.3,34.3,town,,,yunhe
+w-zhahe,会通河闸群,会通河闸群（闸河）,,other,116.59,35.41,town,,,yunhe
+w-zhongzhaoba,清代“灌塘”过黄,清代“灌塘”过黄,,other,118.97,33.64,town,,,yunhe
+w-zongdu_shu,淮安漕运总督署,淮安漕运总督署,,other,119.14,33.5,town,,,yunhe
+waguan,瓦官寺,瓦官寺（重建）,南京秦淮区 花露岗一带,temple,118.771,32.018,town,jiankang,,liuchao
+wanfotang,义县万佛堂石窟,义县万佛堂石窟,,site,121.24,41.53,town,,北魏,liuchao
+wangxianqiao,望仙桥,中河上，今望仙桥（望江路/河坊街间）,,bridge,120.176,30.245,point,qiantang,,linan
+wanshouguan,万寿观,无存,,taoist,120.1645,30.268,town,qiantang,,linan
+weihui,汲郡,河南卫辉,,city,114.06,35.4,county,,,yunhe
+weizhou,蔚州九空山,河北蔚县,,city,114.5786,39.8328,州一级,,,tiangong
+wuchang,湖广武昌,湖北武汉,,city,114.2975,30.595,县一级,,,tiangong
+wuhu,芜湖,安徽芜湖,,city,118.3622,31.334,县一级,,,tiangong
+wujun,吴郡,苏州,,city,120.6,31.31,county,,,liuchao|yunhe|tiangong
+wuwei,庐州无为,安徽无为,,city,117.9167,31.3,州一级,,,tiangong
+wuxi,晋陵郡无锡县,无锡,,city,120.26,31.58,county,,,liuchao|yunhe
+wuxue,武学,太学旁，前洋街（今庆春路岳王路一带，推定）,,academy,120.1705,30.2635,point,qiantang,,linan
+wuyuan,婺源,江西婺源,,city,117.85,29.25,县一级,,,tiangong
+xianci,显慈集庆教寺,无存,,temple,120.126,30.251,town,qiantang,,linan
+xiangfu,大中祥符寺,无存,,temple,120.166,30.268,town,qiantang,,linan
+xiangtangshan,响堂山石窟（鼓山石窟寺）,响堂山石窟（鼓山石窟寺）,,site,114.15,36.42,town,,北齐,liuchao
+xiangyang,襄阳府,湖北襄阳,,city,112.1531,32.0654,府一级,,,tiangong
+xianlin,仙林慈恩普济教寺,无存（地名仙林桥存）,,temple,120.1765,30.2625,town,qiantang,,linan
+xianqing,旌德显庆寺,无存,,temple,120.135,30.2435,town,qiantang,,linan
+xianying,显应观,无存（涌金门外）,,taoist,120.1595,30.2515,town,qiantang,,linan
+xingguo,湖广兴国州,湖北阳新,,city,115.2079,29.8383,州一级,,,tiangong
+xingtai,真定邢台,河北邢台,,city,114.4753,37.0659,县一级,,,tiangong
+xinjian,新建,江西南昌新建,,city,115.6983,28.5458,县一级,,,tiangong
+xintan,新滩,湖北秭归,,city,110.9715,30.8253,县一级,,,tiangong
+xinyang,河南信阳州,河南信阳,,city,114.0672,32.1264,县一级,,,tiangong
+xitaiyi,西太乙宫,无存（今孤山中山公园一带）,,taoist,120.1445,30.2555,town,qiantang,,linan
+xizhou,平阳隰州,山西隰县,,city,110.9306,36.69,州一级,,,tiangong
+xuanfu,宣府黄尖山,河北张家口宣化,,mountain,115.0547,40.6072,县一级,,,tiangong
+xuedou,雪窦山资圣寺,雪窦寺（宁波奉化区溪口）,,temple,121.186,29.673,town,,,linan
+xuefeng,雪峰崇圣禅寺,雪峰崇圣寺（福州闽侯县）,,temple,119.09,26.3,town,,,linan
+xumishan,须弥山石窟,须弥山石窟,,site,106.1,36.25,town,,北魏–西魏–北周,liuchao
+xupu,溆浦,湖南溆浦,,city,110.5893,27.9067,县一级,,,tiangong
+xuzhou,彭城郡,江苏徐州,,city,117.2,34.27,county,,,yunhe|tiangong
+xyj001,阿耆尼国,新疆焉耆回族自治县（焉耆古城/博格达沁古城一带）,,city,86.57,42.06,region,,,xuanzang
+xyj002,屈支国,新疆库车（龟兹，都城伊逻卢城即库车皮朗古城）,,city,82.97,41.72,region,,,xuanzang
+xyj003,跋禄迦国,新疆阿克苏—温宿一带（姑墨）,,city,80.26,41.17,region,,,xuanzang
+xyj004,笯赤建国,乌兹别克斯坦塔什干东北一带（Nujkath，苏联考古比定为汗阿巴德 Khanabad）,,city,69.7,41.4,region,,,xuanzang
+xyj005,赭时国,乌兹别克斯坦塔什干（石国）,,city,69.24,41.31,region,,,xuanzang
+xyj006,㤄捍国,费尔干纳盆地（乌兹别克斯坦/吉尔吉斯斯坦/塔吉克斯坦交界）,,city,71.0,40.6,region,,,xuanzang
+xyj007,窣堵利瑟那国,塔吉克斯坦伊斯塔拉夫尚（乌拉秋别）一带（Ustrushana，都城 Bunjikath 在 Shahristan）,,city,68.99,39.92,region,,,xuanzang
+xyj008,飒秣建国,乌兹别克斯坦撒马尔罕（康国，阿夫拉西阿卜遗址）,,city,66.95,39.66,region,,,xuanzang
+xyj009,弭秣贺国,撒马尔罕东南（Maymurgh，米国）,,city,67.2,39.48,region,,,xuanzang
+xyj010,劫布呾那国,撒马尔罕西北泽拉夫尚河北岸（Kabudhan，曹国）,,city,66.61,40.03,region,,,xuanzang
+xyj011,屈霜尔迦国,撒马尔罕西（Kushaniya，何国），约在卡塔库尔干一带,,city,65.97,39.92,region,,,xuanzang
+xyj012,喝捍国,布哈拉东北（Kharghankath，东安国），约纳沃伊州 Karmana 一带,,city,64.48,39.92,region,,,xuanzang
+xyj013,捕喝国,乌兹别克斯坦布哈拉（安国）,,city,64.42,39.77,region,,,xuanzang
+xyj014,伐地国,土库曼斯坦阿姆河右岸 Betik（Bitik，与 Amul/土库曼纳巴德相对），西安国,,city,63.6,39.1,region,,,xuanzang
+xyj015,货利习弥伽国,花剌子模（阿姆河下游，乌兹别克斯坦卡拉卡尔帕克斯坦/土库曼斯坦），古都 Kath 在 Beruniy,,city,60.75,41.7,region,,,xuanzang
+xyj016,羯霜那国,乌兹别克斯坦沙赫里萨布兹（Kesh，史国）,,city,66.83,39.05,region,,,xuanzang
+xyj017,呾蜜国,乌兹别克斯坦铁尔梅兹（老城遗址）,,city,67.28,37.22,region,,,xuanzang
+xyj018,赤鄂衍那国,乌兹别克斯坦苏尔汉河上游迭脑（Denau，Chaghaniyan）,,city,67.86,38.1,region,,,xuanzang
+xyj019,忽露摩国,塔吉克斯坦杜尚别以西希萨尔一带（Akharun）,,city,68.55,38.53,region,,,xuanzang
+xyj020,愉漫国,塔吉克斯坦杜尚别一带（Shuman）,,city,68.78,38.54,region,,,xuanzang
+xyj021,鞠和衍那国,塔吉克斯坦卡菲尔尼甘河下游卡巴迪安（Qubadiyan）,,city,68.18,37.45,region,,,xuanzang
+xyj022,镬沙国,塔吉克斯坦瓦赫什河流域（Wakhsh，约库尔干秋别/博赫塔尔一带）,,city,68.78,37.84,region,,,xuanzang
+xyj023,珂咄罗国,塔吉克斯坦哈特隆州库利亚布一带（Khuttal）,,city,69.78,37.91,region,,,xuanzang
+xyj024,拘谜陀国,塔吉克斯坦达尔瓦兹（Darwaz）或喀拉提锦（Karategin）,,city,70.79,38.46,region,,,xuanzang
+xyj025,缚伽浪国,阿富汗巴格兰（Baghlan）,,city,68.71,36.13,region,,,xuanzang
+xyj026,纥露悉泯健国,阿富汗萨曼甘省艾巴克（Haibak/Samangan）一带,,city,68.05,36.25,region,,,xuanzang
+xyj027,忽懔国,阿富汗胡勒姆（Khulm，塔什库尔干北郊）,,city,67.69,36.69,region,,,xuanzang
+xyj028,缚喝国,阿富汗巴尔赫（Balkh）,,city,66.9,36.77,region,,,xuanzang
+xyj029,锐秣陀国,阿富汗萨尔普勒一带（Jumadha？）,,city,66.24,35.65,region,,,xuanzang
+xyj030,胡寔健国,阿富汗朱兹詹（Guzganan），希比尔甘以南,,city,65.74,36.67,region,,,xuanzang
+xyj031,呾剌健国,阿富汗西北/土库曼斯坦交界之塔拉干（Talaqan，穆尔加布河流域）,,city,64.79,37.77,region,,,xuanzang
+xyj032,揭职国,阿富汗巴尔赫以南山区（Gachi/Gaz？）,,city,66.75,36.29,region,,,xuanzang
+xyj033,梵衍那国,阿富汗巴米扬,,city,67.82,34.82,region,,,xuanzang
+xyj034,迦毕试国,阿富汗帕尔旺省贝格拉姆（Begram，Kapisi）,,city,69.27,34.97,region,,,xuanzang
+xyj035,滥波国,阿富汗拉格曼（Laghman），梅赫塔尔拉姆一带,,city,70.22,34.66,region,,,xuanzang
+xyj036,那揭罗曷国,阿富汗贾拉拉巴德（醯罗城即哈达 Hadda）,,city,70.46,34.44,region,,,xuanzang
+xyj037,健驮逻国,巴基斯坦白沙瓦（都城布路沙布逻 Purusapura）,,city,71.58,34.01,region,,,xuanzang
+xyj038,乌仗那国,巴基斯坦斯瓦特河谷（都城瞢揭厘即明戈拉 Mingora）,,city,72.36,34.78,region,,,xuanzang
+xyj039,钵露罗国,巴基斯坦巴尔蒂斯坦（首府斯卡杜）,,city,75.63,35.3,region,,,xuanzang
+xyj040,呾叉始罗国,巴基斯坦塔克西拉（Taxila）,,city,72.83,33.76,region,,,xuanzang
+xyj041,僧诃补罗国,巴基斯坦旁遮普省盐岭一带，Cunningham 比定 Ketas（Katas Raj）,,city,72.95,32.72,region,,,xuanzang
+xyj042,乌剌尸国,巴基斯坦哈扎拉地区（Hazara）,,city,72.94,34.0,region,,,xuanzang
+xyj043,迦湿弥罗国,克什米尔谷地，斯利那加一带,,city,74.8,34.08,region,,,xuanzang
+xyj044,半笯嗟国,克什米尔蓬奇（Poonch）,,city,74.09,33.77,region,,,xuanzang
+xyj045,曷逻阇补罗国,查谟-克什米尔拉乔里（Rajauri）,,city,74.31,33.38,region,,,xuanzang
+xyj046,磔迦国,巴基斯坦旁遮普（Takka），都城奢羯罗（Sakala）一般比定锡亚尔科特,,city,74.53,32.49,region,,,xuanzang
+xyj047,至那仆底国,印度旁遮普比亚斯河与萨特莱杰河汇流处以南，Cunningham 比定 Patti,,city,74.62,30.92,region,,,xuanzang
+xyj048,阇烂达罗国,印度旁遮普贾朗达尔（Jalandhar）,,city,75.58,31.33,region,,,xuanzang
+xyj049,屈露多国,印度喜马偕尔邦库卢河谷（Kullu）,,city,77.1,31.97,region,,,xuanzang
+xyj050,设多图卢国,印度旁遮普锡尔欣德（Sirhind），萨特莱杰河流域,,city,76.39,30.63,region,,,xuanzang
+xyj051,波理夜呾罗国,印度拉贾斯坦邦斋浦尔北拜拉特（Bairat/Viratnagar）,,city,76.18,27.43,region,,,xuanzang
+xyj052,秣菟罗国,印度北方邦马图拉（Mathura）,,city,77.68,27.5,region,,,xuanzang
+xyj053,萨他泥湿伐罗国,印度哈里亚纳邦塔内沙尔（Thanesar）,,city,76.83,29.97,region,,,xuanzang
+xyj054,窣禄勤那国,印度北方邦萨哈兰普尔县贾加德里附近苏格村（Sugh）,,city,77.35,30.16,region,,,xuanzang
+xyj055,秣底补罗国,印度北方邦比杰诺尔县曼达瓦尔（Mandawar）,,city,78.13,29.49,region,,,xuanzang
+xyj056,婆罗吸摩补罗国,印度北阿坎德邦加尔瓦尔—库马翁地区,,city,78.78,30.22,region,,,xuanzang
+xyj057,瞿毘霜那国,印度北阿坎德邦卡西普尔（Kashipur）,,city,78.96,29.21,region,,,xuanzang
+xyj058,垩醯掣呾逻国,印度北方邦巴雷利县拉姆纳加尔（Ahichchhatra 遗址）,,city,79.12,28.37,region,,,xuanzang
+xyj059,毘罗删那国,印度北方邦埃塔县 Atranjikhera 或 Bilsar,,city,78.65,27.57,region,,,xuanzang
+xyj060,劫比他国,印度北方邦法鲁卡巴德县桑吉萨（Sankisa）,,city,79.27,27.33,region,,,xuanzang
+xyj061,羯若鞠阇国,印度北方邦曲女城（Kannauj）,,city,79.92,27.06,region,,,xuanzang
+xyj062,阿逾陀国,印度北方邦阿约提亚（Ayodhya）一带？,,city,82.2,26.8,region,,,xuanzang
+xyj063,阿耶穆佉国,约在印度北方邦阿拉哈巴德西北 Rae Bareli—Pratapgarh 一带,,city,81.94,25.89,region,,,xuanzang
+xyj064,钵逻耶伽国,印度北方邦阿拉哈巴德（Prayagraj）,,city,81.85,25.45,region,,,xuanzang
+xyj065,憍赏弥国,印度北方邦阿拉哈巴德西南科桑（Kosam）,,city,81.4,25.36,region,,,xuanzang
+xyj066,鞞索迦国,印度北方邦中部，确址不明（沙祇 Saketa／Nimkhar 等说）,,city,82.2,26.8,region,,,xuanzang
+xyj067,室罗伐悉底国,印度北方邦舍卫城遗址（Saheth-Maheth）,,city,82.05,27.52,region,,,xuanzang
+xyj068,劫比罗伐窣堵国,尼泊尔陶利哈瓦附近提罗拉科特（Tilaurakot）,,city,83.05,27.58,region,,,xuanzang
+xyj069,蓝摩国,印度北方邦巴斯蒂县 Rampur Deoriya 一带,,city,82.74,26.8,region,,,xuanzang
+xyj070,拘尸那揭罗国,印度北方邦拘尸那加尔（Kushinagar，Kasia）,,city,83.89,26.74,region,,,xuanzang
+xyj071,婆罗痆斯国,印度北方邦瓦拉纳西（Varanasi）,,city,82.96,25.28,region,,,xuanzang
+xyj072,战主国,印度北方邦加济普尔（Ghazipur）,,city,83.57,25.58,region,,,xuanzang
+xyj073,吠舍厘国,印度比哈尔邦毗舍离（Basarh）,,city,85.13,25.99,region,,,xuanzang
+xyj074,弗栗恃国,印度比哈尔邦北部达班加一带（Vrji）,,city,85.9,26.17,region,,,xuanzang
+xyj075,尼波罗国,尼泊尔加德满都谷地,,city,85.32,27.7,region,,,xuanzang
+xyj076,摩揭陀国,印度比哈尔邦南部（巴特那—那烂陀—菩提伽耶一带）,,city,85.44,25.14,region,,,xuanzang
+xyj077,伊烂拏钵伐多国,印度比哈尔邦蒙吉尔（Monghyr/Munger）,,city,86.47,25.38,region,,,xuanzang
+xyj078,瞻波国,印度比哈尔邦巴格尔布尔（Bhagalpur）附近 Champanagar,,city,86.94,25.24,region,,,xuanzang
+xyj079,羯朱嗢祇罗国,印度贾坎德邦拉杰默哈尔（Rajmahal，古名 Kankjol）,,city,87.84,25.05,region,,,xuanzang
+xyj080,奔那伐弹那国,孟加拉国博格拉县马哈斯坦加尔（Mahasthangarh）,,city,89.35,24.96,region,,,xuanzang
+xyj081,迦摩缕波国,印度阿萨姆邦古瓦哈提（Kamarupa）,,city,91.71,26.17,region,,,xuanzang
+xyj082,三摩呾吒国,孟加拉国东南部，都城一般比定为库米拉以西 Bad-Kamta（Karmanta）,,city,91.05,23.45,region,,,xuanzang
+xyj083,耽摩栗底国,印度西孟加拉邦坦卢克（Tamluk）,,city,87.92,22.29,region,,,xuanzang
+xyj084,羯罗拏苏伐剌那国,印度西孟加拉邦穆尔希达巴德县 Rajbadidanga（Karnasuvarna）,,city,88.19,24.03,region,,,xuanzang
+xyj085,乌荼国,印度奥里萨邦北部（Odra）,,city,85.84,20.19,region,,,xuanzang
+xyj086,恭御陀国,印度奥里萨邦甘贾姆（Ganjam），都城比定 Jaugada,,city,84.83,19.51,region,,,xuanzang
+xyj087,羯䬛伽国,印度安得拉邦东北—奥里萨邦南部沿海（Kalinga），都城有 Mukhalingam 等说,,city,84.05,18.6,region,,,xuanzang
+xyj088,憍萨罗国,印度德干高原东北部（南憍萨罗，恰蒂斯加尔—马哈拉施特拉东部）,,city,79.3,19.95,region,,,xuanzang
+xyj089,案达罗国,印度安得拉邦戈达瓦里河与克里希纳河之间（都城瓶耆罗 Vengi，埃卢鲁附近）,,city,81.1,16.78,region,,,xuanzang
+xyj090,驮那羯磔迦国,印度安得拉邦阿马拉瓦蒂（Dharanikota）,,city,80.36,16.58,region,,,xuanzang
+xyj091,珠利耶国,印度安得拉邦内洛尔（Nellore）一带,,city,79.97,14.42,region,,,xuanzang
+xyj092,达罗毘荼国,印度泰米尔纳德邦建志补罗（Kanchipuram）,,city,79.71,12.83,region,,,xuanzang
+xyj093,秣罗矩吒国,印度泰米尔纳德邦南部马杜赖—蒂鲁内尔维利一带（潘地亚）,,city,78.12,9.92,region,,,xuanzang
+xyj094,僧伽罗国,斯里兰卡（都城阿努拉德普勒）,,city,80.4,8.34,region,,,xuanzang
+xyj095,荼建那补罗国,印度卡纳塔克邦通加巴德拉河流域（Konkanapura），Cunningham 比定 Anegondi,,city,76.49,15.35,region,,,xuanzang
+xyj096,摩诃剌侘国,印度马哈拉施特拉—卡纳塔克北部（遮娄其王朝），都城多比定巴达米（Badami）,,city,75.68,15.92,region,,,xuanzang
+xyj097,跋禄羯呫婆国,印度古吉拉特邦布罗奇（Bharuch）,,city,72.97,21.7,region,,,xuanzang
+xyj098,摩腊婆国,印度中央邦马尔瓦（Malwa），都城或比定达尔（Dhar）,,city,75.3,22.6,region,,,xuanzang
+xyj099,阿吒厘国,印度古吉拉特邦境内，确址不明,,city,70.83,22.82,region,,,xuanzang
+xyj100,契吒国,印度古吉拉特邦卡奇（Kachchh），另说凯达（Kheda）,,city,69.27,23.2,region,,,xuanzang
+xyj101,伐腊毘国,印度古吉拉特邦巴夫那加尔西北瓦拉（Vala/Valabhipur）,,city,71.88,21.89,region,,,xuanzang
+xyj102,阿难陀补罗国,印度古吉拉特邦瓦德纳加尔（Vadnagar）,,city,72.64,23.79,region,,,xuanzang
+xyj103,苏剌侘国,印度古吉拉特邦卡提阿瓦半岛，朱纳加德一带（Saurashtra）,,city,70.46,21.52,region,,,xuanzang
+xyj104,瞿折罗国,印度拉贾斯坦邦西南，都城毘罗摩罗（Bhillamala，比恩马尔 Bhinmal）,,city,72.27,25.0,region,,,xuanzang
+xyj105,邬阇衍那国,印度中央邦乌贾因（Ujjain）,,city,75.78,23.18,region,,,xuanzang
+xyj106,掷枳陀国,印度中部本德尔坎德（Bundelkhand），Cunningham 以卡朱拉霍为都,,city,79.92,24.85,region,,,xuanzang
+xyj107,摩醯湿伐罗补罗国,印度中央邦瓜廖尔（Gwalior）一带,,city,78.18,26.22,region,,,xuanzang
+xyj108,信度国,巴基斯坦信德省上信德，以苏库尔（阿罗尔 Alor）为中心,,city,68.9,27.7,region,,,xuanzang
+xyj109,茂罗三部卢国,巴基斯坦木尔坦（Multan）,,city,71.46,30.19,region,,,xuanzang
+xyj110,钵伐多国,巴基斯坦旁遮普省哈拉帕（Harappa）一带,,city,72.86,30.63,region,,,xuanzang
+xyj111,阿点婆翅罗国,巴基斯坦信德省南部，拉森说在卡拉奇一带,,city,67.03,24.89,region,,,xuanzang
+xyj112,狼揭罗国,巴基斯坦俾路支省东南部（莫克兰东部），都城在胡兹达尔与卡拉特之间,,city,65.52,25.51,region,,,xuanzang
+xyj113,波剌斯国,伊朗（萨珊波斯）,,city,58.4,29.93,region,,,xuanzang
+xyj114,臂多絷罗国,巴基斯坦信德省海得拉巴（或 Nirankot）一带,,city,68.37,25.38,region,,,xuanzang
+xyj115,阿軬荼国,巴基斯坦信德省婆罗门纳巴德（Brahmanabad）一带,,city,68.78,25.88,region,,,xuanzang
+xyj116,伐剌拏国,巴基斯坦开伯尔-普什图省班努（Bannu）,,city,70.61,32.99,region,,,xuanzang
+xyj117,漕矩吒国,阿富汗加兹尼（都城鹤悉那 Ghazni）,,city,68.42,33.55,region,,,xuanzang
+xyj118,弗栗恃萨傥那国,阿富汗喀布尔以北，都城护苾那或比定 Hupian/Opian（恰里卡尔附近）,,city,69.1,34.83,region,,,xuanzang
+xyj119,安呾罗缚国,阿富汗巴格兰省安德拉布（Andarab）,,city,69.25,35.63,region,,,xuanzang
+xyj120,阔悉多国,阿富汗东北巴格兰省霍斯特河流域（Khost）,,city,69.55,35.95,region,,,xuanzang
+xyj121,活国,阿富汗昆都士（Kunduz）附近,,city,68.87,36.73,region,,,xuanzang
+xyj122,瞢健国,阿富汗昆都士以东汗阿巴德—塔利甘一带,,city,69.11,36.68,region,,,xuanzang
+xyj123,阿利尼国,阿富汗昆都士省阿姆河南岸 Arhan（伊玛目萨希布一带）,,city,68.77,37.22,region,,,xuanzang
+xyj124,曷逻胡国,阿富汗巴达赫尚北部拉格（Ragh）一带（推定）,,city,70.66,37.67,region,,,xuanzang
+xyj125,讫栗瑟摩国,阿富汗巴达赫尚省基什姆（Kishm）,,city,70.1,36.82,region,,,xuanzang
+xyj126,钵利曷国,阿富汗—塔吉克斯坦交界阿姆河上游（Parghar？）,,city,69.4,37.5,region,,,xuanzang
+xyj127,呬摩呾罗国,阿富汗巴达赫尚法扎巴德附近（Himatala）,,city,70.33,36.95,region,,,xuanzang
+xyj128,钵铎创那国,阿富汗巴达赫尚（Badakhshan），法扎巴德一带,,city,70.58,37.12,region,,,xuanzang
+xyj129,淫薄健国,阿富汗巴达赫尚省朱尔姆—亚姆甘（Yamgan），科克恰河流域,,city,70.83,36.86,region,,,xuanzang
+xyj130,屈浪拏国,阿富汗巴达赫尚省库兰瓦蒙章（Kuran wa Munjan），青金石产地,,city,70.68,36.02,region,,,xuanzang
+xyj131,达摩悉铁帝国,阿富汗瓦罕走廊（都城昏驮多， Khandud）,,city,72.32,36.95,region,,,xuanzang
+xyj132,尸弃尼国,塔吉克斯坦戈尔诺-巴达赫尚舒格南（Shighnan）,,city,71.8,37.73,region,,,xuanzang
+xyj133,商弥国,巴基斯坦奇特拉尔—马斯图吉一带（Chitral/Mastuj）,,city,72.3,36.3,region,,,xuanzang
+xyj134,朅盘陀国,新疆塔什库尔干塔吉克自治县（石头城）,,city,75.23,37.77,region,,,xuanzang
+xyj135,乌铩国,新疆英吉沙与莎车之间,,city,77.25,38.42,region,,,xuanzang
+xyj136,佉沙国,新疆喀什（疏勒）,,city,75.99,39.47,region,,,xuanzang
+xyj137,斫句迦国,新疆叶城（Karghalik）,,city,77.41,37.88,region,,,xuanzang
+xyj138,瞿萨旦那国,新疆和田（都城约特干遗址）,,city,79.82,37.01,region,,,xuanzang|tiangong
+xyj139,媲摩城,新疆策勒县境（Pimo，《马可·波罗行纪》之 Pein）,,city,80.84,37.31,region,,,xuanzang
+xyj140,尼壤城,新疆民丰县尼雅（精绝故地）,,city,82.69,37.07,region,,,xuanzang
+xyj141,覩货逻故国,新疆民丰县东安迪尔（Endere）古城一带（推定）,,city,83.8,37.7,region,,,xuanzang
+xyj142,折摩驮那故国,新疆且末（涅末）,,city,85.51,38.04,region,,,xuanzang
+xyj143,纳缚波故国,新疆若羌县（楼兰/鄯善故地，石城镇）,,city,88.11,39.06,region,,,xuanzang
+xz-01,洛州缑氏县凤凰谷陈村,河南偃师缑氏镇陈河村一带,,city,112.8,34.6,approx,,,xuanzang
+xz-04,成都,四川成都,,city,104.07,30.67,approx,,,xuanzang
+xz-06,凉州,甘肃武威,,city,102.64,37.93,approx,,,xuanzang
+xz-07,瓜州,甘肃瓜州县锁阳城一带,,city,96.2,40.23,approx,,,xuanzang
+xz-08,瓠芦河、玉门关与五烽,甘肃瓜州县以北疏勒河一带,,gate,96.4,40.55,approx,,,xuanzang
+xz-09,莫贺延碛,,,other,94.5,42.0,approx,,,xuanzang
+xz-10,伊吾,新疆哈密,,city,93.51,42.82,approx,,,xuanzang|tiangong
+xz-11,高昌王城,新疆吐鲁番高昌故城,,city,89.53,42.85,approx,,,xuanzang
+xz-12,屈支,,,city,82.96,41.72,approx,,,xuanzang
+xz-13,凌山,,,mountain,78.45,41.42,approx,,,xuanzang
+xz-14,素叶城,,,city,75.2,42.8,approx,,,xuanzang
+xz-15,活国,阿富汗昆都士,,city,68.86,36.73,approx,,,xuanzang
+xz-16,梵衍那,阿富汗巴米扬,,city,67.83,34.82,approx,,,xuanzang
+xz-17,迦毕试,阿富汗喀布尔以北贝格拉姆,,city,69.27,35.0,approx,,,xuanzang
+xz-18,那揭罗曷,阿富汗贾拉拉巴德,,city,70.45,34.43,approx,,,xuanzang
+xz-19,健驮逻国都布路沙布罗,巴基斯坦白沙瓦,,city,71.57,34.01,approx,,,xuanzang
+xz-20,迦湿弥罗,克什米尔斯利那加,,city,74.8,34.08,approx,,,xuanzang
+xz-21,至那仆底,印度旁遮普邦阿姆利则—菲罗兹布尔一带,,city,74.87,31.28,approx,,,xuanzang
+xz-22,羯若鞠阇,,,city,79.92,27.05,approx,,,xuanzang
+xz-23,阿踰陀国附近殑伽河上,北方邦坎普尔以东一带,,water,80.6,26.4,approx,,,xuanzang
+xz-24,钵逻耶伽,印度北方邦普拉亚格拉杰,,city,81.88,25.43,approx,,,xuanzang
+xz-25,室罗伐悉底,,,city,82.04,27.52,approx,,,xuanzang
+xz-26,劫比罗伐窣堵,,,city,83.05,27.58,approx,,,xuanzang
+xz-27,拘尸那揭罗,北方邦库希纳加尔,,city,83.89,26.74,approx,,,xuanzang
+xz-28,婆罗痆斯鹿野苑,北方邦瓦拉纳西萨尔纳特,,site,83.02,25.38,approx,,,xuanzang
+xz-29,菩提树,比哈尔邦菩提伽耶,,site,84.99,24.7,approx,,,xuanzang
+xz-30,那烂陀寺,比哈尔邦那烂陀遗址,,temple,85.44,25.14,approx,,,xuanzang
+xz-31,伊烂拏钵伐多,比哈尔邦蒙吉尔一带,,city,86.47,25.38,approx,,,xuanzang
+xz-32,耽摩栗底,西孟加拉邦坦姆卢克,,city,87.92,22.3,approx,,,xuanzang
+xz-33,南憍萨罗,恰蒂斯加尔邦西尔布尔一带,,city,82.18,21.35,approx,,,xuanzang
+xz-34,驮那羯磔迦,安得拉邦阿马拉瓦蒂,,city,80.36,16.58,approx,,,xuanzang
+xz-35,达罗毗荼国都建志补罗,泰米尔纳德邦甘吉布勒姆,,city,79.7,12.83,approx,,,xuanzang
+xz-36,伐腊毗,古吉拉特邦瓦拉,,city,71.88,21.87,approx,,,xuanzang
+xz-37,钵伐多,巴基斯坦旁遮普省，木尔坦东北,,city,73.0,31.5,approx,,,xuanzang
+xz-38,低罗择迦寺,比哈尔邦特尔哈拉,,temple,85.18,25.27,approx,,,xuanzang
+xz-39,杖林山,比哈尔邦杰蒂安一带,,mountain,85.22,24.93,approx,,,xuanzang
+xz-40,迦摩缕波,阿萨姆邦古瓦哈蒂,,city,91.75,26.14,approx,,,xuanzang
+xz-41,曲女城大会,北方邦卡瑙季,,site,79.92,27.05,approx,,,xuanzang
+xz-42,钵逻耶伽大施场,北方邦普拉亚格拉杰,,site,81.88,25.43,approx,,,xuanzang
+xz-43,乌铎迦汉荼城·信度河渡口,巴基斯坦欣德/阿托克附近,,water,72.43,34.03,approx,,,xuanzang
+xz-44,波谜罗川,,,mountain,73.72,37.45,approx,,,xuanzang
+xz-45,朅盘陀,新疆塔什库尔干,,city,75.23,37.77,approx,,,xuanzang
+xz-46,瞿萨旦那,,,city,79.92,37.11,approx,,,xuanzang
+xz-47,纳缚波故国,,,city,89.92,40.52,approx,,,xuanzang
+xz-48,沙州,甘肃敦煌,,city,94.66,40.14,approx,,,xuanzang
+xz-50,洛阳宫仪鸾殿,河南洛阳,,palace,112.45,34.68,approx,,,xuanzang
+xz-51,长安弘福寺,陕西西安,,temple,108.93,34.28,approx,,,xuanzang
+xz-52,玉华宫,陕西铜川市印台区玉华镇,,palace,109.08,35.28,approx,,,xuanzang
+xz-53,大慈恩寺,陕西西安大雁塔,,temple,108.96,34.22,approx,,,xuanzang
+xz-54,玉华寺,,,temple,109.08,35.28,approx,,,xuanzang
+xz-55,浐水之东白鹿原,陕西西安灞桥区白鹿原西缘,,site,109.05,34.22,approx,,,xuanzang
+xz-56,樊川北原,陕西西安长安区兴教寺,,temple,108.98,34.07,approx,,,xuanzang
+xz-bailuyuan,白鹿原初葬地,,,site,109.05,34.25,approx,,,xuanzang
+xz-ciensi,大慈恩寺,,,temple,108.9643,34.2197,approx,,,xuanzang
+xz-dayanta,慈恩寺塔,,,site,108.9643,34.2197,approx,,,xuanzang
+xz-hongfayuan,北阙弘法院,,,palace,108.94,34.28,approx,,,xuanzang
+xz-hongfusi,弘福寺,,,temple,108.915,34.283,approx,,,xuanzang
+xz-nanjing_dinggu,南京玄奘顶骨,,,site,118.797,32.063,approx,,,xuanzang
+xz-ximingsi,西明寺,,,temple,108.918,34.247,approx,,,xuanzang
+xz-xingjiaosi,樊川北原改葬地,,,site,108.99,34.12,approx,,,xuanzang
+xz-yuhua,玉华宫,,,site,109.26,35.43,approx,,,xuanzang
+yanfu,崇恩演福禅寺,无存,,temple,120.133,30.243,town,qiantang,,linan
+yang_cunzhong_zhai,杨沂中（杨存中，和王）宅,今羊坝头—清河坊一带（推测）,,residence,120.167,30.249,point,qiantang,,linan
+yanguanxiang_yujie,严官巷御街遗址,严官巷与中山南路交会处，南宋御街陈列馆,,other,120.1715,30.2405,point,qiantang,,linan
+yanqiao,盐桥,中河上，今解放路北、盐桥（中河中路）,,bridge,120.1765,30.2585,point,qiantang,,linan
+yanshan,铅山诸邑,江西铅山,,city,117.704,28.3181,县一级,,,tiangong
+yanxiang,四圣延祥观,无存（孤山）,,taoist,120.147,30.2565,town,qiantang,,linan
+yanzhou,兖州府,山东兖州,,city,116.8333,35.55,府一级,,,tiangong
+yaoan,姚安府,云南姚安,,city,101.2371,25.5085,府一级,,,tiangong
+yazhou,雅州,四川雅安,,city,103.0007,29.9888,县一级,,,tiangong
+yazhou_hn,琼州崖州,海南三亚,,city,109.5036,18.2533,州一级,,,tiangong
+yecheng_beiwuzhuang,邺城北吴庄佛教造像窖藏,邺城北吴庄佛教造像窖藏,,site,114.33,36.27,town,,东魏–北齐,liuchao
+yecheng_zhaopengcheng,邺城赵彭城北朝佛寺遗址,邺城赵彭城北朝佛寺遗址,,site,114.35,36.28,town,,东魏–北齐,liuchao
+yiling,夷陵,湖北宜昌,,city,111.2803,30.7083,县一级,,,tiangong
+yingtaoyuan,樱桃园,钱湖门外（位置未能核准，推测）,,garden,120.157,30.234,point,qiantang,,linan
+yishi,猗氏,山西临猗,,city,110.7726,35.1433,县一级,,,tiangong
+yishui,沂水,山东沂水,,city,118.627,35.79,县一级,,,tiangong
+yiyang_hn,宜阳赵保山,河南宜阳,,city,112.1779,34.5172,县一级,,,tiangong
+yizhen,扬州仪真,江苏仪征,,city,119.1619,32.2739,县一级,,,tiangong
+yongfu,永福寺,永福寺,杭州西湖区 石笋峰,temple,120.0965,30.2372,town,qiantang,,liuchao|linan
+yongjia,永嘉,浙江温州,,city,120.6561,27.9991,县一级,,,tiangong
+yongning,洛阳永宁寺,洛阳永宁寺,,site,112.47,34.73,town,,北魏,liuchao
+yongning_hn,永宁秋树坡,河南洛宁,,city,111.6467,34.3897,县一级,,,tiangong
+yongzhou,永州府,湖南永州,,city,111.5953,26.4515,府一级,,,tiangong
+youqi,幽栖寺,祖堂山幽栖寺,南京江宁区 祖堂山,temple,118.762,31.902,town,jiankang,,liuchao
+yousheng,佑圣观,无存（佑圣观路名存）,,taoist,120.1765,30.249,town,qiantang,,linan
+yuanzhou,江西袁郡及新喻邑,江西宜春,,city,114.383,27.8041,县一级,,,tiangong
+yuanzhou_hg,辰州沅州,湖南芷江,,city,109.6859,27.4396,州一级,,,tiangong
+yujie,御街,今中山南路—中山中路—中山北路一线,,street,120.1705,30.252,point,qiantang,,linan
+yujinyuan,玉津园,嘉会门外南约四里，今玉皇山东南麓、八卦田—南宋官窑一带（推定）,,garden,120.17,30.211,point,qiantang,,linan
+yungang,云冈石窟,云冈石窟,,site,113.12,40.11,town,,北魏,liuchao
+yunmen,云门寺,云门寺,绍兴柯桥区 平水镇,temple,120.669,29.923,town,kuaiji,,liuchao
+yunqi,云栖寺,云栖竹径,杭州 五云山南,temple,120.111,30.201,town,qiantang,,liuchao|linan
+yunyan,虎丘山寺,虎丘云岩寺,苏州姑苏区 虎丘,temple,120.577,31.337,town,wujun,,liuchao|linan
+yuqing,玉清宫,无存（葛岭今抱朴道院为明清以后所建，与宋宫是否同址待考）,,taoist,120.145,30.263,town,qiantang,,linan
+yutian,顺天玉田,河北玉田,,city,117.7476,39.8852,县一级,,,tiangong
+yuzhou,开封禹州,河南禹州,,city,113.4733,34.1511,州一级,,,tiangong
+zhangpu,福建漳浦,福建漳浦,,city,117.6091,24.1204,县一级,,,tiangong
+zhangqiu,张秋镇（阳谷,山东阳谷张秋,,city,116.05,36.06,county,,,yunhe
+zhangzhou,漳郡,福建漳州,,city,117.6612,24.5093,县一级,,,tiangong
+zhaoqing,昭庆寺,旧址（今少年宫一带）,杭州 北山街东端,temple,120.158,30.264,town,qiantang,,liuchao|linan|hupan
+zhengding,真定府,河北正定,,city,114.5651,38.146,府一级,,,tiangong
+zhenhai,镇海,浙江宁波镇海,,city,121.72,29.95,city,,,haiguo
+zhenyuan,镇沅,云南镇沅,,city,101.1072,24.0075,县一级,,,tiangong
+zhiguo,上智果院,无存（原址待考）,,temple,120.1455,30.261,town,qiantang,,linan|hupan
+zhonganqiao,众安桥,今众安桥（庆春路中山中路口一带，河已填）,,bridge,120.169,30.259,point,qiantang,,linan
+zhongtz,中天竺,法净寺,杭州西湖区 天竺路,temple,120.114,30.232,town,qiantang,,liuchao|linan
+zhongwazi,中瓦子,今中山中路惠民路口一带（推定）,,street,120.1705,30.2505,point,qiantang,,linan
+zhuozhou,涿郡（治蓟）,河北涿州,,city,115.97,39.49,county,,,yunhe
+zongxue,宗学,睦亲坊（今中山中路官巷口北一带，推定）,,academy,120.17,30.256,point,qiantang,,linan
+zongyang,宗阳宫,无存（德寿宫遗址已发掘）,,taoist,120.1775,30.2505,town,qiantang,,linan
+zsyz,钟山南朝建筑遗址,性质待定,南京钟山,temple,118.828,32.08,town,jiankang,,liuchao
+zunhua,遵化,河北遵化,,city,117.9593,40.1881,县一级,,,tiangong
+zhaoqingfu,肇庆,广东肇庆,,city,112.47,23.05,county,,,kunyu
+gate-fengshanmen,凤山门,今凤山水城门遗址（中河南路）,,gate,120.1705,30.2342,point,qiantang,,linan
+gate-wangjiangmen,永昌门,今望江门（望江路一带）,,gate,120.1895,30.2385,point,qiantang,,linan
+gate-qingtaimen,清泰门,今清泰街东端,,gate,120.192,30.25,point,qiantang,,linan
+gate-qingchunmen,庆春门,今庆春路东端,,gate,120.191,30.262,point,qiantang,,linan
+zhufangcheng,杭州驻防城（满城）,今湖滨、延安路以西一带,,site,120.1636,30.2575,point,qiantang,,linan
+yanggongdi,杨公堤,今杨公堤（西湖西岸）,,other,120.1352,30.245,point,qiantang,,linan
+chengzhan,杭州城站,今杭州站,,other,120.1945,30.2472,point,qiantang,,linan
+xinshichang,新市场,今湖滨一带,,street,120.1638,30.2572,point,qiantang,,linan|hupan
+xihu-bolanhui,西湖博览会会场,今北山路、孤山一带,,other,120.1505,30.2628,point,qiantang,,linan|hupan
+qiantangjiang-daqiao,钱塘江大桥,今钱塘江大桥（六和塔东）,,bridge,120.1415,30.2008,point,qiantang,,linan
+xinxin-fandian,新新饭店,今北山街58号,,other,120.1494,30.2617,point,qiantang,,hupan
+guyun-caoshe,孤云草舍,今新新饭店西楼,,residence,120.1488,30.262,point,qiantang,,hupan
+qiushui-shanzhuang,秋水山庄,今北山街，新新饭店西侧,,residence,120.1482,30.2618,point,qiantang,,hupan
+jianpao-bieshu,坚匏别墅,今北山街29、31、32号,,residence,120.152,30.2622,point,qiantang,,hupan
+baoqing-bieshu,抱青别墅,今北山街38—40号,,residence,120.1508,30.2622,point,qiantang,,hupan
+jingyi-bieshu,静逸别墅,今葛岭路,,residence,120.1445,30.2645,point,qiantang,,hupan
+zhaoxian-si,招贤寺,今北山街60号,,temple,120.1475,30.2619,point,qiantang,,hupan
+hupan-xiaowu,湖畔小屋,今原静江路85号（今北山街85号）,,residence,120.1458,30.2614,point,qiantang,,hupan
+beishan-84,北山街84号大院,今北山街84号,,office,120.1462,30.2623,point,qiantang,,hupan
+hangzhou-fandian,杭州饭店,今北山街，西泠桥北,,other,120.1437,30.2612,point,qiantang,,hupan
+yue-miao,岳庙,今北山街西端,,temple,120.1425,30.2606,point,qiantang,,hupan
+huang-binhong-jiuju,黄宾虹旧居,今栖霞岭31号（原32号）,,residence,120.1418,30.264,point,qiantang,,hupan
+lin-fengmian-yuquan,林风眠玉泉别墅,今灵隐路3号（原岳坟街102号）,,residence,120.1345,30.264,point,qiantang,,hupan
+guangji-yiyuan,广济医院,广济医院,,office,120.1545,30.2655,point,qiantang,,hupan
+xiling-yinshe,西泠印社,西泠印社,,office,120.1438,30.256,point,qiantang,,hupan
+zhejiang-tushuguan,浙江图书馆孤山馆舍与文澜阁,浙江图书馆孤山馆舍与文澜阁,,office,120.1463,30.2555,point,qiantang,,hupan
+yu-lou,俞楼,俞楼,,residence,120.1436,30.2555,point,qiantang,,hupan
+louwailou,楼外楼,楼外楼,,market,120.1446,30.2555,point,qiantang,,hupan
+luoyuan,罗苑,罗苑,,academy,120.1472,30.2557,point,qiantang,,hupan
+zhongshan-gongyuan,中山公园,中山公园,,garden,120.1455,30.2557,point,qiantang,,hupan
+pinghu-qiuyue,平湖秋月,平湖秋月,,site,120.1482,30.2566,point,qiantang,,hupan
+qiujin-mu,秋瑾墓,秋瑾墓,,site,120.1432,30.2569,point,qiantang,,hupan
+su-xiaoxiao-mu,苏小小墓,苏小小墓,,site,120.1427,30.2582,point,qiantang,,hupan
+wusong-mu,武松墓,武松墓,,site,120.1422,30.2587,point,qiantang,,hupan
+su-manshu-mu,苏曼殊墓,苏曼殊墓,,site,120.1448,30.257,point,qiantang,,hupan
+xinhai-lieshi-mu,孤山辛亥烈士墓群,孤山辛亥烈士墓群,,site,120.1478,30.2568,point,qiantang,,hupan
+baijingfang,百井坊旗人平屋,今百井坊巷,,residence,,,unknown,qiantang,,hupan
+hubin-gongyuan,湖滨公园（一至六公园）,湖滨公园（一至六公园）,,garden,120.1597,30.2555,point,qiantang,,hupan
+chen-yingshi-xiang,陈英士铜像,陈英士铜像,,site,120.1596,30.2543,point,qiantang,,hupan
+beifa-ta,北伐阵亡将士纪念塔,北伐阵亡将士纪念塔,,site,120.1596,30.2532,point,qiantang,,hupan
+songhu-bei,淞沪战役阵亡将士纪念碑,淞沪战役阵亡将士纪念碑,,site,120.1597,30.2562,point,qiantang,,hupan
+gongzhong-tiyuchang,湖滨公众体育场,湖滨公众体育场,,garden,120.1603,30.251,point,qiantang,,hupan
+zhiweiguan,知味观,今湖滨仁和路,,market,120.1622,30.2555,point,qiantang,,hupan
+huaqiao-fandian,华侨饭店,华侨饭店,,other,120.1597,30.2568,point,qiantang,,hupan
+erwoxuan,二我轩照相馆,二我轩照相馆,,market,120.1597,30.2522,point,qiantang,,hupan
+erwoye,二我也照相馆,今平海路、湖滨路口,,market,120.16,30.2571,point,qiantang,,hupan
+xu-qingfu-jiuju,徐青甫旧居,今长生路32号,,residence,120.1625,30.2588,point,qiantang,,hupan
+chenglu,澄庐,今南山路189号,,residence,120.16,30.2488,point,qiantang,,hupan
+henglu,恒庐,今南山路202号,,residence,120.1601,30.2474,point,qiantang,,hupan
+nanshanlu-jiuba,南山路酒吧街,南山路酒吧街,,market,120.1598,30.246,point,qiantang,,hupan
+wang-zhuang,汪庄,今浙江西子宾馆,,residence,120.1515,30.232,point,qiantang,,hupan
+zhang-taiyan-mu,章太炎墓·张苍水墓,今南山路2-1号（章太炎纪念馆）,,site,120.1478,30.2268,point,qiantang,,hupan
+jiang-zhuang,蒋庄,今花港观鱼公园东大门南侧,,residence,120.1435,30.23,point,qiantang,,hupan
+huagang-gongyuan,花港公园,今苏堤南端西侧,,garden,120.1422,30.2313,point,qiantang,,hupan
+liu-zhuang,刘庄,今西湖国宾馆,,residence,120.136,30.232,point,qiantang,,hupan
+guo-zhuang,郭庄,今杨公堤卧龙桥北,,residence,120.1375,30.258,point,qiantang,,hupan
+yannan-jilu,燕南寄庐,今金沙港,,residence,120.1362,30.2562,point,qiantang,,hupan
+du-jinsheng-chang,都锦生丝织厂,今茅家埠（创业地）,,office,120.1305,30.247,point,qiantang,,hupan
+huofo-zhaoxiangguan,活佛照相馆,今梅花碑（最初店址）,,market,120.169,30.2455,point,qiantang,,hupan
+jiushiwo-zhaoxiangguan,就是我照相馆,今城站（今火车站广场西北面）,,market,120.181,30.2465,point,qiantang,,hupan
+yu-zhai-jishanfang,积善坊巷8号余宅,今积善坊巷8号,,residence,120.1665,30.2518,point,qiantang,,hupan
+huilan-zhongxue,蕙兰中学,蕙兰中学,,academy,,,unknown,qiantang,,hupan
+jiang-jingguo-jiuju,蒋经国旧居,今北山街8号,,residence,120.1531,30.262,point,qiantang,,hupan
+riben-lingshiguan,日本驻杭领事馆旧址,今石函路1号,,office,120.1545,30.2618,point,qiantang,,hupan
+shihan-6-bieshu,石函路6号别墅,今石函路6号,,residence,120.1547,30.2623,point,qiantang,,hupan
+shihan-moya,石函路摩崖题刻群,今石函路依山崖壁,,site,120.1542,30.2627,point,qiantang,,hupan
+wanghu-lou,望湖楼,今保俶路与北山街转角,,site,120.1533,30.2613,point,qiantang,,hupan
+zhegan-tieluju,浙赣铁路局旧址,今北山街13号,,office,120.1524,30.2628,point,qiantang,,hupan
+mile-yuan,弥勒院,今北山街27号（栖霞小筑）,,temple,120.1529,30.2637,point,qiantang,,hupan
+donglin-si,东林寺,今北山街30号,,temple,120.15209,30.2625,point,qiantang,,hupan
+baoshishan-zaoxiang,宝石山造像,今宝石山下一弄西段上山石径南侧崖壁,,site,120.1538,30.2638,point,qiantang,,hupan
+guanyue-paifang,关岳庙昭忠祠牌坊,今宝石山东麓,,site,120.1539,30.2643,point,qiantang,,hupan
+baoqing-tang,宝庆堂,今宝石山下一弄5号,,temple,120.1541,30.2634,point,qiantang,,hupan
+run-lu,润庐,今宝石山前山路1号（原葛岭山路2号）,,residence,120.1517,30.2632,point,qiantang,,hupan
+liuyu-caotang,留余草堂,今大佛寺背后，宝石山南麓,,residence,120.1527,30.2642,point,qiantang,,hupan
+sun-huaweng-mu,孙花翁墓,今北山街29号旁（青竹茶舍一带）,,site,120.1523,30.2619,point,qiantang,,hupan
+ru-lu,如庐,今北山街34号（原葛岭山麓3号）,,residence,120.1517,30.2626,point,qiantang,,hupan
+haiyan-guan,海盐馆,今北山街35号（民国门牌里西湖13号）,,residence,120.15155,30.262,point,qiantang,,hupan
+sheng-lu,省庐,今北山街36号,,residence,120.1514,30.2624,point,qiantang,,hupan
+yuxiu-an,毓秀庵,今北山街37号,,temple,120.15125,30.2619,point,qiantang,,hupan
+xibohui-gongyeguan,西湖博览会工业馆旧址,今北山街41—42号,,office,120.15068,30.2618,point,qiantang,,hupan
+wangzhuang-beishan,王庄,今北山街43号,,residence,120.15056,30.2627,point,qiantang,,hupan
+puti-jingshe,菩提精舍,今北山街44—50号（又作45—47号）,,temple,120.1503,30.2621,point,qiantang,,hupan
+chunrun-lu,春润庐,今北山街54号,,residence,120.1498,30.2621,point,qiantang,,hupan
+fuju-an,福居庵,今北山街55号,,temple,120.1497,30.2625,point,qiantang,,hupan
+geyin-shanzhuang,葛荫山庄,葛荫山庄,,residence,120.1479,30.2613,point,qiantang,,hupan
+chen-wenlong-mu,陈文龙墓,陈文龙墓,,site,120.1447,30.2633,point,qiantang,,hupan
+le-lu,乐庐,今葛岭路18号,,residence,120.1455,30.26505,point,qiantang,,hupan
+baopu-daoyuan,抱朴道院,抱朴道院,,taoist,120.1449,30.266,point,qiantang,,hupan
+baopu-lu,抱朴庐,抱朴庐,,residence,120.1445,30.2657,point,qiantang,,hupan
+chuyang-tai,初阳台,初阳台,,site,120.1447,30.2668,point,qiantang,,hupan
+xi-lu,息庐,今北山街66号,,residence,120.1471,30.2621,point,qiantang,,hupan
+jiyi-lou,集艺楼,今北山街69号,,residence,120.14693,30.2624,point,qiantang,,hupan
+pan-zhai,潘宅,今北山街75号,,residence,120.1466,30.2621,point,qiantang,,hupan
+beishan-76,北山路76号别墅,今北山街76号,,residence,120.14654,30.2625,point,qiantang,,hupan
+tang-enbo-bieshu,汤恩伯别墅,今北山街84号大院30号（原葛岭路30号）,,residence,120.1459,30.2632,point,qiantang,,hupan
+sui-lu,穗庐,今北山街94号,,residence,120.1448,30.263,point,qiantang,,hupan
+beishan-95,北山路95号别墅,今北山街95号,,residence,120.14467,30.2621,point,qiantang,,hupan
+gong-zhai,龚宅,今北山街97号,,residence,120.1444,30.262,point,qiantang,,hupan
+dongshan-bieshu,东山别墅,今北山街100号（民国门牌岳坟98号）,,residence,120.1438,30.2621,point,qiantang,,hupan
+wanzi-caotang,卍字草堂,卍字草堂,,residence,120.1434,30.2627,point,qiantang,,hupan
+zhangxian-mu,张宪墓遗址,张宪墓遗址,,site,120.1431,30.2621,point,qiantang,,hupan
+quyuan-yubei,曲院风荷御碑,曲院风荷御碑,,site,120.142,30.2603,point,qiantang,,hupan
+dielai-fandian,蝶来饭店,今杭州饭店（香格里拉）址,,other,120.1434,30.2616,point,qiantang,,hupan
+ziyun-dong,紫云洞,紫云洞,,site,120.1416,30.265,point,qiantang,,hupan
+niugao-mu,牛皋墓,牛皋墓,,site,120.1419,30.2646,point,qiantang,,hupan
+shuangtong-an,双桐庵,双桐庵,,temple,120.1422,30.2643,point,qiantang,,hupan
+miaozhi-an,妙智庵,妙智庵,,temple,120.1414,30.2644,point,qiantang,,hupan
+xu-fanting-tike,续范亭「尽此一报」题刻,续范亭「尽此一报」题刻,,site,120.1421,30.2649,point,qiantang,,hupan
+helin-daoyuan,鹤林道院,鹤林道院,,taoist,120.1417,30.2656,point,qiantang,,hupan
+ao-jiaxiong-bei,敖嘉熊纪念碑,敖嘉熊纪念碑,,site,120.142,30.2637,point,qiantang,,hupan
+bai-lu,柏庐,柏庐,,residence,120.1556,30.2607,point,qiantang,,hupan
+xiling-qiao,西泠桥,西泠桥,,site,120.143,30.2595,point,qiantang,,hupan
+diechao,蝶巢,蝶巢,,site,,,unknown,qiantang,,hupan
+yiyun-jilu,逸云寄庐,今孤山路2号（1927年门牌为孤山路16号）,,residence,,,unknown,qiantang,,hupan
+maling-shanfang,马岭山房,今玉泉路1号（植物园内）,,residence,120.1341,30.2635,point,qiantang,,hupan
+sha-menghai-jiuju,沙孟海旧居,今龙游路（门牌有15号、82号两说）,,residence,,,unknown,qiantang,,hupan
+gai-jiaotian-mu,盖叫天墓,今丁家山麓，西山路（杨公堤）边,,site,120.1388,30.2423,point,qiantang,,hupan
